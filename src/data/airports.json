@@ -1,0 +1,282 @@
+[
+  {
+    "code": "BOM",
+    "name": "Chhatrapati Shivaji Maharaj International Airport",
+    "cityId": "bom",
+    "lat": 19.076,
+    "lng": 72.8777
+  },
+  {
+    "code": "DEL",
+    "name": "Indira Gandhi International Airport",
+    "cityId": "del",
+    "lat": 28.6139,
+    "lng": 77.209
+  },
+  {
+    "code": "BLR",
+    "name": "Kempegowda International Airport",
+    "cityId": "blr",
+    "lat": 12.9716,
+    "lng": 77.5946
+  },
+  {
+    "code": "HYD",
+    "name": "Rajiv Gandhi International Airport",
+    "cityId": "hyd",
+    "lat": 17.385,
+    "lng": 78.4867
+  },
+  {
+    "code": "MAA",
+    "name": "Chennai International Airport",
+    "cityId": "maa",
+    "lat": 13.0827,
+    "lng": 80.2707
+  },
+  {
+    "code": "CCU",
+    "name": "Netaji Subhas Chandra Bose International Airport",
+    "cityId": "ccu",
+    "lat": 22.5726,
+    "lng": 88.3639
+  },
+  {
+    "code": "PNQ",
+    "name": "Pune Airport",
+    "cityId": "pnq",
+    "lat": 18.5204,
+    "lng": 73.8567
+  },
+  {
+    "code": "AMD",
+    "name": "Sardar Vallabhbhai Patel International Airport",
+    "cityId": "amd",
+    "lat": 23.0225,
+    "lng": 72.5714
+  },
+  {
+    "code": "JAI",
+    "name": "Jaipur International Airport",
+    "cityId": "jai",
+    "lat": 26.9124,
+    "lng": 75.7873
+  },
+  {
+    "code": "GOI",
+    "name": "Manohar International Airport",
+    "cityId": "goi",
+    "lat": 15.2993,
+    "lng": 74.124
+  },
+  {
+    "code": "COK",
+    "name": "Cochin International Airport",
+    "cityId": "cok",
+    "lat": 9.9312,
+    "lng": 76.2673
+  },
+  {
+    "code": "LKO",
+    "name": "Chaudhary Charan Singh International Airport",
+    "cityId": "lko",
+    "lat": 26.8467,
+    "lng": 80.9462
+  },
+  {
+    "code": "IXC",
+    "name": "Chandigarh Airport",
+    "cityId": "ixc",
+    "lat": 30.7333,
+    "lng": 76.7794
+  },
+  {
+    "code": "GAU",
+    "name": "Lokpriya Gopinath Bordoloi International Airport",
+    "cityId": "gau",
+    "lat": 26.1445,
+    "lng": 91.7362
+  },
+  {
+    "code": "BBI",
+    "name": "Biju Patnaik International Airport",
+    "cityId": "bbi",
+    "lat": 20.2961,
+    "lng": 85.8245
+  },
+  {
+    "code": "IDR",
+    "name": "Devi Ahilya Bai Holkar Airport",
+    "cityId": "idr",
+    "lat": 22.7196,
+    "lng": 75.8577
+  },
+  {
+    "code": "NAG",
+    "name": "Dr. Babasaheb Ambedkar International Airport",
+    "cityId": "nag",
+    "lat": 21.1458,
+    "lng": 79.0882
+  },
+  {
+    "code": "VNS",
+    "name": "Lal Bahadur Shastri Airport",
+    "cityId": "vns",
+    "lat": 25.3176,
+    "lng": 82.9739
+  },
+  {
+    "code": "ATQ",
+    "name": "Sri Guru Ram Dass Jee International Airport",
+    "cityId": "atq",
+    "lat": 31.634,
+    "lng": 74.8723
+  },
+  {
+    "code": "SXR",
+    "name": "Sheikh ul-Alam International Airport",
+    "cityId": "sxr",
+    "lat": 34.0837,
+    "lng": 74.7973
+  },
+  {
+    "code": "DXB",
+    "name": "Dubai International Airport",
+    "cityId": "dxb",
+    "lat": 25.2048,
+    "lng": 55.2708
+  },
+  {
+    "code": "SIN",
+    "name": "Singapore Changi Airport",
+    "cityId": "sin",
+    "lat": 1.3521,
+    "lng": 103.8198
+  },
+  {
+    "code": "BKK",
+    "name": "Suvarnabhumi Airport",
+    "cityId": "bkk",
+    "lat": 13.7563,
+    "lng": 100.5018
+  },
+  {
+    "code": "DPS",
+    "name": "Ngurah Rai International Airport",
+    "cityId": "dps",
+    "lat": -8.3405,
+    "lng": 115.092
+  },
+  {
+    "code": "KUL",
+    "name": "Kuala Lumpur International Airport",
+    "cityId": "kul",
+    "lat": 3.139,
+    "lng": 101.6869
+  },
+  {
+    "code": "LHR",
+    "name": "Heathrow Airport",
+    "cityId": "lhr",
+    "lat": 51.5072,
+    "lng": -0.1276
+  },
+  {
+    "code": "CDG",
+    "name": "Charles de Gaulle Airport",
+    "cityId": "cdg",
+    "lat": 48.8566,
+    "lng": 2.3522
+  },
+  {
+    "code": "JFK",
+    "name": "John F. Kennedy International Airport",
+    "cityId": "jfk",
+    "lat": 40.7128,
+    "lng": -74.006
+  },
+  {
+    "code": "HND",
+    "name": "Haneda Airport",
+    "cityId": "hnd",
+    "lat": 35.6762,
+    "lng": 139.6503
+  },
+  {
+    "code": "SYD",
+    "name": "Sydney Kingsford Smith Airport",
+    "cityId": "syd",
+    "lat": -33.8688,
+    "lng": 151.2093
+  },
+  {
+    "code": "FCO",
+    "name": "Leonardo da Vinci–Fiumicino Airport",
+    "cityId": "fco",
+    "lat": 41.9028,
+    "lng": 12.4964
+  },
+  {
+    "code": "IST",
+    "name": "Istanbul Airport",
+    "cityId": "ist",
+    "lat": 41.0082,
+    "lng": 28.9784
+  },
+  {
+    "code": "DOH",
+    "name": "Hamad International Airport",
+    "cityId": "doh",
+    "lat": 25.2854,
+    "lng": 51.531
+  },
+  {
+    "code": "HKG",
+    "name": "Hong Kong International Airport",
+    "cityId": "hkg",
+    "lat": 22.3193,
+    "lng": 114.1694
+  },
+  {
+    "code": "ICN",
+    "name": "Incheon International Airport",
+    "cityId": "icn",
+    "lat": 37.5665,
+    "lng": 126.978
+  },
+  {
+    "code": "AMS",
+    "name": "Amsterdam Airport Schiphol",
+    "cityId": "ams",
+    "lat": 52.3676,
+    "lng": 4.9041
+  },
+  {
+    "code": "MLE",
+    "name": "Velana International Airport",
+    "cityId": "mle",
+    "lat": 4.1755,
+    "lng": 73.5093
+  },
+  {
+    "code": "KTM",
+    "name": "Tribhuvan International Airport",
+    "cityId": "ktm",
+    "lat": 27.7172,
+    "lng": 85.324
+  },
+  {
+    "code": "CMB",
+    "name": "Bandaranaike International Airport",
+    "cityId": "cmb",
+    "lat": 6.9271,
+    "lng": 79.8612
+  },
+  {
+    "code": "SFO",
+    "name": "San Francisco International Airport",
+    "cityId": "sfo",
+    "lat": 37.7749,
+    "lng": -122.4194
+  }
+]

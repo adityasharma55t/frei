@@ -1,0 +1,402 @@
+[
+  {
+    "id": "bom",
+    "name": "Mumbai",
+    "country": "India",
+    "countryCode": "IN",
+    "timezone": "Asia/Kolkata",
+    "lat": 19.076,
+    "lng": 72.8777,
+    "image": "https://cdn.frei.app/cities/bom.jpg"
+  },
+  {
+    "id": "del",
+    "name": "Delhi",
+    "country": "India",
+    "countryCode": "IN",
+    "timezone": "Asia/Kolkata",
+    "lat": 28.6139,
+    "lng": 77.209,
+    "image": "https://cdn.frei.app/cities/del.jpg"
+  },
+  {
+    "id": "blr",
+    "name": "Bengaluru",
+    "country": "India",
+    "countryCode": "IN",
+    "timezone": "Asia/Kolkata",
+    "lat": 12.9716,
+    "lng": 77.5946,
+    "image": "https://cdn.frei.app/cities/blr.jpg"
+  },
+  {
+    "id": "hyd",
+    "name": "Hyderabad",
+    "country": "India",
+    "countryCode": "IN",
+    "timezone": "Asia/Kolkata",
+    "lat": 17.385,
+    "lng": 78.4867,
+    "image": "https://cdn.frei.app/cities/hyd.jpg"
+  },
+  {
+    "id": "maa",
+    "name": "Chennai",
+    "country": "India",
+    "countryCode": "IN",
+    "timezone": "Asia/Kolkata",
+    "lat": 13.0827,
+    "lng": 80.2707,
+    "image": "https://cdn.frei.app/cities/maa.jpg"
+  },
+  {
+    "id": "ccu",
+    "name": "Kolkata",
+    "country": "India",
+    "countryCode": "IN",
+    "timezone": "Asia/Kolkata",
+    "lat": 22.5726,
+    "lng": 88.3639,
+    "image": "https://cdn.frei.app/cities/ccu.jpg"
+  },
+  {
+    "id": "pnq",
+    "name": "Pune",
+    "country": "India",
+    "countryCode": "IN",
+    "timezone": "Asia/Kolkata",
+    "lat": 18.5204,
+    "lng": 73.8567,
+    "image": "https://cdn.frei.app/cities/pnq.jpg"
+  },
+  {
+    "id": "amd",
+    "name": "Ahmedabad",
+    "country": "India",
+    "countryCode": "IN",
+    "timezone": "Asia/Kolkata",
+    "lat": 23.0225,
+    "lng": 72.5714,
+    "image": "https://cdn.frei.app/cities/amd.jpg"
+  },
+  {
+    "id": "jai",
+    "name": "Jaipur",
+    "country": "India",
+    "countryCode": "IN",
+    "timezone": "Asia/Kolkata",
+    "lat": 26.9124,
+    "lng": 75.7873,
+    "image": "https://cdn.frei.app/cities/jai.jpg"
+  },
+  {
+    "id": "goi",
+    "name": "Goa",
+    "country": "India",
+    "countryCode": "IN",
+    "timezone": "Asia/Kolkata",
+    "lat": 15.2993,
+    "lng": 74.124,
+    "image": "https://cdn.frei.app/cities/goi.jpg"
+  },
+  {
+    "id": "cok",
+    "name": "Kochi",
+    "country": "India",
+    "countryCode": "IN",
+    "timezone": "Asia/Kolkata",
+    "lat": 9.9312,
+    "lng": 76.2673,
+    "image": "https://cdn.frei.app/cities/cok.jpg"
+  },
+  {
+    "id": "lko",
+    "name": "Lucknow",
+    "country": "India",
+    "countryCode": "IN",
+    "timezone": "Asia/Kolkata",
+    "lat": 26.8467,
+    "lng": 80.9462,
+    "image": "https://cdn.frei.app/cities/lko.jpg"
+  },
+  {
+    "id": "ixc",
+    "name": "Chandigarh",
+    "country": "India",
+    "countryCode": "IN",
+    "timezone": "Asia/Kolkata",
+    "lat": 30.7333,
+    "lng": 76.7794,
+    "image": "https://cdn.frei.app/cities/ixc.jpg"
+  },
+  {
+    "id": "gau",
+    "name": "Guwahati",
+    "country": "India",
+    "countryCode": "IN",
+    "timezone": "Asia/Kolkata",
+    "lat": 26.1445,
+    "lng": 91.7362,
+    "image": "https://cdn.frei.app/cities/gau.jpg"
+  },
+  {
+    "id": "bbi",
+    "name": "Bhubaneswar",
+    "country": "India",
+    "countryCode": "IN",
+    "timezone": "Asia/Kolkata",
+    "lat": 20.2961,
+    "lng": 85.8245,
+    "image": "https://cdn.frei.app/cities/bbi.jpg"
+  },
+  {
+    "id": "idr",
+    "name": "Indore",
+    "country": "India",
+    "countryCode": "IN",
+    "timezone": "Asia/Kolkata",
+    "lat": 22.7196,
+    "lng": 75.8577,
+    "image": "https://cdn.frei.app/cities/idr.jpg"
+  },
+  {
+    "id": "nag",
+    "name": "Nagpur",
+    "country": "India",
+    "countryCode": "IN",
+    "timezone": "Asia/Kolkata",
+    "lat": 21.1458,
+    "lng": 79.0882,
+    "image": "https://cdn.frei.app/cities/nag.jpg"
+  },
+  {
+    "id": "vns",
+    "name": "Varanasi",
+    "country": "India",
+    "countryCode": "IN",
+    "timezone": "Asia/Kolkata",
+    "lat": 25.3176,
+    "lng": 82.9739,
+    "image": "https://cdn.frei.app/cities/vns.jpg"
+  },
+  {
+    "id": "atq",
+    "name": "Amritsar",
+    "country": "India",
+    "countryCode": "IN",
+    "timezone": "Asia/Kolkata",
+    "lat": 31.634,
+    "lng": 74.8723,
+    "image": "https://cdn.frei.app/cities/atq.jpg"
+  },
+  {
+    "id": "sxr",
+    "name": "Srinagar",
+    "country": "India",
+    "countryCode": "IN",
+    "timezone": "Asia/Kolkata",
+    "lat": 34.0837,
+    "lng": 74.7973,
+    "image": "https://cdn.frei.app/cities/sxr.jpg"
+  },
+  {
+    "id": "dxb",
+    "name": "Dubai",
+    "country": "United Arab Emirates",
+    "countryCode": "AE",
+    "timezone": "Asia/Dubai",
+    "lat": 25.2048,
+    "lng": 55.2708,
+    "image": "https://cdn.frei.app/cities/dxb.jpg"
+  },
+  {
+    "id": "sin",
+    "name": "Singapore",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "timezone": "Asia/Singapore",
+    "lat": 1.3521,
+    "lng": 103.8198,
+    "image": "https://cdn.frei.app/cities/sin.jpg"
+  },
+  {
+    "id": "bkk",
+    "name": "Bangkok",
+    "country": "Thailand",
+    "countryCode": "TH",
+    "timezone": "Asia/Bangkok",
+    "lat": 13.7563,
+    "lng": 100.5018,
+    "image": "https://cdn.frei.app/cities/bkk.jpg"
+  },
+  {
+    "id": "dps",
+    "name": "Bali",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "timezone": "Asia/Makassar",
+    "lat": -8.3405,
+    "lng": 115.092,
+    "image": "https://cdn.frei.app/cities/dps.jpg"
+  },
+  {
+    "id": "kul",
+    "name": "Kuala Lumpur",
+    "country": "Malaysia",
+    "countryCode": "MY",
+    "timezone": "Asia/Kuala_Lumpur",
+    "lat": 3.139,
+    "lng": 101.6869,
+    "image": "https://cdn.frei.app/cities/kul.jpg"
+  },
+  {
+    "id": "lhr",
+    "name": "London",
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "timezone": "Europe/London",
+    "lat": 51.5072,
+    "lng": -0.1276,
+    "image": "https://cdn.frei.app/cities/lhr.jpg"
+  },
+  {
+    "id": "cdg",
+    "name": "Paris",
+    "country": "France",
+    "countryCode": "FR",
+    "timezone": "Europe/Paris",
+    "lat": 48.8566,
+    "lng": 2.3522,
+    "image": "https://cdn.frei.app/cities/cdg.jpg"
+  },
+  {
+    "id": "jfk",
+    "name": "New York",
+    "country": "United States",
+    "countryCode": "US",
+    "timezone": "America/New_York",
+    "lat": 40.7128,
+    "lng": -74.006,
+    "image": "https://cdn.frei.app/cities/jfk.jpg"
+  },
+  {
+    "id": "hnd",
+    "name": "Tokyo",
+    "country": "Japan",
+    "countryCode": "JP",
+    "timezone": "Asia/Tokyo",
+    "lat": 35.6762,
+    "lng": 139.6503,
+    "image": "https://cdn.frei.app/cities/hnd.jpg"
+  },
+  {
+    "id": "syd",
+    "name": "Sydney",
+    "country": "Australia",
+    "countryCode": "AU",
+    "timezone": "Australia/Sydney",
+    "lat": -33.8688,
+    "lng": 151.2093,
+    "image": "https://cdn.frei.app/cities/syd.jpg"
+  },
+  {
+    "id": "fco",
+    "name": "Rome",
+    "country": "Italy",
+    "countryCode": "IT",
+    "timezone": "Europe/Rome",
+    "lat": 41.9028,
+    "lng": 12.4964,
+    "image": "https://cdn.frei.app/cities/fco.jpg"
+  },
+  {
+    "id": "ist",
+    "name": "Istanbul",
+    "country": "Turkey",
+    "countryCode": "TR",
+    "timezone": "Europe/Istanbul",
+    "lat": 41.0082,
+    "lng": 28.9784,
+    "image": "https://cdn.frei.app/cities/ist.jpg"
+  },
+  {
+    "id": "doh",
+    "name": "Doha",
+    "country": "Qatar",
+    "countryCode": "QA",
+    "timezone": "Asia/Qatar",
+    "lat": 25.2854,
+    "lng": 51.531,
+    "image": "https://cdn.frei.app/cities/doh.jpg"
+  },
+  {
+    "id": "hkg",
+    "name": "Hong Kong",
+    "country": "China",
+    "countryCode": "HK",
+    "timezone": "Asia/Hong_Kong",
+    "lat": 22.3193,
+    "lng": 114.1694,
+    "image": "https://cdn.frei.app/cities/hkg.jpg"
+  },
+  {
+    "id": "icn",
+    "name": "Seoul",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "timezone": "Asia/Seoul",
+    "lat": 37.5665,
+    "lng": 126.978,
+    "image": "https://cdn.frei.app/cities/icn.jpg"
+  },
+  {
+    "id": "ams",
+    "name": "Amsterdam",
+    "country": "Netherlands",
+    "countryCode": "NL",
+    "timezone": "Europe/Amsterdam",
+    "lat": 52.3676,
+    "lng": 4.9041,
+    "image": "https://cdn.frei.app/cities/ams.jpg"
+  },
+  {
+    "id": "mle",
+    "name": "Male",
+    "country": "Maldives",
+    "countryCode": "MV",
+    "timezone": "Indian/Maldives",
+    "lat": 4.1755,
+    "lng": 73.5093,
+    "image": "https://cdn.frei.app/cities/mle.jpg"
+  },
+  {
+    "id": "ktm",
+    "name": "Kathmandu",
+    "country": "Nepal",
+    "countryCode": "NP",
+    "timezone": "Asia/Kathmandu",
+    "lat": 27.7172,
+    "lng": 85.324,
+    "image": "https://cdn.frei.app/cities/ktm.jpg"
+  },
+  {
+    "id": "cmb",
+    "name": "Colombo",
+    "country": "Sri Lanka",
+    "countryCode": "LK",
+    "timezone": "Asia/Colombo",
+    "lat": 6.9271,
+    "lng": 79.8612,
+    "image": "https://cdn.frei.app/cities/cmb.jpg"
+  },
+  {
+    "id": "sfo",
+    "name": "San Francisco",
+    "country": "United States",
+    "countryCode": "US",
+    "timezone": "America/Los_Angeles",
+    "lat": 37.7749,
+    "lng": -122.4194,
+    "image": "https://cdn.frei.app/cities/sfo.jpg"
+  }
+]

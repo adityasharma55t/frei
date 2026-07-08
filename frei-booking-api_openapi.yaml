@@ -1,0 +1,680 @@
+openapi: 3.0.3
+info:
+  title: Frei Booking API
+  version: "1.0.0"
+  description: |
+    REST API backing the Frei travel app's Home, Add Trip, Booking, and location
+    lookup screens: cities & airports, flights between two cities, hotels and
+    attractions in a city, and trip bookings.
+
+    **Intended implementation notes** (for the engineer building this from the spec):
+    - Stack: Node.js + Express, plain JSON responses.
+    - Data backing: static JSON seed files (no DB) — `cities.json`, `airports.json`,
+      `flights.json`, `hotels.json`, `attractions.json`, `bookings.json` (bookings
+      file is read/written at runtime as the only mutable store).
+    - Seed data: ~40 Indian & international cities with airports, sample flight
+      routes between them, 2–4 hotels and 4–6 attractions per city.
+    - Deploy target: Render or Railway — a single web service running `node server.js`,
+      reading `PORT` from the environment.
+    - Auth: `bearerAuth` (Firebase ID token) is modeled below on the booking write
+      endpoints for forward-compatibility, but is **not enforced** in the current
+      deployment — all endpoints are open. Flip `security` back on per-route once
+      Firebase Admin token verification middleware is added.
+    - This spec is served live via Swagger UI at `/docs`.
+    - `/admin/api/*` is a generic, schema-driven CRUD surface over all six data
+      models, backed by an `X-Admin-Token` shared secret (see `adminToken`
+      security scheme). A matching admin UI is served as static files at `/admin`.
+servers:
+  - url: https://frei-api.onrender.com
+    description: Production (Render)
+  - url: http://localhost:4000
+    description: Local dev
+
+tags:
+  - name: Cities
+  - name: Airports
+  - name: Flights
+  - name: Hotels
+  - name: Attractions
+  - name: Bookings
+  - name: Admin
+
+components:
+  securitySchemes:
+    bearerAuth:
+      type: http
+      scheme: bearer
+      bearerFormat: Firebase ID Token
+      description: >
+        Pass the Firebase Auth ID token as `Authorization: Bearer <token>`.
+        Currently optional / not enforced server-side — see info.description.
+    adminToken:
+      type: apiKey
+      in: header
+      name: X-Admin-Token
+      description: >
+        Shared-secret token for the internal admin data-editor tool. Send as
+        `X-Admin-Token: <ADMIN_TOKEN>`. Required and enforced on every
+        `/admin/api/*` route.
+
+  parameters:
+    PageParam:
+      name: page
+      in: query
+      schema: { type: integer, minimum: 1, default: 1 }
+    LimitParam:
+      name: limit
+      in: query
+      schema: { type: integer, minimum: 1, maximum: 100, default: 20 }
+
+  schemas:
+    City:
+      type: object
+      properties:
+        id: { type: string, example: "bom" }
+        name: { type: string, example: "Mumbai" }
+        country: { type: string, example: "India" }
+        countryCode: { type: string, example: "IN" }
+        timezone: { type: string, example: "Asia/Kolkata" }
+        lat: { type: number, example: 19.076 }
+        lng: { type: number, example: 72.8777 }
+        image: { type: string, format: uri, example: "https://cdn.frei.app/cities/bom.jpg" }
+      required: [id, name, country, countryCode]
+
+    Airport:
+      type: object
+      properties:
+        code: { type: string, example: "BOM" }
+        name: { type: string, example: "Chhatrapati Shivaji Maharaj International Airport" }
+        cityId: { type: string, example: "bom" }
+        lat: { type: number }
+        lng: { type: number }
+      required: [code, name, cityId]
+
+    Flight:
+      type: object
+      properties:
+        id: { type: string, example: "6E-2043-20260724" }
+        airline: { type: string, example: "IndiGo" }
+        airlineCode: { type: string, example: "6E" }
+        flightNumber: { type: string, example: "6E-2043" }
+        fromAirport: { type: string, example: "BOM" }
+        toAirport: { type: string, example: "DPS" }
+        departureTime: { type: string, format: date-time }
+        arrivalTime: { type: string, format: date-time }
+        durationMinutes: { type: integer, example: 135 }
+        stops: { type: integer, example: 0 }
+        price: { type: number, example: 4850 }
+        currency: { type: string, example: "INR" }
+        cabinClass:
+          type: string
+          enum: [economy, premium_economy, business]
+        seatsAvailable: { type: integer, example: 24 }
+      required: [id, airline, flightNumber, fromAirport, toAirport, departureTime, arrivalTime, price]
+
+    Hotel:
+      type: object
+      properties:
+        id: { type: string, example: "anvaya-resort-dps" }
+        name: { type: string, example: "The Anvaya Resort" }
+        cityId: { type: string, example: "dps" }
+        starRating: { type: number, example: 5 }
+        userRating: { type: number, example: 4.8 }
+        pricePerNight: { type: number, example: 6200 }
+        currency: { type: string, example: "INR" }
+        amenities:
+          type: array
+          items: { type: string }
+          example: ["Pool", "Free WiFi", "Breakfast included"]
+        image: { type: string, format: uri }
+        address: { type: string }
+      required: [id, name, cityId, starRating, pricePerNight]
+
+    Attraction:
+      type: object
+      properties:
+        id: { type: string, example: "uluwatu-temple" }
+        name: { type: string, example: "Uluwatu Temple" }
+        cityId: { type: string, example: "dps" }
+        category:
+          type: string
+          enum: [landmark, museum, nature, nightlife, food, shopping, adventure]
+        rating: { type: number, example: 4.6 }
+        description: { type: string }
+        image: { type: string, format: uri }
+      required: [id, name, cityId, category]
+
+    Booking:
+      type: object
+      properties:
+        id: { type: string, example: "bkg_9f83c" }
+        userId: { type: string, nullable: true, example: "uid_abc123" }
+        tripId: { type: string, nullable: true, example: "trip_bali_2026" }
+        type:
+          type: string
+          enum: [flight, hotel]
+        referenceId:
+          type: string
+          description: flightId or hotelId depending on type
+          example: "6E-2043-20260724"
+        travelers: { type: integer, example: 2 }
+        checkIn: { type: string, format: date, nullable: true }
+        checkOut: { type: string, format: date, nullable: true }
+        totalPrice: { type: number, example: 9700 }
+        currency: { type: string, example: "INR" }
+        status:
+          type: string
+          enum: [confirmed, cancelled]
+          default: confirmed
+        createdAt: { type: string, format: date-time, readOnly: true }
+      required: [type, referenceId, travelers]
+
+    NewBooking:
+      allOf:
+        - $ref: '#/components/schemas/Booking'
+      description: Same shape as Booking; id/status/createdAt are server-assigned.
+
+    Error:
+      type: object
+      properties:
+        error: { type: string }
+        message: { type: string }
+
+    AdminModelMeta:
+      type: object
+      description: Describes one editable data model, for the admin UI to introspect.
+      properties:
+        key: { type: string, example: cities }
+        label: { type: string, example: Cities }
+        idField: { type: string, example: id }
+        schema:
+          type: object
+          description: >
+            The JSON Schema for this model, reused verbatim from this
+            document's components.schemas — used by the admin UI to
+            generate its add/edit form.
+      required: [key, label, idField, schema]
+
+    AdminRecord:
+      description: >
+        A record of one of the six data models. The concrete shape depends
+        on the `:model` path parameter — see the corresponding schema
+        (City/Airport/Hotel/Attraction/Flight/Booking).
+      oneOf:
+        - $ref: '#/components/schemas/City'
+        - $ref: '#/components/schemas/Airport'
+        - $ref: '#/components/schemas/Hotel'
+        - $ref: '#/components/schemas/Attraction'
+        - $ref: '#/components/schemas/Flight'
+        - $ref: '#/components/schemas/Booking'
+
+  responses:
+    NotFound:
+      description: Resource not found
+      content:
+        application/json:
+          schema: { $ref: '#/components/schemas/Error' }
+
+paths:
+  /cities:
+    get:
+      tags: [Cities]
+      summary: List / search cities
+      parameters:
+        - name: q
+          in: query
+          description: Free-text search on city or country name
+          schema: { type: string }
+        - name: countryCode
+          in: query
+          schema: { type: string }
+        - $ref: '#/components/parameters/PageParam'
+        - $ref: '#/components/parameters/LimitParam'
+      responses:
+        "200":
+          description: List of cities
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  total: { type: integer, example: 40 }
+                  items:
+                    type: array
+                    items: { $ref: '#/components/schemas/City' }
+
+  /cities/{cityId}:
+    get:
+      tags: [Cities]
+      summary: Get a city by id
+      parameters:
+        - name: cityId
+          in: path
+          required: true
+          schema: { type: string }
+      responses:
+        "200":
+          description: City
+          content:
+            application/json:
+              schema: { $ref: '#/components/schemas/City' }
+        "404": { $ref: '#/components/responses/NotFound' }
+
+  /cities/{cityId}/hotels:
+    get:
+      tags: [Hotels]
+      summary: Hotels in a city
+      parameters:
+        - name: cityId
+          in: path
+          required: true
+          schema: { type: string }
+        - name: minStars
+          in: query
+          schema: { type: number }
+        - $ref: '#/components/parameters/PageParam'
+        - $ref: '#/components/parameters/LimitParam'
+      responses:
+        "200":
+          description: Hotels in the given city
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  total: { type: integer }
+                  items:
+                    type: array
+                    items: { $ref: '#/components/schemas/Hotel' }
+        "404": { $ref: '#/components/responses/NotFound' }
+
+  /cities/{cityId}/attractions:
+    get:
+      tags: [Attractions]
+      summary: Attractions in a city
+      parameters:
+        - name: cityId
+          in: path
+          required: true
+          schema: { type: string }
+        - name: category
+          in: query
+          schema: { type: string }
+        - $ref: '#/components/parameters/PageParam'
+        - $ref: '#/components/parameters/LimitParam'
+      responses:
+        "200":
+          description: Attractions in the given city
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  total: { type: integer }
+                  items:
+                    type: array
+                    items: { $ref: '#/components/schemas/Attraction' }
+        "404": { $ref: '#/components/responses/NotFound' }
+
+  /airports:
+    get:
+      tags: [Airports]
+      summary: List / search airports
+      parameters:
+        - name: q
+          in: query
+          description: Search by airport name or IATA code
+          schema: { type: string }
+        - name: cityId
+          in: query
+          schema: { type: string }
+        - $ref: '#/components/parameters/PageParam'
+        - $ref: '#/components/parameters/LimitParam'
+      responses:
+        "200":
+          description: List of airports
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  total: { type: integer }
+                  items:
+                    type: array
+                    items: { $ref: '#/components/schemas/Airport' }
+
+  /airports/{code}:
+    get:
+      tags: [Airports]
+      summary: Get airport by IATA code
+      parameters:
+        - name: code
+          in: path
+          required: true
+          schema: { type: string, example: "BOM" }
+      responses:
+        "200":
+          description: Airport
+          content:
+            application/json:
+              schema: { $ref: '#/components/schemas/Airport' }
+        "404": { $ref: '#/components/responses/NotFound' }
+
+  /flights:
+    get:
+      tags: [Flights]
+      summary: Search flights between two cities/airports
+      parameters:
+        - name: from
+          in: query
+          required: true
+          description: Origin IATA code
+          schema: { type: string, example: "BOM" }
+        - name: to
+          in: query
+          required: true
+          description: Destination IATA code
+          schema: { type: string, example: "DPS" }
+        - name: date
+          in: query
+          description: Departure date (YYYY-MM-DD)
+          schema: { type: string, format: date }
+        - name: travelers
+          in: query
+          schema: { type: integer, default: 1 }
+        - name: sort
+          in: query
+          schema: { type: string, enum: [price, duration, departureTime], default: price }
+        - $ref: '#/components/parameters/PageParam'
+        - $ref: '#/components/parameters/LimitParam'
+      responses:
+        "200":
+          description: Matching flights
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  total: { type: integer }
+                  items:
+                    type: array
+                    items: { $ref: '#/components/schemas/Flight' }
+
+  /flights/{flightId}:
+    get:
+      tags: [Flights]
+      summary: Get a single flight
+      parameters:
+        - name: flightId
+          in: path
+          required: true
+          schema: { type: string }
+      responses:
+        "200":
+          description: Flight
+          content:
+            application/json:
+              schema: { $ref: '#/components/schemas/Flight' }
+        "404": { $ref: '#/components/responses/NotFound' }
+
+  /hotels/{hotelId}:
+    get:
+      tags: [Hotels]
+      summary: Get a single hotel
+      parameters:
+        - name: hotelId
+          in: path
+          required: true
+          schema: { type: string }
+      responses:
+        "200":
+          description: Hotel
+          content:
+            application/json:
+              schema: { $ref: '#/components/schemas/Hotel' }
+        "404": { $ref: '#/components/responses/NotFound' }
+
+  /bookings:
+    get:
+      tags: [Bookings]
+      summary: List bookings (optionally for the current user)
+      security:
+        - bearerAuth: []
+        - {}
+      parameters:
+        - name: userId
+          in: query
+          schema: { type: string }
+        - name: tripId
+          in: query
+          schema: { type: string }
+        - name: status
+          in: query
+          schema: { type: string, enum: [confirmed, cancelled] }
+        - $ref: '#/components/parameters/PageParam'
+        - $ref: '#/components/parameters/LimitParam'
+      responses:
+        "200":
+          description: List of bookings
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  total: { type: integer }
+                  items:
+                    type: array
+                    items: { $ref: '#/components/schemas/Booking' }
+    post:
+      tags: [Bookings]
+      summary: Create a booking (flight or hotel)
+      security:
+        - bearerAuth: []
+        - {}
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema: { $ref: '#/components/schemas/NewBooking' }
+      responses:
+        "201":
+          description: Booking created
+          content:
+            application/json:
+              schema: { $ref: '#/components/schemas/Booking' }
+        "400":
+          description: Invalid booking payload
+          content:
+            application/json:
+              schema: { $ref: '#/components/schemas/Error' }
+
+  /bookings/{bookingId}:
+    get:
+      tags: [Bookings]
+      summary: Get a single booking
+      security:
+        - bearerAuth: []
+        - {}
+      parameters:
+        - name: bookingId
+          in: path
+          required: true
+          schema: { type: string }
+      responses:
+        "200":
+          description: Booking
+          content:
+            application/json:
+              schema: { $ref: '#/components/schemas/Booking' }
+        "404": { $ref: '#/components/responses/NotFound' }
+    delete:
+      tags: [Bookings]
+      summary: Cancel a booking
+      security:
+        - bearerAuth: []
+        - {}
+      parameters:
+        - name: bookingId
+          in: path
+          required: true
+          schema: { type: string }
+      responses:
+        "200":
+          description: Booking cancelled
+          content:
+            application/json:
+              schema: { $ref: '#/components/schemas/Booking' }
+        "404": { $ref: '#/components/responses/NotFound' }
+
+  /admin/api/models:
+    get:
+      tags: [Admin]
+      summary: List all editable data models and their JSON Schemas
+      security:
+        - adminToken: []
+      responses:
+        "200":
+          description: One entry per data model
+          content:
+            application/json:
+              schema:
+                type: array
+                items: { $ref: '#/components/schemas/AdminModelMeta' }
+        "401":
+          description: Missing or invalid admin token
+          content:
+            application/json:
+              schema: { $ref: '#/components/schemas/Error' }
+
+  /admin/api/models/{model}:
+    parameters:
+      - name: model
+        in: path
+        required: true
+        schema: { type: string, enum: [cities, airports, hotels, attractions, flights, bookings] }
+    get:
+      tags: [Admin]
+      summary: List records of a model (paginated)
+      security:
+        - adminToken: []
+      parameters:
+        - $ref: '#/components/parameters/PageParam'
+        - $ref: '#/components/parameters/LimitParam'
+      responses:
+        "200":
+          description: Paginated records
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  total: { type: integer }
+                  items:
+                    type: array
+                    items: { $ref: '#/components/schemas/AdminRecord' }
+        "401":
+          description: Missing or invalid admin token
+          content:
+            application/json:
+              schema: { $ref: '#/components/schemas/Error' }
+        "404": { $ref: '#/components/responses/NotFound' }
+    post:
+      tags: [Admin]
+      summary: Create a record for this model
+      security:
+        - adminToken: []
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema: { $ref: '#/components/schemas/AdminRecord' }
+      responses:
+        "201":
+          description: Record created
+          content:
+            application/json:
+              schema: { $ref: '#/components/schemas/AdminRecord' }
+        "400":
+          description: Validation failure or duplicate id
+          content:
+            application/json:
+              schema: { $ref: '#/components/schemas/Error' }
+        "401":
+          description: Missing or invalid admin token
+          content:
+            application/json:
+              schema: { $ref: '#/components/schemas/Error' }
+        "404": { $ref: '#/components/responses/NotFound' }
+
+  /admin/api/models/{model}/{id}:
+    parameters:
+      - name: model
+        in: path
+        required: true
+        schema: { type: string, enum: [cities, airports, hotels, attractions, flights, bookings] }
+      - name: id
+        in: path
+        required: true
+        description: The record's id field value (or IATA `code` for airports)
+        schema: { type: string }
+    get:
+      tags: [Admin]
+      summary: Get a single record by id
+      security:
+        - adminToken: []
+      responses:
+        "200":
+          description: Record
+          content:
+            application/json:
+              schema: { $ref: '#/components/schemas/AdminRecord' }
+        "401":
+          description: Missing or invalid admin token
+          content:
+            application/json:
+              schema: { $ref: '#/components/schemas/Error' }
+        "404": { $ref: '#/components/responses/NotFound' }
+    put:
+      tags: [Admin]
+      summary: Full-replace a record by id
+      security:
+        - adminToken: []
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema: { $ref: '#/components/schemas/AdminRecord' }
+      responses:
+        "200":
+          description: Updated record
+          content:
+            application/json:
+              schema: { $ref: '#/components/schemas/AdminRecord' }
+        "400":
+          description: Validation failure
+          content:
+            application/json:
+              schema: { $ref: '#/components/schemas/Error' }
+        "401":
+          description: Missing or invalid admin token
+          content:
+            application/json:
+              schema: { $ref: '#/components/schemas/Error' }
+        "404": { $ref: '#/components/responses/NotFound' }
+    delete:
+      tags: [Admin]
+      summary: Delete a record by id
+      security:
+        - adminToken: []
+      responses:
+        "200":
+          description: Deleted record
+          content:
+            application/json:
+              schema: { $ref: '#/components/schemas/AdminRecord' }
+        "401":
+          description: Missing or invalid admin token
+          content:
+            application/json:
+              schema: { $ref: '#/components/schemas/Error' }
+        "404": { $ref: '#/components/responses/NotFound' }

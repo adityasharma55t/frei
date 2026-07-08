@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Frei Booking API — Admin</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <h1>Frei Booking API — Data Admin</h1>
+    <div id="tokenBar">
+      <span id="tokenStatus"></span>
+      <button id="logoutBtn" hidden>Log out</button>
+    </div>
+  </header>
+
+  <section id="loginPanel">
+    <p>Enter the admin token to manage data (sent as <code>X-Admin-Token</code>).</p>
+    <form id="loginForm">
+      <input type="password" id="tokenInput" placeholder="Admin token" required autocomplete="off" />
+      <button type="submit">Continue</button>
+    </form>
+  </section>
+
+  <section id="appPanel" hidden>
+    <div id="toolbar">
+      <label for="modelSelect">Model</label>
+      <select id="modelSelect"></select>
+      <button id="addBtn">+ Add record</button>
+      <span id="errorBanner" class="error" hidden></span>
+    </div>
+
+    <table id="recordsTable">
+      <thead><tr id="tableHead"></tr></thead>
+      <tbody id="tableBody"></tbody>
+    </table>
+  </section>
+
+  <div id="formOverlay" hidden>
+    <form id="recordForm">
+      <h2 id="formTitle">Add record</h2>
+      <div id="formFields"></div>
+      <div class="formError" id="formError" hidden></div>
+      <div class="formActions">
+        <button type="button" id="cancelBtn">Cancel</button>
+        <button type="submit">Save</button>
+      </div>
+    </form>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

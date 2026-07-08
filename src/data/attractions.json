@@ -1,0 +1,1793 @@
+[
+  {
+    "id": "gateway-of-india",
+    "name": "Gateway of India",
+    "cityId": "bom",
+    "category": "landmark",
+    "rating": 4,
+    "description": "Iconic waterfront arch monument overlooking the Arabian Sea.",
+    "image": "https://cdn.frei.app/attractions/gateway-of-india.jpg"
+  },
+  {
+    "id": "marine-drive",
+    "name": "Marine Drive",
+    "cityId": "bom",
+    "category": "landmark",
+    "rating": 4.1,
+    "description": "Sweeping promenade along the coast, popular at sunset.",
+    "image": "https://cdn.frei.app/attractions/marine-drive.jpg"
+  },
+  {
+    "id": "elephanta-caves",
+    "name": "Elephanta Caves",
+    "cityId": "bom",
+    "category": "landmark",
+    "rating": 4.4,
+    "description": "Ancient rock-cut cave temples on an island, a UNESCO site.",
+    "image": "https://cdn.frei.app/attractions/elephanta-caves.jpg"
+  },
+  {
+    "id": "chhatrapati-shivaji-maharaj-vastu-sangrahalaya",
+    "name": "Chhatrapati Shivaji Maharaj Vastu Sangrahalaya",
+    "cityId": "bom",
+    "category": "museum",
+    "rating": 4.1,
+    "description": "Leading museum of art, archaeology and natural history.",
+    "image": "https://cdn.frei.app/attractions/chhatrapati-shivaji-maharaj-vastu-sangrahalaya.jpg"
+  },
+  {
+    "id": "red-fort",
+    "name": "Red Fort",
+    "cityId": "del",
+    "category": "landmark",
+    "rating": 4.6,
+    "description": "Mughal-era fortress and UNESCO World Heritage Site.",
+    "image": "https://cdn.frei.app/attractions/red-fort.jpg"
+  },
+  {
+    "id": "qutub-minar",
+    "name": "Qutub Minar",
+    "cityId": "del",
+    "category": "landmark",
+    "rating": 4.7,
+    "description": "Towering 13th-century minaret of red sandstone and marble.",
+    "image": "https://cdn.frei.app/attractions/qutub-minar.jpg"
+  },
+  {
+    "id": "humayun-s-tomb",
+    "name": "Humayun's Tomb",
+    "cityId": "del",
+    "category": "landmark",
+    "rating": 4.2,
+    "description": "Grand Mughal garden-tomb that inspired the Taj Mahal.",
+    "image": "https://cdn.frei.app/attractions/humayun-s-tomb.jpg"
+  },
+  {
+    "id": "national-museum",
+    "name": "National Museum",
+    "cityId": "del",
+    "category": "museum",
+    "rating": 4.2,
+    "description": "Extensive collection spanning Indian art and history.",
+    "image": "https://cdn.frei.app/attractions/national-museum.jpg"
+  },
+  {
+    "id": "chandni-chowk",
+    "name": "Chandni Chowk",
+    "cityId": "del",
+    "category": "food",
+    "rating": 4.2,
+    "description": "Historic market famous for street food and spices.",
+    "image": "https://cdn.frei.app/attractions/chandni-chowk.jpg"
+  },
+  {
+    "id": "lalbagh-botanical-garden",
+    "name": "Lalbagh Botanical Garden",
+    "cityId": "blr",
+    "category": "nature",
+    "rating": 4.2,
+    "description": "Historic botanical garden with a glass house and lake.",
+    "image": "https://cdn.frei.app/attractions/lalbagh-botanical-garden.jpg"
+  },
+  {
+    "id": "bangalore-palace",
+    "name": "Bangalore Palace",
+    "cityId": "blr",
+    "category": "landmark",
+    "rating": 4.3,
+    "description": "Tudor-style palace with Gothic interiors.",
+    "image": "https://cdn.frei.app/attractions/bangalore-palace.jpg"
+  },
+  {
+    "id": "cubbon-park",
+    "name": "Cubbon Park",
+    "cityId": "blr",
+    "category": "nature",
+    "rating": 4.8,
+    "description": "Green expanse in the heart of the city.",
+    "image": "https://cdn.frei.app/attractions/cubbon-park.jpg"
+  },
+  {
+    "id": "ub-city",
+    "name": "UB City",
+    "cityId": "blr",
+    "category": "shopping",
+    "rating": 4.6,
+    "description": "Upscale mall and dining district.",
+    "image": "https://cdn.frei.app/attractions/ub-city.jpg"
+  },
+  {
+    "id": "toit-brewpub",
+    "name": "Toit Brewpub",
+    "cityId": "blr",
+    "category": "nightlife",
+    "rating": 4.5,
+    "description": "Popular craft brewery and live-music venue.",
+    "image": "https://cdn.frei.app/attractions/toit-brewpub.jpg"
+  },
+  {
+    "id": "bengaluru-city-landmark",
+    "name": "Bengaluru City Landmark",
+    "cityId": "blr",
+    "category": "landmark",
+    "rating": 4,
+    "description": "A well-known historic landmark in the city centre.",
+    "image": "https://cdn.frei.app/attractions/bengaluru-city-landmark.jpg"
+  },
+  {
+    "id": "charminar",
+    "name": "Charminar",
+    "cityId": "hyd",
+    "category": "landmark",
+    "rating": 4.2,
+    "description": "Iconic 16th-century mosque and monument.",
+    "image": "https://cdn.frei.app/attractions/charminar.jpg"
+  },
+  {
+    "id": "golconda-fort",
+    "name": "Golconda Fort",
+    "cityId": "hyd",
+    "category": "landmark",
+    "rating": 4.7,
+    "description": "Sprawling hilltop fort known for its acoustics.",
+    "image": "https://cdn.frei.app/attractions/golconda-fort.jpg"
+  },
+  {
+    "id": "ramoji-film-city",
+    "name": "Ramoji Film City",
+    "cityId": "hyd",
+    "category": "adventure",
+    "rating": 4.3,
+    "description": "One of the world's largest film studio complexes with tours.",
+    "image": "https://cdn.frei.app/attractions/ramoji-film-city.jpg"
+  },
+  {
+    "id": "hussain-sagar-lake",
+    "name": "Hussain Sagar Lake",
+    "cityId": "hyd",
+    "category": "nature",
+    "rating": 4.8,
+    "description": "Heart-shaped lake with a giant Buddha statue.",
+    "image": "https://cdn.frei.app/attractions/hussain-sagar-lake.jpg"
+  },
+  {
+    "id": "marina-beach",
+    "name": "Marina Beach",
+    "cityId": "maa",
+    "category": "nature",
+    "rating": 4.1,
+    "description": "One of the longest urban beaches in the world.",
+    "image": "https://cdn.frei.app/attractions/marina-beach.jpg"
+  },
+  {
+    "id": "kapaleeshwarar-temple",
+    "name": "Kapaleeshwarar Temple",
+    "cityId": "maa",
+    "category": "landmark",
+    "rating": 4.6,
+    "description": "Vividly sculpted Dravidian-style Shiva temple.",
+    "image": "https://cdn.frei.app/attractions/kapaleeshwarar-temple.jpg"
+  },
+  {
+    "id": "fort-st-george",
+    "name": "Fort St. George",
+    "cityId": "maa",
+    "category": "landmark",
+    "rating": 4.6,
+    "description": "First English fortress in India, now a museum.",
+    "image": "https://cdn.frei.app/attractions/fort-st-george.jpg"
+  },
+  {
+    "id": "government-museum",
+    "name": "Government Museum",
+    "cityId": "maa",
+    "category": "museum",
+    "rating": 4.5,
+    "description": "One of the oldest museums in India.",
+    "image": "https://cdn.frei.app/attractions/government-museum.jpg"
+  },
+  {
+    "id": "chennai-city-landmark",
+    "name": "Chennai City Landmark",
+    "cityId": "maa",
+    "category": "landmark",
+    "rating": 4.2,
+    "description": "A well-known historic landmark in the city centre.",
+    "image": "https://cdn.frei.app/attractions/chennai-city-landmark.jpg"
+  },
+  {
+    "id": "victoria-memorial",
+    "name": "Victoria Memorial",
+    "cityId": "ccu",
+    "category": "landmark",
+    "rating": 4.8,
+    "description": "Grand marble monument set in landscaped gardens.",
+    "image": "https://cdn.frei.app/attractions/victoria-memorial.jpg"
+  },
+  {
+    "id": "howrah-bridge",
+    "name": "Howrah Bridge",
+    "cityId": "ccu",
+    "category": "landmark",
+    "rating": 4.8,
+    "description": "Iconic cantilever bridge over the Hooghly river.",
+    "image": "https://cdn.frei.app/attractions/howrah-bridge.jpg"
+  },
+  {
+    "id": "indian-museum",
+    "name": "Indian Museum",
+    "cityId": "ccu",
+    "category": "museum",
+    "rating": 4.8,
+    "description": "Largest and oldest museum in India.",
+    "image": "https://cdn.frei.app/attractions/indian-museum.jpg"
+  },
+  {
+    "id": "college-street",
+    "name": "College Street",
+    "cityId": "ccu",
+    "category": "shopping",
+    "rating": 4.7,
+    "description": "Historic street lined with bookshops and cafes.",
+    "image": "https://cdn.frei.app/attractions/college-street.jpg"
+  },
+  {
+    "id": "kolkata-city-landmark",
+    "name": "Kolkata City Landmark",
+    "cityId": "ccu",
+    "category": "landmark",
+    "rating": 4,
+    "description": "A well-known historic landmark in the city centre.",
+    "image": "https://cdn.frei.app/attractions/kolkata-city-landmark.jpg"
+  },
+  {
+    "id": "kolkata-heritage-museum",
+    "name": "Kolkata Heritage Museum",
+    "cityId": "ccu",
+    "category": "museum",
+    "rating": 4.2,
+    "description": "Local museum showcasing regional history and culture.",
+    "image": "https://cdn.frei.app/attractions/kolkata-heritage-museum.jpg"
+  },
+  {
+    "id": "pune-city-landmark",
+    "name": "Pune City Landmark",
+    "cityId": "pnq",
+    "category": "landmark",
+    "rating": 4.7,
+    "description": "A well-known historic landmark in the city centre.",
+    "image": "https://cdn.frei.app/attractions/pune-city-landmark.jpg"
+  },
+  {
+    "id": "pune-heritage-museum",
+    "name": "Pune Heritage Museum",
+    "cityId": "pnq",
+    "category": "museum",
+    "rating": 4.1,
+    "description": "Local museum showcasing regional history and culture.",
+    "image": "https://cdn.frei.app/attractions/pune-heritage-museum.jpg"
+  },
+  {
+    "id": "pune-central-park",
+    "name": "Pune Central Park",
+    "cityId": "pnq",
+    "category": "nature",
+    "rating": 4.6,
+    "description": "Green public park popular with locals and visitors.",
+    "image": "https://cdn.frei.app/attractions/pune-central-park.jpg"
+  },
+  {
+    "id": "pune-old-town-market",
+    "name": "Pune Old Town Market",
+    "cityId": "pnq",
+    "category": "shopping",
+    "rating": 4.8,
+    "description": "Traditional market street for local crafts and goods.",
+    "image": "https://cdn.frei.app/attractions/pune-old-town-market.jpg"
+  },
+  {
+    "id": "ahmedabad-city-landmark",
+    "name": "Ahmedabad City Landmark",
+    "cityId": "amd",
+    "category": "landmark",
+    "rating": 4.2,
+    "description": "A well-known historic landmark in the city centre.",
+    "image": "https://cdn.frei.app/attractions/ahmedabad-city-landmark.jpg"
+  },
+  {
+    "id": "ahmedabad-heritage-museum",
+    "name": "Ahmedabad Heritage Museum",
+    "cityId": "amd",
+    "category": "museum",
+    "rating": 4.2,
+    "description": "Local museum showcasing regional history and culture.",
+    "image": "https://cdn.frei.app/attractions/ahmedabad-heritage-museum.jpg"
+  },
+  {
+    "id": "ahmedabad-central-park",
+    "name": "Ahmedabad Central Park",
+    "cityId": "amd",
+    "category": "nature",
+    "rating": 4.8,
+    "description": "Green public park popular with locals and visitors.",
+    "image": "https://cdn.frei.app/attractions/ahmedabad-central-park.jpg"
+  },
+  {
+    "id": "ahmedabad-old-town-market",
+    "name": "Ahmedabad Old Town Market",
+    "cityId": "amd",
+    "category": "shopping",
+    "rating": 4.6,
+    "description": "Traditional market street for local crafts and goods.",
+    "image": "https://cdn.frei.app/attractions/ahmedabad-old-town-market.jpg"
+  },
+  {
+    "id": "ahmedabad-riverside-promenade",
+    "name": "Ahmedabad Riverside Promenade",
+    "cityId": "amd",
+    "category": "nature",
+    "rating": 4.2,
+    "description": "Scenic walkway along the water, popular at sunset.",
+    "image": "https://cdn.frei.app/attractions/ahmedabad-riverside-promenade.jpg"
+  },
+  {
+    "id": "amber-fort",
+    "name": "Amber Fort",
+    "cityId": "jai",
+    "category": "landmark",
+    "rating": 4.5,
+    "description": "Majestic hilltop fort with mirrored halls.",
+    "image": "https://cdn.frei.app/attractions/amber-fort.jpg"
+  },
+  {
+    "id": "hawa-mahal",
+    "name": "Hawa Mahal",
+    "cityId": "jai",
+    "category": "landmark",
+    "rating": 4.8,
+    "description": "Iconic pink sandstone \"Palace of Winds\".",
+    "image": "https://cdn.frei.app/attractions/hawa-mahal.jpg"
+  },
+  {
+    "id": "city-palace",
+    "name": "City Palace",
+    "cityId": "jai",
+    "category": "landmark",
+    "rating": 4.5,
+    "description": "Former royal residence with museums and courtyards.",
+    "image": "https://cdn.frei.app/attractions/city-palace.jpg"
+  },
+  {
+    "id": "jantar-mantar",
+    "name": "Jantar Mantar",
+    "cityId": "jai",
+    "category": "landmark",
+    "rating": 4.4,
+    "description": "UNESCO-listed astronomical observatory.",
+    "image": "https://cdn.frei.app/attractions/jantar-mantar.jpg"
+  },
+  {
+    "id": "johari-bazaar",
+    "name": "Johari Bazaar",
+    "cityId": "jai",
+    "category": "shopping",
+    "rating": 4.2,
+    "description": "Famous market for jewelry and gemstones.",
+    "image": "https://cdn.frei.app/attractions/johari-bazaar.jpg"
+  },
+  {
+    "id": "jaipur-city-landmark",
+    "name": "Jaipur City Landmark",
+    "cityId": "jai",
+    "category": "landmark",
+    "rating": 4.3,
+    "description": "A well-known historic landmark in the city centre.",
+    "image": "https://cdn.frei.app/attractions/jaipur-city-landmark.jpg"
+  },
+  {
+    "id": "baga-beach",
+    "name": "Baga Beach",
+    "cityId": "goi",
+    "category": "nature",
+    "rating": 4.7,
+    "description": "Lively beach known for water sports and shacks.",
+    "image": "https://cdn.frei.app/attractions/baga-beach.jpg"
+  },
+  {
+    "id": "basilica-of-bom-jesus",
+    "name": "Basilica of Bom Jesus",
+    "cityId": "goi",
+    "category": "landmark",
+    "rating": 4.4,
+    "description": "UNESCO-listed baroque church in Old Goa.",
+    "image": "https://cdn.frei.app/attractions/basilica-of-bom-jesus.jpg"
+  },
+  {
+    "id": "fort-aguada",
+    "name": "Fort Aguada",
+    "cityId": "goi",
+    "category": "landmark",
+    "rating": 4.3,
+    "description": "17th-century Portuguese fort with a lighthouse.",
+    "image": "https://cdn.frei.app/attractions/fort-aguada.jpg"
+  },
+  {
+    "id": "anjuna-flea-market",
+    "name": "Anjuna Flea Market",
+    "cityId": "goi",
+    "category": "shopping",
+    "rating": 4.1,
+    "description": "Famous weekly market for handicrafts and clothing.",
+    "image": "https://cdn.frei.app/attractions/anjuna-flea-market.jpg"
+  },
+  {
+    "id": "kochi-city-landmark",
+    "name": "Kochi City Landmark",
+    "cityId": "cok",
+    "category": "landmark",
+    "rating": 4.8,
+    "description": "A well-known historic landmark in the city centre.",
+    "image": "https://cdn.frei.app/attractions/kochi-city-landmark.jpg"
+  },
+  {
+    "id": "kochi-heritage-museum",
+    "name": "Kochi Heritage Museum",
+    "cityId": "cok",
+    "category": "museum",
+    "rating": 4.1,
+    "description": "Local museum showcasing regional history and culture.",
+    "image": "https://cdn.frei.app/attractions/kochi-heritage-museum.jpg"
+  },
+  {
+    "id": "kochi-central-park",
+    "name": "Kochi Central Park",
+    "cityId": "cok",
+    "category": "nature",
+    "rating": 4.9,
+    "description": "Green public park popular with locals and visitors.",
+    "image": "https://cdn.frei.app/attractions/kochi-central-park.jpg"
+  },
+  {
+    "id": "kochi-old-town-market",
+    "name": "Kochi Old Town Market",
+    "cityId": "cok",
+    "category": "shopping",
+    "rating": 4,
+    "description": "Traditional market street for local crafts and goods.",
+    "image": "https://cdn.frei.app/attractions/kochi-old-town-market.jpg"
+  },
+  {
+    "id": "kochi-riverside-promenade",
+    "name": "Kochi Riverside Promenade",
+    "cityId": "cok",
+    "category": "nature",
+    "rating": 4.5,
+    "description": "Scenic walkway along the water, popular at sunset.",
+    "image": "https://cdn.frei.app/attractions/kochi-riverside-promenade.jpg"
+  },
+  {
+    "id": "lucknow-city-landmark",
+    "name": "Lucknow City Landmark",
+    "cityId": "lko",
+    "category": "landmark",
+    "rating": 4,
+    "description": "A well-known historic landmark in the city centre.",
+    "image": "https://cdn.frei.app/attractions/lucknow-city-landmark.jpg"
+  },
+  {
+    "id": "lucknow-heritage-museum",
+    "name": "Lucknow Heritage Museum",
+    "cityId": "lko",
+    "category": "museum",
+    "rating": 4.4,
+    "description": "Local museum showcasing regional history and culture.",
+    "image": "https://cdn.frei.app/attractions/lucknow-heritage-museum.jpg"
+  },
+  {
+    "id": "lucknow-central-park",
+    "name": "Lucknow Central Park",
+    "cityId": "lko",
+    "category": "nature",
+    "rating": 4.4,
+    "description": "Green public park popular with locals and visitors.",
+    "image": "https://cdn.frei.app/attractions/lucknow-central-park.jpg"
+  },
+  {
+    "id": "lucknow-old-town-market",
+    "name": "Lucknow Old Town Market",
+    "cityId": "lko",
+    "category": "shopping",
+    "rating": 4.8,
+    "description": "Traditional market street for local crafts and goods.",
+    "image": "https://cdn.frei.app/attractions/lucknow-old-town-market.jpg"
+  },
+  {
+    "id": "lucknow-riverside-promenade",
+    "name": "Lucknow Riverside Promenade",
+    "cityId": "lko",
+    "category": "nature",
+    "rating": 4.2,
+    "description": "Scenic walkway along the water, popular at sunset.",
+    "image": "https://cdn.frei.app/attractions/lucknow-riverside-promenade.jpg"
+  },
+  {
+    "id": "lucknow-night-bazaar",
+    "name": "Lucknow Night Bazaar",
+    "cityId": "lko",
+    "category": "nightlife",
+    "rating": 4.5,
+    "description": "Evening market and food street popular after dark.",
+    "image": "https://cdn.frei.app/attractions/lucknow-night-bazaar.jpg"
+  },
+  {
+    "id": "chandigarh-city-landmark",
+    "name": "Chandigarh City Landmark",
+    "cityId": "ixc",
+    "category": "landmark",
+    "rating": 4.1,
+    "description": "A well-known historic landmark in the city centre.",
+    "image": "https://cdn.frei.app/attractions/chandigarh-city-landmark.jpg"
+  },
+  {
+    "id": "chandigarh-heritage-museum",
+    "name": "Chandigarh Heritage Museum",
+    "cityId": "ixc",
+    "category": "museum",
+    "rating": 4.2,
+    "description": "Local museum showcasing regional history and culture.",
+    "image": "https://cdn.frei.app/attractions/chandigarh-heritage-museum.jpg"
+  },
+  {
+    "id": "chandigarh-central-park",
+    "name": "Chandigarh Central Park",
+    "cityId": "ixc",
+    "category": "nature",
+    "rating": 4.9,
+    "description": "Green public park popular with locals and visitors.",
+    "image": "https://cdn.frei.app/attractions/chandigarh-central-park.jpg"
+  },
+  {
+    "id": "chandigarh-old-town-market",
+    "name": "Chandigarh Old Town Market",
+    "cityId": "ixc",
+    "category": "shopping",
+    "rating": 4.4,
+    "description": "Traditional market street for local crafts and goods.",
+    "image": "https://cdn.frei.app/attractions/chandigarh-old-town-market.jpg"
+  },
+  {
+    "id": "guwahati-city-landmark",
+    "name": "Guwahati City Landmark",
+    "cityId": "gau",
+    "category": "landmark",
+    "rating": 4.7,
+    "description": "A well-known historic landmark in the city centre.",
+    "image": "https://cdn.frei.app/attractions/guwahati-city-landmark.jpg"
+  },
+  {
+    "id": "guwahati-heritage-museum",
+    "name": "Guwahati Heritage Museum",
+    "cityId": "gau",
+    "category": "museum",
+    "rating": 4.8,
+    "description": "Local museum showcasing regional history and culture.",
+    "image": "https://cdn.frei.app/attractions/guwahati-heritage-museum.jpg"
+  },
+  {
+    "id": "guwahati-central-park",
+    "name": "Guwahati Central Park",
+    "cityId": "gau",
+    "category": "nature",
+    "rating": 4.8,
+    "description": "Green public park popular with locals and visitors.",
+    "image": "https://cdn.frei.app/attractions/guwahati-central-park.jpg"
+  },
+  {
+    "id": "guwahati-old-town-market",
+    "name": "Guwahati Old Town Market",
+    "cityId": "gau",
+    "category": "shopping",
+    "rating": 4.6,
+    "description": "Traditional market street for local crafts and goods.",
+    "image": "https://cdn.frei.app/attractions/guwahati-old-town-market.jpg"
+  },
+  {
+    "id": "guwahati-riverside-promenade",
+    "name": "Guwahati Riverside Promenade",
+    "cityId": "gau",
+    "category": "nature",
+    "rating": 4.8,
+    "description": "Scenic walkway along the water, popular at sunset.",
+    "image": "https://cdn.frei.app/attractions/guwahati-riverside-promenade.jpg"
+  },
+  {
+    "id": "bhubaneswar-city-landmark",
+    "name": "Bhubaneswar City Landmark",
+    "cityId": "bbi",
+    "category": "landmark",
+    "rating": 4.4,
+    "description": "A well-known historic landmark in the city centre.",
+    "image": "https://cdn.frei.app/attractions/bhubaneswar-city-landmark.jpg"
+  },
+  {
+    "id": "bhubaneswar-heritage-museum",
+    "name": "Bhubaneswar Heritage Museum",
+    "cityId": "bbi",
+    "category": "museum",
+    "rating": 4.2,
+    "description": "Local museum showcasing regional history and culture.",
+    "image": "https://cdn.frei.app/attractions/bhubaneswar-heritage-museum.jpg"
+  },
+  {
+    "id": "bhubaneswar-central-park",
+    "name": "Bhubaneswar Central Park",
+    "cityId": "bbi",
+    "category": "nature",
+    "rating": 4.4,
+    "description": "Green public park popular with locals and visitors.",
+    "image": "https://cdn.frei.app/attractions/bhubaneswar-central-park.jpg"
+  },
+  {
+    "id": "bhubaneswar-old-town-market",
+    "name": "Bhubaneswar Old Town Market",
+    "cityId": "bbi",
+    "category": "shopping",
+    "rating": 4.7,
+    "description": "Traditional market street for local crafts and goods.",
+    "image": "https://cdn.frei.app/attractions/bhubaneswar-old-town-market.jpg"
+  },
+  {
+    "id": "bhubaneswar-riverside-promenade",
+    "name": "Bhubaneswar Riverside Promenade",
+    "cityId": "bbi",
+    "category": "nature",
+    "rating": 4.3,
+    "description": "Scenic walkway along the water, popular at sunset.",
+    "image": "https://cdn.frei.app/attractions/bhubaneswar-riverside-promenade.jpg"
+  },
+  {
+    "id": "bhubaneswar-night-bazaar",
+    "name": "Bhubaneswar Night Bazaar",
+    "cityId": "bbi",
+    "category": "nightlife",
+    "rating": 4.8,
+    "description": "Evening market and food street popular after dark.",
+    "image": "https://cdn.frei.app/attractions/bhubaneswar-night-bazaar.jpg"
+  },
+  {
+    "id": "indore-city-landmark",
+    "name": "Indore City Landmark",
+    "cityId": "idr",
+    "category": "landmark",
+    "rating": 4.7,
+    "description": "A well-known historic landmark in the city centre.",
+    "image": "https://cdn.frei.app/attractions/indore-city-landmark.jpg"
+  },
+  {
+    "id": "indore-heritage-museum",
+    "name": "Indore Heritage Museum",
+    "cityId": "idr",
+    "category": "museum",
+    "rating": 4.8,
+    "description": "Local museum showcasing regional history and culture.",
+    "image": "https://cdn.frei.app/attractions/indore-heritage-museum.jpg"
+  },
+  {
+    "id": "indore-central-park",
+    "name": "Indore Central Park",
+    "cityId": "idr",
+    "category": "nature",
+    "rating": 4.8,
+    "description": "Green public park popular with locals and visitors.",
+    "image": "https://cdn.frei.app/attractions/indore-central-park.jpg"
+  },
+  {
+    "id": "indore-old-town-market",
+    "name": "Indore Old Town Market",
+    "cityId": "idr",
+    "category": "shopping",
+    "rating": 4.4,
+    "description": "Traditional market street for local crafts and goods.",
+    "image": "https://cdn.frei.app/attractions/indore-old-town-market.jpg"
+  },
+  {
+    "id": "nagpur-city-landmark",
+    "name": "Nagpur City Landmark",
+    "cityId": "nag",
+    "category": "landmark",
+    "rating": 4.5,
+    "description": "A well-known historic landmark in the city centre.",
+    "image": "https://cdn.frei.app/attractions/nagpur-city-landmark.jpg"
+  },
+  {
+    "id": "nagpur-heritage-museum",
+    "name": "Nagpur Heritage Museum",
+    "cityId": "nag",
+    "category": "museum",
+    "rating": 4.6,
+    "description": "Local museum showcasing regional history and culture.",
+    "image": "https://cdn.frei.app/attractions/nagpur-heritage-museum.jpg"
+  },
+  {
+    "id": "nagpur-central-park",
+    "name": "Nagpur Central Park",
+    "cityId": "nag",
+    "category": "nature",
+    "rating": 4.7,
+    "description": "Green public park popular with locals and visitors.",
+    "image": "https://cdn.frei.app/attractions/nagpur-central-park.jpg"
+  },
+  {
+    "id": "nagpur-old-town-market",
+    "name": "Nagpur Old Town Market",
+    "cityId": "nag",
+    "category": "shopping",
+    "rating": 4.7,
+    "description": "Traditional market street for local crafts and goods.",
+    "image": "https://cdn.frei.app/attractions/nagpur-old-town-market.jpg"
+  },
+  {
+    "id": "nagpur-riverside-promenade",
+    "name": "Nagpur Riverside Promenade",
+    "cityId": "nag",
+    "category": "nature",
+    "rating": 4.1,
+    "description": "Scenic walkway along the water, popular at sunset.",
+    "image": "https://cdn.frei.app/attractions/nagpur-riverside-promenade.jpg"
+  },
+  {
+    "id": "varanasi-city-landmark",
+    "name": "Varanasi City Landmark",
+    "cityId": "vns",
+    "category": "landmark",
+    "rating": 4.6,
+    "description": "A well-known historic landmark in the city centre.",
+    "image": "https://cdn.frei.app/attractions/varanasi-city-landmark.jpg"
+  },
+  {
+    "id": "varanasi-heritage-museum",
+    "name": "Varanasi Heritage Museum",
+    "cityId": "vns",
+    "category": "museum",
+    "rating": 4.9,
+    "description": "Local museum showcasing regional history and culture.",
+    "image": "https://cdn.frei.app/attractions/varanasi-heritage-museum.jpg"
+  },
+  {
+    "id": "varanasi-central-park",
+    "name": "Varanasi Central Park",
+    "cityId": "vns",
+    "category": "nature",
+    "rating": 4.6,
+    "description": "Green public park popular with locals and visitors.",
+    "image": "https://cdn.frei.app/attractions/varanasi-central-park.jpg"
+  },
+  {
+    "id": "varanasi-old-town-market",
+    "name": "Varanasi Old Town Market",
+    "cityId": "vns",
+    "category": "shopping",
+    "rating": 4.2,
+    "description": "Traditional market street for local crafts and goods.",
+    "image": "https://cdn.frei.app/attractions/varanasi-old-town-market.jpg"
+  },
+  {
+    "id": "varanasi-riverside-promenade",
+    "name": "Varanasi Riverside Promenade",
+    "cityId": "vns",
+    "category": "nature",
+    "rating": 4.6,
+    "description": "Scenic walkway along the water, popular at sunset.",
+    "image": "https://cdn.frei.app/attractions/varanasi-riverside-promenade.jpg"
+  },
+  {
+    "id": "varanasi-night-bazaar",
+    "name": "Varanasi Night Bazaar",
+    "cityId": "vns",
+    "category": "nightlife",
+    "rating": 4.2,
+    "description": "Evening market and food street popular after dark.",
+    "image": "https://cdn.frei.app/attractions/varanasi-night-bazaar.jpg"
+  },
+  {
+    "id": "amritsar-city-landmark",
+    "name": "Amritsar City Landmark",
+    "cityId": "atq",
+    "category": "landmark",
+    "rating": 4,
+    "description": "A well-known historic landmark in the city centre.",
+    "image": "https://cdn.frei.app/attractions/amritsar-city-landmark.jpg"
+  },
+  {
+    "id": "amritsar-heritage-museum",
+    "name": "Amritsar Heritage Museum",
+    "cityId": "atq",
+    "category": "museum",
+    "rating": 4.7,
+    "description": "Local museum showcasing regional history and culture.",
+    "image": "https://cdn.frei.app/attractions/amritsar-heritage-museum.jpg"
+  },
+  {
+    "id": "amritsar-central-park",
+    "name": "Amritsar Central Park",
+    "cityId": "atq",
+    "category": "nature",
+    "rating": 4.8,
+    "description": "Green public park popular with locals and visitors.",
+    "image": "https://cdn.frei.app/attractions/amritsar-central-park.jpg"
+  },
+  {
+    "id": "amritsar-old-town-market",
+    "name": "Amritsar Old Town Market",
+    "cityId": "atq",
+    "category": "shopping",
+    "rating": 4.5,
+    "description": "Traditional market street for local crafts and goods.",
+    "image": "https://cdn.frei.app/attractions/amritsar-old-town-market.jpg"
+  },
+  {
+    "id": "srinagar-city-landmark",
+    "name": "Srinagar City Landmark",
+    "cityId": "sxr",
+    "category": "landmark",
+    "rating": 4.7,
+    "description": "A well-known historic landmark in the city centre.",
+    "image": "https://cdn.frei.app/attractions/srinagar-city-landmark.jpg"
+  },
+  {
+    "id": "srinagar-heritage-museum",
+    "name": "Srinagar Heritage Museum",
+    "cityId": "sxr",
+    "category": "museum",
+    "rating": 4.7,
+    "description": "Local museum showcasing regional history and culture.",
+    "image": "https://cdn.frei.app/attractions/srinagar-heritage-museum.jpg"
+  },
+  {
+    "id": "srinagar-central-park",
+    "name": "Srinagar Central Park",
+    "cityId": "sxr",
+    "category": "nature",
+    "rating": 4.1,
+    "description": "Green public park popular with locals and visitors.",
+    "image": "https://cdn.frei.app/attractions/srinagar-central-park.jpg"
+  },
+  {
+    "id": "srinagar-old-town-market",
+    "name": "Srinagar Old Town Market",
+    "cityId": "sxr",
+    "category": "shopping",
+    "rating": 4.6,
+    "description": "Traditional market street for local crafts and goods.",
+    "image": "https://cdn.frei.app/attractions/srinagar-old-town-market.jpg"
+  },
+  {
+    "id": "srinagar-riverside-promenade",
+    "name": "Srinagar Riverside Promenade",
+    "cityId": "sxr",
+    "category": "nature",
+    "rating": 4.7,
+    "description": "Scenic walkway along the water, popular at sunset.",
+    "image": "https://cdn.frei.app/attractions/srinagar-riverside-promenade.jpg"
+  },
+  {
+    "id": "burj-khalifa",
+    "name": "Burj Khalifa",
+    "cityId": "dxb",
+    "category": "landmark",
+    "rating": 4.7,
+    "description": "The world's tallest building, with an observation deck.",
+    "image": "https://cdn.frei.app/attractions/burj-khalifa.jpg"
+  },
+  {
+    "id": "dubai-mall",
+    "name": "Dubai Mall",
+    "cityId": "dxb",
+    "category": "shopping",
+    "rating": 4.5,
+    "description": "One of the largest shopping malls in the world.",
+    "image": "https://cdn.frei.app/attractions/dubai-mall.jpg"
+  },
+  {
+    "id": "palm-jumeirah",
+    "name": "Palm Jumeirah",
+    "cityId": "dxb",
+    "category": "landmark",
+    "rating": 4.5,
+    "description": "Iconic man-made palm-shaped island.",
+    "image": "https://cdn.frei.app/attractions/palm-jumeirah.jpg"
+  },
+  {
+    "id": "desert-safari-dubai",
+    "name": "Desert Safari Dubai",
+    "cityId": "dxb",
+    "category": "adventure",
+    "rating": 4.8,
+    "description": "Dune bashing, camel rides and a Bedouin camp dinner.",
+    "image": "https://cdn.frei.app/attractions/desert-safari-dubai.jpg"
+  },
+  {
+    "id": "dubai-marina-walk",
+    "name": "Dubai Marina Walk",
+    "cityId": "dxb",
+    "category": "nightlife",
+    "rating": 4.8,
+    "description": "Waterfront promenade with restaurants and bars.",
+    "image": "https://cdn.frei.app/attractions/dubai-marina-walk.jpg"
+  },
+  {
+    "id": "dubai-city-landmark",
+    "name": "Dubai City Landmark",
+    "cityId": "dxb",
+    "category": "landmark",
+    "rating": 4.3,
+    "description": "A well-known historic landmark in the city centre.",
+    "image": "https://cdn.frei.app/attractions/dubai-city-landmark.jpg"
+  },
+  {
+    "id": "gardens-by-the-bay",
+    "name": "Gardens by the Bay",
+    "cityId": "sin",
+    "category": "nature",
+    "rating": 4.1,
+    "description": "Futuristic nature park with the Supertree Grove.",
+    "image": "https://cdn.frei.app/attractions/gardens-by-the-bay.jpg"
+  },
+  {
+    "id": "marina-bay-sands-skypark",
+    "name": "Marina Bay Sands SkyPark",
+    "cityId": "sin",
+    "category": "landmark",
+    "rating": 4.1,
+    "description": "Rooftop observation deck with skyline views.",
+    "image": "https://cdn.frei.app/attractions/marina-bay-sands-skypark.jpg"
+  },
+  {
+    "id": "sentosa-island",
+    "name": "Sentosa Island",
+    "cityId": "sin",
+    "category": "adventure",
+    "rating": 4.8,
+    "description": "Resort island with beaches and theme parks.",
+    "image": "https://cdn.frei.app/attractions/sentosa-island.jpg"
+  },
+  {
+    "id": "chinatown-singapore",
+    "name": "Chinatown Singapore",
+    "cityId": "sin",
+    "category": "food",
+    "rating": 4.7,
+    "description": "Historic district with hawker stalls and temples.",
+    "image": "https://cdn.frei.app/attractions/chinatown-singapore.jpg"
+  },
+  {
+    "id": "grand-palace",
+    "name": "Grand Palace",
+    "cityId": "bkk",
+    "category": "landmark",
+    "rating": 4.3,
+    "description": "Ornate former royal residence and Wat Phra Kaew.",
+    "image": "https://cdn.frei.app/attractions/grand-palace.jpg"
+  },
+  {
+    "id": "wat-arun",
+    "name": "Wat Arun",
+    "cityId": "bkk",
+    "category": "landmark",
+    "rating": 4.7,
+    "description": "Riverside \"Temple of Dawn\" with a towering spire.",
+    "image": "https://cdn.frei.app/attractions/wat-arun.jpg"
+  },
+  {
+    "id": "chatuchak-weekend-market",
+    "name": "Chatuchak Weekend Market",
+    "cityId": "bkk",
+    "category": "shopping",
+    "rating": 4.7,
+    "description": "One of the world's largest weekend markets.",
+    "image": "https://cdn.frei.app/attractions/chatuchak-weekend-market.jpg"
+  },
+  {
+    "id": "khao-san-road",
+    "name": "Khao San Road",
+    "cityId": "bkk",
+    "category": "nightlife",
+    "rating": 4.8,
+    "description": "Famous backpacker street with bars and street food.",
+    "image": "https://cdn.frei.app/attractions/khao-san-road.jpg"
+  },
+  {
+    "id": "bangkok-city-landmark",
+    "name": "Bangkok City Landmark",
+    "cityId": "bkk",
+    "category": "landmark",
+    "rating": 4.4,
+    "description": "A well-known historic landmark in the city centre.",
+    "image": "https://cdn.frei.app/attractions/bangkok-city-landmark.jpg"
+  },
+  {
+    "id": "uluwatu-temple",
+    "name": "Uluwatu Temple",
+    "cityId": "dps",
+    "category": "landmark",
+    "rating": 4.5,
+    "description": "Clifftop temple with sunset Kecak fire dances.",
+    "image": "https://cdn.frei.app/attractions/uluwatu-temple.jpg"
+  },
+  {
+    "id": "tegallalang-rice-terraces",
+    "name": "Tegallalang Rice Terraces",
+    "cityId": "dps",
+    "category": "nature",
+    "rating": 4.1,
+    "description": "Iconic tiered rice paddies near Ubud.",
+    "image": "https://cdn.frei.app/attractions/tegallalang-rice-terraces.jpg"
+  },
+  {
+    "id": "kuta-beach",
+    "name": "Kuta Beach",
+    "cityId": "dps",
+    "category": "nature",
+    "rating": 4.1,
+    "description": "Popular surf beach with a lively boardwalk.",
+    "image": "https://cdn.frei.app/attractions/kuta-beach.jpg"
+  },
+  {
+    "id": "tanah-lot",
+    "name": "Tanah Lot",
+    "cityId": "dps",
+    "category": "landmark",
+    "rating": 4.1,
+    "description": "Sea temple perched on an offshore rock formation.",
+    "image": "https://cdn.frei.app/attractions/tanah-lot.jpg"
+  },
+  {
+    "id": "ubud-monkey-forest",
+    "name": "Ubud Monkey Forest",
+    "cityId": "dps",
+    "category": "nature",
+    "rating": 4.1,
+    "description": "Sacred sanctuary home to long-tailed macaques.",
+    "image": "https://cdn.frei.app/attractions/ubud-monkey-forest.jpg"
+  },
+  {
+    "id": "bali-city-landmark",
+    "name": "Bali City Landmark",
+    "cityId": "dps",
+    "category": "landmark",
+    "rating": 4.7,
+    "description": "A well-known historic landmark in the city centre.",
+    "image": "https://cdn.frei.app/attractions/bali-city-landmark.jpg"
+  },
+  {
+    "id": "kuala-lumpur-city-landmark",
+    "name": "Kuala Lumpur City Landmark",
+    "cityId": "kul",
+    "category": "landmark",
+    "rating": 4.3,
+    "description": "A well-known historic landmark in the city centre.",
+    "image": "https://cdn.frei.app/attractions/kuala-lumpur-city-landmark.jpg"
+  },
+  {
+    "id": "kuala-lumpur-heritage-museum",
+    "name": "Kuala Lumpur Heritage Museum",
+    "cityId": "kul",
+    "category": "museum",
+    "rating": 4.3,
+    "description": "Local museum showcasing regional history and culture.",
+    "image": "https://cdn.frei.app/attractions/kuala-lumpur-heritage-museum.jpg"
+  },
+  {
+    "id": "kuala-lumpur-central-park",
+    "name": "Kuala Lumpur Central Park",
+    "cityId": "kul",
+    "category": "nature",
+    "rating": 4,
+    "description": "Green public park popular with locals and visitors.",
+    "image": "https://cdn.frei.app/attractions/kuala-lumpur-central-park.jpg"
+  },
+  {
+    "id": "kuala-lumpur-old-town-market",
+    "name": "Kuala Lumpur Old Town Market",
+    "cityId": "kul",
+    "category": "shopping",
+    "rating": 4.4,
+    "description": "Traditional market street for local crafts and goods.",
+    "image": "https://cdn.frei.app/attractions/kuala-lumpur-old-town-market.jpg"
+  },
+  {
+    "id": "tower-of-london",
+    "name": "Tower of London",
+    "cityId": "lhr",
+    "category": "landmark",
+    "rating": 4.9,
+    "description": "Historic castle housing the Crown Jewels.",
+    "image": "https://cdn.frei.app/attractions/tower-of-london.jpg"
+  },
+  {
+    "id": "british-museum",
+    "name": "British Museum",
+    "cityId": "lhr",
+    "category": "museum",
+    "rating": 4.5,
+    "description": "World-renowned museum of human history and culture.",
+    "image": "https://cdn.frei.app/attractions/british-museum.jpg"
+  },
+  {
+    "id": "buckingham-palace",
+    "name": "Buckingham Palace",
+    "cityId": "lhr",
+    "category": "landmark",
+    "rating": 4.1,
+    "description": "The King's official London residence.",
+    "image": "https://cdn.frei.app/attractions/buckingham-palace.jpg"
+  },
+  {
+    "id": "camden-market",
+    "name": "Camden Market",
+    "cityId": "lhr",
+    "category": "shopping",
+    "rating": 4.6,
+    "description": "Eclectic market known for food stalls and crafts.",
+    "image": "https://cdn.frei.app/attractions/camden-market.jpg"
+  },
+  {
+    "id": "west-end-theatre-district",
+    "name": "West End Theatre District",
+    "cityId": "lhr",
+    "category": "nightlife",
+    "rating": 4.1,
+    "description": "Home to London's famous musicals and shows.",
+    "image": "https://cdn.frei.app/attractions/west-end-theatre-district.jpg"
+  },
+  {
+    "id": "eiffel-tower",
+    "name": "Eiffel Tower",
+    "cityId": "cdg",
+    "category": "landmark",
+    "rating": 4.7,
+    "description": "The wrought-iron icon of Paris.",
+    "image": "https://cdn.frei.app/attractions/eiffel-tower.jpg"
+  },
+  {
+    "id": "louvre-museum",
+    "name": "Louvre Museum",
+    "cityId": "cdg",
+    "category": "museum",
+    "rating": 4.4,
+    "description": "The world's most-visited art museum, home to the Mona Lisa.",
+    "image": "https://cdn.frei.app/attractions/louvre-museum.jpg"
+  },
+  {
+    "id": "notre-dame-cathedral",
+    "name": "Notre-Dame Cathedral",
+    "cityId": "cdg",
+    "category": "landmark",
+    "rating": 4.5,
+    "description": "Gothic masterpiece on the Île de la Cité.",
+    "image": "https://cdn.frei.app/attractions/notre-dame-cathedral.jpg"
+  },
+  {
+    "id": "montmartre",
+    "name": "Montmartre",
+    "cityId": "cdg",
+    "category": "landmark",
+    "rating": 4.6,
+    "description": "Artsy hilltop district crowned by Sacré-Cœur.",
+    "image": "https://cdn.frei.app/attractions/montmartre.jpg"
+  },
+  {
+    "id": "le-marais",
+    "name": "Le Marais",
+    "cityId": "cdg",
+    "category": "food",
+    "rating": 4.2,
+    "description": "Historic quarter packed with bistros and boutiques.",
+    "image": "https://cdn.frei.app/attractions/le-marais.jpg"
+  },
+  {
+    "id": "paris-city-landmark",
+    "name": "Paris City Landmark",
+    "cityId": "cdg",
+    "category": "landmark",
+    "rating": 4.1,
+    "description": "A well-known historic landmark in the city centre.",
+    "image": "https://cdn.frei.app/attractions/paris-city-landmark.jpg"
+  },
+  {
+    "id": "statue-of-liberty",
+    "name": "Statue of Liberty",
+    "cityId": "jfk",
+    "category": "landmark",
+    "rating": 4.4,
+    "description": "Iconic neoclassical statue on Liberty Island.",
+    "image": "https://cdn.frei.app/attractions/statue-of-liberty.jpg"
+  },
+  {
+    "id": "central-park",
+    "name": "Central Park",
+    "cityId": "jfk",
+    "category": "nature",
+    "rating": 4.1,
+    "description": "Sprawling urban park in the heart of Manhattan.",
+    "image": "https://cdn.frei.app/attractions/central-park.jpg"
+  },
+  {
+    "id": "metropolitan-museum-of-art",
+    "name": "Metropolitan Museum of Art",
+    "cityId": "jfk",
+    "category": "museum",
+    "rating": 4.3,
+    "description": "One of the world's largest and finest art museums.",
+    "image": "https://cdn.frei.app/attractions/metropolitan-museum-of-art.jpg"
+  },
+  {
+    "id": "times-square",
+    "name": "Times Square",
+    "cityId": "jfk",
+    "category": "nightlife",
+    "rating": 4.6,
+    "description": "Neon-lit hub of Broadway and entertainment.",
+    "image": "https://cdn.frei.app/attractions/times-square.jpg"
+  },
+  {
+    "id": "senso-ji-temple",
+    "name": "Senso-ji Temple",
+    "cityId": "hnd",
+    "category": "landmark",
+    "rating": 4.5,
+    "description": "Tokyo's oldest and most iconic Buddhist temple.",
+    "image": "https://cdn.frei.app/attractions/senso-ji-temple.jpg"
+  },
+  {
+    "id": "shibuya-crossing",
+    "name": "Shibuya Crossing",
+    "cityId": "hnd",
+    "category": "landmark",
+    "rating": 4.4,
+    "description": "The world's busiest pedestrian scramble crossing.",
+    "image": "https://cdn.frei.app/attractions/shibuya-crossing.jpg"
+  },
+  {
+    "id": "tokyo-skytree",
+    "name": "Tokyo Skytree",
+    "cityId": "hnd",
+    "category": "landmark",
+    "rating": 4.1,
+    "description": "Tallest structure in Japan with panoramic views.",
+    "image": "https://cdn.frei.app/attractions/tokyo-skytree.jpg"
+  },
+  {
+    "id": "tsukiji-outer-market",
+    "name": "Tsukiji Outer Market",
+    "cityId": "hnd",
+    "category": "food",
+    "rating": 4.5,
+    "description": "Famed market for fresh seafood and street food.",
+    "image": "https://cdn.frei.app/attractions/tsukiji-outer-market.jpg"
+  },
+  {
+    "id": "akihabara",
+    "name": "Akihabara",
+    "cityId": "hnd",
+    "category": "shopping",
+    "rating": 4.5,
+    "description": "Electronics and anime/manga culture district.",
+    "image": "https://cdn.frei.app/attractions/akihabara.jpg"
+  },
+  {
+    "id": "sydney-opera-house",
+    "name": "Sydney Opera House",
+    "cityId": "syd",
+    "category": "landmark",
+    "rating": 4.6,
+    "description": "Iconic performing arts venue on the harbour.",
+    "image": "https://cdn.frei.app/attractions/sydney-opera-house.jpg"
+  },
+  {
+    "id": "sydney-harbour-bridge",
+    "name": "Sydney Harbour Bridge",
+    "cityId": "syd",
+    "category": "landmark",
+    "rating": 4.3,
+    "description": "Steel arch bridge with a famous climb experience.",
+    "image": "https://cdn.frei.app/attractions/sydney-harbour-bridge.jpg"
+  },
+  {
+    "id": "bondi-beach",
+    "name": "Bondi Beach",
+    "cityId": "syd",
+    "category": "nature",
+    "rating": 4.9,
+    "description": "Famous beach known for surfing and the coastal walk.",
+    "image": "https://cdn.frei.app/attractions/bondi-beach.jpg"
+  },
+  {
+    "id": "taronga-zoo",
+    "name": "Taronga Zoo",
+    "cityId": "syd",
+    "category": "adventure",
+    "rating": 4.2,
+    "description": "Harbourside zoo with native Australian wildlife.",
+    "image": "https://cdn.frei.app/attractions/taronga-zoo.jpg"
+  },
+  {
+    "id": "sydney-city-landmark",
+    "name": "Sydney City Landmark",
+    "cityId": "syd",
+    "category": "landmark",
+    "rating": 4.8,
+    "description": "A well-known historic landmark in the city centre.",
+    "image": "https://cdn.frei.app/attractions/sydney-city-landmark.jpg"
+  },
+  {
+    "id": "sydney-heritage-museum",
+    "name": "Sydney Heritage Museum",
+    "cityId": "syd",
+    "category": "museum",
+    "rating": 4.8,
+    "description": "Local museum showcasing regional history and culture.",
+    "image": "https://cdn.frei.app/attractions/sydney-heritage-museum.jpg"
+  },
+  {
+    "id": "colosseum",
+    "name": "Colosseum",
+    "cityId": "fco",
+    "category": "landmark",
+    "rating": 4.5,
+    "description": "Ancient amphitheatre and symbol of Rome.",
+    "image": "https://cdn.frei.app/attractions/colosseum.jpg"
+  },
+  {
+    "id": "vatican-museums",
+    "name": "Vatican Museums",
+    "cityId": "fco",
+    "category": "museum",
+    "rating": 4.2,
+    "description": "Home to the Sistine Chapel and vast papal art collections.",
+    "image": "https://cdn.frei.app/attractions/vatican-museums.jpg"
+  },
+  {
+    "id": "trevi-fountain",
+    "name": "Trevi Fountain",
+    "cityId": "fco",
+    "category": "landmark",
+    "rating": 4.3,
+    "description": "Baroque fountain famed for its coin-tossing tradition.",
+    "image": "https://cdn.frei.app/attractions/trevi-fountain.jpg"
+  },
+  {
+    "id": "roman-forum",
+    "name": "Roman Forum",
+    "cityId": "fco",
+    "category": "landmark",
+    "rating": 4.2,
+    "description": "Ruins of the ancient city's civic core.",
+    "image": "https://cdn.frei.app/attractions/roman-forum.jpg"
+  },
+  {
+    "id": "hagia-sophia",
+    "name": "Hagia Sophia",
+    "cityId": "ist",
+    "category": "landmark",
+    "rating": 4.6,
+    "description": "Byzantine-era domed monument turned mosque.",
+    "image": "https://cdn.frei.app/attractions/hagia-sophia.jpg"
+  },
+  {
+    "id": "blue-mosque",
+    "name": "Blue Mosque",
+    "cityId": "ist",
+    "category": "landmark",
+    "rating": 4.8,
+    "description": "Ottoman mosque famed for its blue tiled interior.",
+    "image": "https://cdn.frei.app/attractions/blue-mosque.jpg"
+  },
+  {
+    "id": "grand-bazaar",
+    "name": "Grand Bazaar",
+    "cityId": "ist",
+    "category": "shopping",
+    "rating": 4.4,
+    "description": "One of the world's oldest and largest covered markets.",
+    "image": "https://cdn.frei.app/attractions/grand-bazaar.jpg"
+  },
+  {
+    "id": "bosphorus-cruise",
+    "name": "Bosphorus Cruise",
+    "cityId": "ist",
+    "category": "adventure",
+    "rating": 4.7,
+    "description": "Scenic boat tour between Europe and Asia.",
+    "image": "https://cdn.frei.app/attractions/bosphorus-cruise.jpg"
+  },
+  {
+    "id": "istanbul-city-landmark",
+    "name": "Istanbul City Landmark",
+    "cityId": "ist",
+    "category": "landmark",
+    "rating": 4.7,
+    "description": "A well-known historic landmark in the city centre.",
+    "image": "https://cdn.frei.app/attractions/istanbul-city-landmark.jpg"
+  },
+  {
+    "id": "doha-city-landmark",
+    "name": "Doha City Landmark",
+    "cityId": "doh",
+    "category": "landmark",
+    "rating": 4.9,
+    "description": "A well-known historic landmark in the city centre.",
+    "image": "https://cdn.frei.app/attractions/doha-city-landmark.jpg"
+  },
+  {
+    "id": "doha-heritage-museum",
+    "name": "Doha Heritage Museum",
+    "cityId": "doh",
+    "category": "museum",
+    "rating": 4.5,
+    "description": "Local museum showcasing regional history and culture.",
+    "image": "https://cdn.frei.app/attractions/doha-heritage-museum.jpg"
+  },
+  {
+    "id": "doha-central-park",
+    "name": "Doha Central Park",
+    "cityId": "doh",
+    "category": "nature",
+    "rating": 4.6,
+    "description": "Green public park popular with locals and visitors.",
+    "image": "https://cdn.frei.app/attractions/doha-central-park.jpg"
+  },
+  {
+    "id": "doha-old-town-market",
+    "name": "Doha Old Town Market",
+    "cityId": "doh",
+    "category": "shopping",
+    "rating": 4.7,
+    "description": "Traditional market street for local crafts and goods.",
+    "image": "https://cdn.frei.app/attractions/doha-old-town-market.jpg"
+  },
+  {
+    "id": "doha-riverside-promenade",
+    "name": "Doha Riverside Promenade",
+    "cityId": "doh",
+    "category": "nature",
+    "rating": 4.3,
+    "description": "Scenic walkway along the water, popular at sunset.",
+    "image": "https://cdn.frei.app/attractions/doha-riverside-promenade.jpg"
+  },
+  {
+    "id": "doha-night-bazaar",
+    "name": "Doha Night Bazaar",
+    "cityId": "doh",
+    "category": "nightlife",
+    "rating": 4.5,
+    "description": "Evening market and food street popular after dark.",
+    "image": "https://cdn.frei.app/attractions/doha-night-bazaar.jpg"
+  },
+  {
+    "id": "hong-kong-city-landmark",
+    "name": "Hong Kong City Landmark",
+    "cityId": "hkg",
+    "category": "landmark",
+    "rating": 4.1,
+    "description": "A well-known historic landmark in the city centre.",
+    "image": "https://cdn.frei.app/attractions/hong-kong-city-landmark.jpg"
+  },
+  {
+    "id": "hong-kong-heritage-museum",
+    "name": "Hong Kong Heritage Museum",
+    "cityId": "hkg",
+    "category": "museum",
+    "rating": 4.7,
+    "description": "Local museum showcasing regional history and culture.",
+    "image": "https://cdn.frei.app/attractions/hong-kong-heritage-museum.jpg"
+  },
+  {
+    "id": "hong-kong-central-park",
+    "name": "Hong Kong Central Park",
+    "cityId": "hkg",
+    "category": "nature",
+    "rating": 4.1,
+    "description": "Green public park popular with locals and visitors.",
+    "image": "https://cdn.frei.app/attractions/hong-kong-central-park.jpg"
+  },
+  {
+    "id": "hong-kong-old-town-market",
+    "name": "Hong Kong Old Town Market",
+    "cityId": "hkg",
+    "category": "shopping",
+    "rating": 4,
+    "description": "Traditional market street for local crafts and goods.",
+    "image": "https://cdn.frei.app/attractions/hong-kong-old-town-market.jpg"
+  },
+  {
+    "id": "seoul-city-landmark",
+    "name": "Seoul City Landmark",
+    "cityId": "icn",
+    "category": "landmark",
+    "rating": 4.1,
+    "description": "A well-known historic landmark in the city centre.",
+    "image": "https://cdn.frei.app/attractions/seoul-city-landmark.jpg"
+  },
+  {
+    "id": "seoul-heritage-museum",
+    "name": "Seoul Heritage Museum",
+    "cityId": "icn",
+    "category": "museum",
+    "rating": 4.1,
+    "description": "Local museum showcasing regional history and culture.",
+    "image": "https://cdn.frei.app/attractions/seoul-heritage-museum.jpg"
+  },
+  {
+    "id": "seoul-central-park",
+    "name": "Seoul Central Park",
+    "cityId": "icn",
+    "category": "nature",
+    "rating": 4.8,
+    "description": "Green public park popular with locals and visitors.",
+    "image": "https://cdn.frei.app/attractions/seoul-central-park.jpg"
+  },
+  {
+    "id": "seoul-old-town-market",
+    "name": "Seoul Old Town Market",
+    "cityId": "icn",
+    "category": "shopping",
+    "rating": 4.4,
+    "description": "Traditional market street for local crafts and goods.",
+    "image": "https://cdn.frei.app/attractions/seoul-old-town-market.jpg"
+  },
+  {
+    "id": "seoul-riverside-promenade",
+    "name": "Seoul Riverside Promenade",
+    "cityId": "icn",
+    "category": "nature",
+    "rating": 4.8,
+    "description": "Scenic walkway along the water, popular at sunset.",
+    "image": "https://cdn.frei.app/attractions/seoul-riverside-promenade.jpg"
+  },
+  {
+    "id": "amsterdam-city-landmark",
+    "name": "Amsterdam City Landmark",
+    "cityId": "ams",
+    "category": "landmark",
+    "rating": 4.2,
+    "description": "A well-known historic landmark in the city centre.",
+    "image": "https://cdn.frei.app/attractions/amsterdam-city-landmark.jpg"
+  },
+  {
+    "id": "amsterdam-heritage-museum",
+    "name": "Amsterdam Heritage Museum",
+    "cityId": "ams",
+    "category": "museum",
+    "rating": 4.5,
+    "description": "Local museum showcasing regional history and culture.",
+    "image": "https://cdn.frei.app/attractions/amsterdam-heritage-museum.jpg"
+  },
+  {
+    "id": "amsterdam-central-park",
+    "name": "Amsterdam Central Park",
+    "cityId": "ams",
+    "category": "nature",
+    "rating": 4.5,
+    "description": "Green public park popular with locals and visitors.",
+    "image": "https://cdn.frei.app/attractions/amsterdam-central-park.jpg"
+  },
+  {
+    "id": "amsterdam-old-town-market",
+    "name": "Amsterdam Old Town Market",
+    "cityId": "ams",
+    "category": "shopping",
+    "rating": 4.5,
+    "description": "Traditional market street for local crafts and goods.",
+    "image": "https://cdn.frei.app/attractions/amsterdam-old-town-market.jpg"
+  },
+  {
+    "id": "amsterdam-riverside-promenade",
+    "name": "Amsterdam Riverside Promenade",
+    "cityId": "ams",
+    "category": "nature",
+    "rating": 4.3,
+    "description": "Scenic walkway along the water, popular at sunset.",
+    "image": "https://cdn.frei.app/attractions/amsterdam-riverside-promenade.jpg"
+  },
+  {
+    "id": "amsterdam-night-bazaar",
+    "name": "Amsterdam Night Bazaar",
+    "cityId": "ams",
+    "category": "nightlife",
+    "rating": 4.9,
+    "description": "Evening market and food street popular after dark.",
+    "image": "https://cdn.frei.app/attractions/amsterdam-night-bazaar.jpg"
+  },
+  {
+    "id": "male-city-landmark",
+    "name": "Male City Landmark",
+    "cityId": "mle",
+    "category": "landmark",
+    "rating": 4,
+    "description": "A well-known historic landmark in the city centre.",
+    "image": "https://cdn.frei.app/attractions/male-city-landmark.jpg"
+  },
+  {
+    "id": "male-heritage-museum",
+    "name": "Male Heritage Museum",
+    "cityId": "mle",
+    "category": "museum",
+    "rating": 4.2,
+    "description": "Local museum showcasing regional history and culture.",
+    "image": "https://cdn.frei.app/attractions/male-heritage-museum.jpg"
+  },
+  {
+    "id": "male-central-park",
+    "name": "Male Central Park",
+    "cityId": "mle",
+    "category": "nature",
+    "rating": 4.3,
+    "description": "Green public park popular with locals and visitors.",
+    "image": "https://cdn.frei.app/attractions/male-central-park.jpg"
+  },
+  {
+    "id": "male-old-town-market",
+    "name": "Male Old Town Market",
+    "cityId": "mle",
+    "category": "shopping",
+    "rating": 4.6,
+    "description": "Traditional market street for local crafts and goods.",
+    "image": "https://cdn.frei.app/attractions/male-old-town-market.jpg"
+  },
+  {
+    "id": "kathmandu-city-landmark",
+    "name": "Kathmandu City Landmark",
+    "cityId": "ktm",
+    "category": "landmark",
+    "rating": 4.8,
+    "description": "A well-known historic landmark in the city centre.",
+    "image": "https://cdn.frei.app/attractions/kathmandu-city-landmark.jpg"
+  },
+  {
+    "id": "kathmandu-heritage-museum",
+    "name": "Kathmandu Heritage Museum",
+    "cityId": "ktm",
+    "category": "museum",
+    "rating": 4.5,
+    "description": "Local museum showcasing regional history and culture.",
+    "image": "https://cdn.frei.app/attractions/kathmandu-heritage-museum.jpg"
+  },
+  {
+    "id": "kathmandu-central-park",
+    "name": "Kathmandu Central Park",
+    "cityId": "ktm",
+    "category": "nature",
+    "rating": 4.1,
+    "description": "Green public park popular with locals and visitors.",
+    "image": "https://cdn.frei.app/attractions/kathmandu-central-park.jpg"
+  },
+  {
+    "id": "kathmandu-old-town-market",
+    "name": "Kathmandu Old Town Market",
+    "cityId": "ktm",
+    "category": "shopping",
+    "rating": 4.8,
+    "description": "Traditional market street for local crafts and goods.",
+    "image": "https://cdn.frei.app/attractions/kathmandu-old-town-market.jpg"
+  },
+  {
+    "id": "kathmandu-riverside-promenade",
+    "name": "Kathmandu Riverside Promenade",
+    "cityId": "ktm",
+    "category": "nature",
+    "rating": 4.2,
+    "description": "Scenic walkway along the water, popular at sunset.",
+    "image": "https://cdn.frei.app/attractions/kathmandu-riverside-promenade.jpg"
+  },
+  {
+    "id": "colombo-city-landmark",
+    "name": "Colombo City Landmark",
+    "cityId": "cmb",
+    "category": "landmark",
+    "rating": 4.8,
+    "description": "A well-known historic landmark in the city centre.",
+    "image": "https://cdn.frei.app/attractions/colombo-city-landmark.jpg"
+  },
+  {
+    "id": "colombo-heritage-museum",
+    "name": "Colombo Heritage Museum",
+    "cityId": "cmb",
+    "category": "museum",
+    "rating": 4.9,
+    "description": "Local museum showcasing regional history and culture.",
+    "image": "https://cdn.frei.app/attractions/colombo-heritage-museum.jpg"
+  },
+  {
+    "id": "colombo-central-park",
+    "name": "Colombo Central Park",
+    "cityId": "cmb",
+    "category": "nature",
+    "rating": 4.2,
+    "description": "Green public park popular with locals and visitors.",
+    "image": "https://cdn.frei.app/attractions/colombo-central-park.jpg"
+  },
+  {
+    "id": "colombo-old-town-market",
+    "name": "Colombo Old Town Market",
+    "cityId": "cmb",
+    "category": "shopping",
+    "rating": 4.2,
+    "description": "Traditional market street for local crafts and goods.",
+    "image": "https://cdn.frei.app/attractions/colombo-old-town-market.jpg"
+  },
+  {
+    "id": "colombo-riverside-promenade",
+    "name": "Colombo Riverside Promenade",
+    "cityId": "cmb",
+    "category": "nature",
+    "rating": 4.5,
+    "description": "Scenic walkway along the water, popular at sunset.",
+    "image": "https://cdn.frei.app/attractions/colombo-riverside-promenade.jpg"
+  },
+  {
+    "id": "colombo-night-bazaar",
+    "name": "Colombo Night Bazaar",
+    "cityId": "cmb",
+    "category": "nightlife",
+    "rating": 4.7,
+    "description": "Evening market and food street popular after dark.",
+    "image": "https://cdn.frei.app/attractions/colombo-night-bazaar.jpg"
+  },
+  {
+    "id": "san-francisco-city-landmark",
+    "name": "San Francisco City Landmark",
+    "cityId": "sfo",
+    "category": "landmark",
+    "rating": 4.4,
+    "description": "A well-known historic landmark in the city centre.",
+    "image": "https://cdn.frei.app/attractions/san-francisco-city-landmark.jpg"
+  },
+  {
+    "id": "san-francisco-heritage-museum",
+    "name": "San Francisco Heritage Museum",
+    "cityId": "sfo",
+    "category": "museum",
+    "rating": 4.5,
+    "description": "Local museum showcasing regional history and culture.",
+    "image": "https://cdn.frei.app/attractions/san-francisco-heritage-museum.jpg"
+  },
+  {
+    "id": "san-francisco-central-park",
+    "name": "San Francisco Central Park",
+    "cityId": "sfo",
+    "category": "nature",
+    "rating": 4.8,
+    "description": "Green public park popular with locals and visitors.",
+    "image": "https://cdn.frei.app/attractions/san-francisco-central-park.jpg"
+  },
+  {
+    "id": "san-francisco-old-town-market",
+    "name": "San Francisco Old Town Market",
+    "cityId": "sfo",
+    "category": "shopping",
+    "rating": 4.6,
+    "description": "Traditional market street for local crafts and goods.",
+    "image": "https://cdn.frei.app/attractions/san-francisco-old-town-market.jpg"
+  }
+]

@@ -1,0 +1,2000 @@
+[
+  {
+    "id": "bom-grand-hotel",
+    "name": "The Mumbai Grand Hotel",
+    "cityId": "bom",
+    "starRating": 5,
+    "userRating": 3.8,
+    "pricePerNight": 11200,
+    "currency": "INR",
+    "amenities": [
+      "Pool",
+      "Spa",
+      "Free WiFi",
+      "Breakfast included",
+      "Airport shuttle"
+    ],
+    "image": "https://cdn.frei.app/hotels/bom-grand-hotel.jpg",
+    "address": "Grand Hotel, Mumbai, India"
+  },
+  {
+    "id": "bom-palace-residency",
+    "name": "The Mumbai Palace Residency",
+    "cityId": "bom",
+    "starRating": 4,
+    "userRating": 4.8,
+    "pricePerNight": 12000,
+    "currency": "INR",
+    "amenities": [
+      "Free WiFi",
+      "Breakfast included",
+      "Gym",
+      "Room service"
+    ],
+    "image": "https://cdn.frei.app/hotels/bom-palace-residency.jpg",
+    "address": "Palace Residency, Mumbai, India"
+  },
+  {
+    "id": "del-grand-hotel",
+    "name": "The Delhi Grand Hotel",
+    "cityId": "del",
+    "starRating": 5,
+    "userRating": 4.5,
+    "pricePerNight": 13200,
+    "currency": "INR",
+    "amenities": [
+      "Pool",
+      "Spa",
+      "Free WiFi",
+      "Breakfast included",
+      "Airport shuttle"
+    ],
+    "image": "https://cdn.frei.app/hotels/del-grand-hotel.jpg",
+    "address": "Grand Hotel, Delhi, India"
+  },
+  {
+    "id": "del-palace-residency",
+    "name": "The Delhi Palace Residency",
+    "cityId": "del",
+    "starRating": 4,
+    "userRating": 4.3,
+    "pricePerNight": 10800,
+    "currency": "INR",
+    "amenities": [
+      "Free WiFi",
+      "Breakfast included",
+      "Gym",
+      "Room service"
+    ],
+    "image": "https://cdn.frei.app/hotels/del-palace-residency.jpg",
+    "address": "Palace Residency, Delhi, India"
+  },
+  {
+    "id": "del-boutique-inn",
+    "name": "The Delhi Boutique Inn",
+    "cityId": "del",
+    "starRating": 3,
+    "userRating": 4.6,
+    "pricePerNight": 9900,
+    "currency": "INR",
+    "amenities": [
+      "Free WiFi",
+      "Rooftop cafe"
+    ],
+    "image": "https://cdn.frei.app/hotels/del-boutique-inn.jpg",
+    "address": "Boutique Inn, Delhi, India"
+  },
+  {
+    "id": "blr-grand-hotel",
+    "name": "The Bengaluru Grand Hotel",
+    "cityId": "blr",
+    "starRating": 5,
+    "userRating": 4.4,
+    "pricePerNight": 13000,
+    "currency": "INR",
+    "amenities": [
+      "Pool",
+      "Spa",
+      "Free WiFi",
+      "Breakfast included",
+      "Airport shuttle"
+    ],
+    "image": "https://cdn.frei.app/hotels/blr-grand-hotel.jpg",
+    "address": "Grand Hotel, Bengaluru, India"
+  },
+  {
+    "id": "blr-palace-residency",
+    "name": "The Bengaluru Palace Residency",
+    "cityId": "blr",
+    "starRating": 4,
+    "userRating": 3.9,
+    "pricePerNight": 9800,
+    "currency": "INR",
+    "amenities": [
+      "Free WiFi",
+      "Breakfast included",
+      "Gym",
+      "Room service"
+    ],
+    "image": "https://cdn.frei.app/hotels/blr-palace-residency.jpg",
+    "address": "Palace Residency, Bengaluru, India"
+  },
+  {
+    "id": "blr-boutique-inn",
+    "name": "The Bengaluru Boutique Inn",
+    "cityId": "blr",
+    "starRating": 3,
+    "userRating": 3.9,
+    "pricePerNight": 8000,
+    "currency": "INR",
+    "amenities": [
+      "Free WiFi",
+      "Rooftop cafe"
+    ],
+    "image": "https://cdn.frei.app/hotels/blr-boutique-inn.jpg",
+    "address": "Boutique Inn, Bengaluru, India"
+  },
+  {
+    "id": "blr-comfort-stay",
+    "name": "The Bengaluru Comfort Stay",
+    "cityId": "blr",
+    "starRating": 3.5,
+    "userRating": 4.6,
+    "pricePerNight": 10700,
+    "currency": "INR",
+    "amenities": [
+      "Free WiFi",
+      "Breakfast included",
+      "Parking"
+    ],
+    "image": "https://cdn.frei.app/hotels/blr-comfort-stay.jpg",
+    "address": "Comfort Stay, Bengaluru, India"
+  },
+  {
+    "id": "hyd-grand-hotel",
+    "name": "The Hyderabad Grand Hotel",
+    "cityId": "hyd",
+    "starRating": 5,
+    "userRating": 4.8,
+    "pricePerNight": 14100,
+    "currency": "INR",
+    "amenities": [
+      "Pool",
+      "Spa",
+      "Free WiFi",
+      "Breakfast included",
+      "Airport shuttle"
+    ],
+    "image": "https://cdn.frei.app/hotels/hyd-grand-hotel.jpg",
+    "address": "Grand Hotel, Hyderabad, India"
+  },
+  {
+    "id": "hyd-palace-residency",
+    "name": "The Hyderabad Palace Residency",
+    "cityId": "hyd",
+    "starRating": 4,
+    "userRating": 4.8,
+    "pricePerNight": 12100,
+    "currency": "INR",
+    "amenities": [
+      "Free WiFi",
+      "Breakfast included",
+      "Gym",
+      "Room service"
+    ],
+    "image": "https://cdn.frei.app/hotels/hyd-palace-residency.jpg",
+    "address": "Palace Residency, Hyderabad, India"
+  },
+  {
+    "id": "maa-grand-hotel",
+    "name": "The Chennai Grand Hotel",
+    "cityId": "maa",
+    "starRating": 5,
+    "userRating": 4.1,
+    "pricePerNight": 12000,
+    "currency": "INR",
+    "amenities": [
+      "Pool",
+      "Spa",
+      "Free WiFi",
+      "Breakfast included",
+      "Airport shuttle"
+    ],
+    "image": "https://cdn.frei.app/hotels/maa-grand-hotel.jpg",
+    "address": "Grand Hotel, Chennai, India"
+  },
+  {
+    "id": "maa-palace-residency",
+    "name": "The Chennai Palace Residency",
+    "cityId": "maa",
+    "starRating": 4,
+    "userRating": 4.2,
+    "pricePerNight": 10500,
+    "currency": "INR",
+    "amenities": [
+      "Free WiFi",
+      "Breakfast included",
+      "Gym",
+      "Room service"
+    ],
+    "image": "https://cdn.frei.app/hotels/maa-palace-residency.jpg",
+    "address": "Palace Residency, Chennai, India"
+  },
+  {
+    "id": "maa-boutique-inn",
+    "name": "The Chennai Boutique Inn",
+    "cityId": "maa",
+    "starRating": 3,
+    "userRating": 4.3,
+    "pricePerNight": 9100,
+    "currency": "INR",
+    "amenities": [
+      "Free WiFi",
+      "Rooftop cafe"
+    ],
+    "image": "https://cdn.frei.app/hotels/maa-boutique-inn.jpg",
+    "address": "Boutique Inn, Chennai, India"
+  },
+  {
+    "id": "ccu-grand-hotel",
+    "name": "The Kolkata Grand Hotel",
+    "cityId": "ccu",
+    "starRating": 5,
+    "userRating": 4.1,
+    "pricePerNight": 12100,
+    "currency": "INR",
+    "amenities": [
+      "Pool",
+      "Spa",
+      "Free WiFi",
+      "Breakfast included",
+      "Airport shuttle"
+    ],
+    "image": "https://cdn.frei.app/hotels/ccu-grand-hotel.jpg",
+    "address": "Grand Hotel, Kolkata, India"
+  },
+  {
+    "id": "ccu-palace-residency",
+    "name": "The Kolkata Palace Residency",
+    "cityId": "ccu",
+    "starRating": 4,
+    "userRating": 4.1,
+    "pricePerNight": 10100,
+    "currency": "INR",
+    "amenities": [
+      "Free WiFi",
+      "Breakfast included",
+      "Gym",
+      "Room service"
+    ],
+    "image": "https://cdn.frei.app/hotels/ccu-palace-residency.jpg",
+    "address": "Palace Residency, Kolkata, India"
+  },
+  {
+    "id": "ccu-boutique-inn",
+    "name": "The Kolkata Boutique Inn",
+    "cityId": "ccu",
+    "starRating": 3,
+    "userRating": 4.8,
+    "pricePerNight": 10200,
+    "currency": "INR",
+    "amenities": [
+      "Free WiFi",
+      "Rooftop cafe"
+    ],
+    "image": "https://cdn.frei.app/hotels/ccu-boutique-inn.jpg",
+    "address": "Boutique Inn, Kolkata, India"
+  },
+  {
+    "id": "ccu-comfort-stay",
+    "name": "The Kolkata Comfort Stay",
+    "cityId": "ccu",
+    "starRating": 3.5,
+    "userRating": 4.3,
+    "pricePerNight": 9700,
+    "currency": "INR",
+    "amenities": [
+      "Free WiFi",
+      "Breakfast included",
+      "Parking"
+    ],
+    "image": "https://cdn.frei.app/hotels/ccu-comfort-stay.jpg",
+    "address": "Comfort Stay, Kolkata, India"
+  },
+  {
+    "id": "pnq-grand-hotel",
+    "name": "The Pune Grand Hotel",
+    "cityId": "pnq",
+    "starRating": 5,
+    "userRating": 4.7,
+    "pricePerNight": 13600,
+    "currency": "INR",
+    "amenities": [
+      "Pool",
+      "Spa",
+      "Free WiFi",
+      "Breakfast included",
+      "Airport shuttle"
+    ],
+    "image": "https://cdn.frei.app/hotels/pnq-grand-hotel.jpg",
+    "address": "Grand Hotel, Pune, India"
+  },
+  {
+    "id": "pnq-palace-residency",
+    "name": "The Pune Palace Residency",
+    "cityId": "pnq",
+    "starRating": 4,
+    "userRating": 4.1,
+    "pricePerNight": 10100,
+    "currency": "INR",
+    "amenities": [
+      "Free WiFi",
+      "Breakfast included",
+      "Gym",
+      "Room service"
+    ],
+    "image": "https://cdn.frei.app/hotels/pnq-palace-residency.jpg",
+    "address": "Palace Residency, Pune, India"
+  },
+  {
+    "id": "amd-grand-hotel",
+    "name": "The Ahmedabad Grand Hotel",
+    "cityId": "amd",
+    "starRating": 5,
+    "userRating": 4.8,
+    "pricePerNight": 13800,
+    "currency": "INR",
+    "amenities": [
+      "Pool",
+      "Spa",
+      "Free WiFi",
+      "Breakfast included",
+      "Airport shuttle"
+    ],
+    "image": "https://cdn.frei.app/hotels/amd-grand-hotel.jpg",
+    "address": "Grand Hotel, Ahmedabad, India"
+  },
+  {
+    "id": "amd-palace-residency",
+    "name": "The Ahmedabad Palace Residency",
+    "cityId": "amd",
+    "starRating": 4,
+    "userRating": 4,
+    "pricePerNight": 9900,
+    "currency": "INR",
+    "amenities": [
+      "Free WiFi",
+      "Breakfast included",
+      "Gym",
+      "Room service"
+    ],
+    "image": "https://cdn.frei.app/hotels/amd-palace-residency.jpg",
+    "address": "Palace Residency, Ahmedabad, India"
+  },
+  {
+    "id": "amd-boutique-inn",
+    "name": "The Ahmedabad Boutique Inn",
+    "cityId": "amd",
+    "starRating": 3,
+    "userRating": 4.5,
+    "pricePerNight": 9500,
+    "currency": "INR",
+    "amenities": [
+      "Free WiFi",
+      "Rooftop cafe"
+    ],
+    "image": "https://cdn.frei.app/hotels/amd-boutique-inn.jpg",
+    "address": "Boutique Inn, Ahmedabad, India"
+  },
+  {
+    "id": "jai-grand-hotel",
+    "name": "The Jaipur Grand Hotel",
+    "cityId": "jai",
+    "starRating": 5,
+    "userRating": 4.7,
+    "pricePerNight": 13500,
+    "currency": "INR",
+    "amenities": [
+      "Pool",
+      "Spa",
+      "Free WiFi",
+      "Breakfast included",
+      "Airport shuttle"
+    ],
+    "image": "https://cdn.frei.app/hotels/jai-grand-hotel.jpg",
+    "address": "Grand Hotel, Jaipur, India"
+  },
+  {
+    "id": "jai-palace-residency",
+    "name": "The Jaipur Palace Residency",
+    "cityId": "jai",
+    "starRating": 4,
+    "userRating": 4.3,
+    "pricePerNight": 10900,
+    "currency": "INR",
+    "amenities": [
+      "Free WiFi",
+      "Breakfast included",
+      "Gym",
+      "Room service"
+    ],
+    "image": "https://cdn.frei.app/hotels/jai-palace-residency.jpg",
+    "address": "Palace Residency, Jaipur, India"
+  },
+  {
+    "id": "jai-boutique-inn",
+    "name": "The Jaipur Boutique Inn",
+    "cityId": "jai",
+    "starRating": 3,
+    "userRating": 4.3,
+    "pricePerNight": 9000,
+    "currency": "INR",
+    "amenities": [
+      "Free WiFi",
+      "Rooftop cafe"
+    ],
+    "image": "https://cdn.frei.app/hotels/jai-boutique-inn.jpg",
+    "address": "Boutique Inn, Jaipur, India"
+  },
+  {
+    "id": "jai-comfort-stay",
+    "name": "The Jaipur Comfort Stay",
+    "cityId": "jai",
+    "starRating": 3.5,
+    "userRating": 4.5,
+    "pricePerNight": 10300,
+    "currency": "INR",
+    "amenities": [
+      "Free WiFi",
+      "Breakfast included",
+      "Parking"
+    ],
+    "image": "https://cdn.frei.app/hotels/jai-comfort-stay.jpg",
+    "address": "Comfort Stay, Jaipur, India"
+  },
+  {
+    "id": "goi-grand-hotel",
+    "name": "The Goa Grand Hotel",
+    "cityId": "goi",
+    "starRating": 5,
+    "userRating": 3.8,
+    "pricePerNight": 11300,
+    "currency": "INR",
+    "amenities": [
+      "Pool",
+      "Spa",
+      "Free WiFi",
+      "Breakfast included",
+      "Airport shuttle"
+    ],
+    "image": "https://cdn.frei.app/hotels/goi-grand-hotel.jpg",
+    "address": "Grand Hotel, Goa, India"
+  },
+  {
+    "id": "goi-palace-residency",
+    "name": "The Goa Palace Residency",
+    "cityId": "goi",
+    "starRating": 4,
+    "userRating": 3.9,
+    "pricePerNight": 9800,
+    "currency": "INR",
+    "amenities": [
+      "Free WiFi",
+      "Breakfast included",
+      "Gym",
+      "Room service"
+    ],
+    "image": "https://cdn.frei.app/hotels/goi-palace-residency.jpg",
+    "address": "Palace Residency, Goa, India"
+  },
+  {
+    "id": "cok-grand-hotel",
+    "name": "The Kochi Grand Hotel",
+    "cityId": "cok",
+    "starRating": 5,
+    "userRating": 4.8,
+    "pricePerNight": 14000,
+    "currency": "INR",
+    "amenities": [
+      "Pool",
+      "Spa",
+      "Free WiFi",
+      "Breakfast included",
+      "Airport shuttle"
+    ],
+    "image": "https://cdn.frei.app/hotels/cok-grand-hotel.jpg",
+    "address": "Grand Hotel, Kochi, India"
+  },
+  {
+    "id": "cok-palace-residency",
+    "name": "The Kochi Palace Residency",
+    "cityId": "cok",
+    "starRating": 4,
+    "userRating": 4.7,
+    "pricePerNight": 12000,
+    "currency": "INR",
+    "amenities": [
+      "Free WiFi",
+      "Breakfast included",
+      "Gym",
+      "Room service"
+    ],
+    "image": "https://cdn.frei.app/hotels/cok-palace-residency.jpg",
+    "address": "Palace Residency, Kochi, India"
+  },
+  {
+    "id": "cok-boutique-inn",
+    "name": "The Kochi Boutique Inn",
+    "cityId": "cok",
+    "starRating": 3,
+    "userRating": 4.7,
+    "pricePerNight": 10000,
+    "currency": "INR",
+    "amenities": [
+      "Free WiFi",
+      "Rooftop cafe"
+    ],
+    "image": "https://cdn.frei.app/hotels/cok-boutique-inn.jpg",
+    "address": "Boutique Inn, Kochi, India"
+  },
+  {
+    "id": "lko-grand-hotel",
+    "name": "The Lucknow Grand Hotel",
+    "cityId": "lko",
+    "starRating": 5,
+    "userRating": 4.4,
+    "pricePerNight": 12800,
+    "currency": "INR",
+    "amenities": [
+      "Pool",
+      "Spa",
+      "Free WiFi",
+      "Breakfast included",
+      "Airport shuttle"
+    ],
+    "image": "https://cdn.frei.app/hotels/lko-grand-hotel.jpg",
+    "address": "Grand Hotel, Lucknow, India"
+  },
+  {
+    "id": "lko-palace-residency",
+    "name": "The Lucknow Palace Residency",
+    "cityId": "lko",
+    "starRating": 4,
+    "userRating": 4.1,
+    "pricePerNight": 10100,
+    "currency": "INR",
+    "amenities": [
+      "Free WiFi",
+      "Breakfast included",
+      "Gym",
+      "Room service"
+    ],
+    "image": "https://cdn.frei.app/hotels/lko-palace-residency.jpg",
+    "address": "Palace Residency, Lucknow, India"
+  },
+  {
+    "id": "lko-boutique-inn",
+    "name": "The Lucknow Boutique Inn",
+    "cityId": "lko",
+    "starRating": 3,
+    "userRating": 4.4,
+    "pricePerNight": 9100,
+    "currency": "INR",
+    "amenities": [
+      "Free WiFi",
+      "Rooftop cafe"
+    ],
+    "image": "https://cdn.frei.app/hotels/lko-boutique-inn.jpg",
+    "address": "Boutique Inn, Lucknow, India"
+  },
+  {
+    "id": "lko-comfort-stay",
+    "name": "The Lucknow Comfort Stay",
+    "cityId": "lko",
+    "starRating": 3.5,
+    "userRating": 4.2,
+    "pricePerNight": 9500,
+    "currency": "INR",
+    "amenities": [
+      "Free WiFi",
+      "Breakfast included",
+      "Parking"
+    ],
+    "image": "https://cdn.frei.app/hotels/lko-comfort-stay.jpg",
+    "address": "Comfort Stay, Lucknow, India"
+  },
+  {
+    "id": "ixc-grand-hotel",
+    "name": "The Chandigarh Grand Hotel",
+    "cityId": "ixc",
+    "starRating": 5,
+    "userRating": 4,
+    "pricePerNight": 11700,
+    "currency": "INR",
+    "amenities": [
+      "Pool",
+      "Spa",
+      "Free WiFi",
+      "Breakfast included",
+      "Airport shuttle"
+    ],
+    "image": "https://cdn.frei.app/hotels/ixc-grand-hotel.jpg",
+    "address": "Grand Hotel, Chandigarh, India"
+  },
+  {
+    "id": "ixc-palace-residency",
+    "name": "The Chandigarh Palace Residency",
+    "cityId": "ixc",
+    "starRating": 4,
+    "userRating": 4.8,
+    "pricePerNight": 12100,
+    "currency": "INR",
+    "amenities": [
+      "Free WiFi",
+      "Breakfast included",
+      "Gym",
+      "Room service"
+    ],
+    "image": "https://cdn.frei.app/hotels/ixc-palace-residency.jpg",
+    "address": "Palace Residency, Chandigarh, India"
+  },
+  {
+    "id": "gau-grand-hotel",
+    "name": "The Guwahati Grand Hotel",
+    "cityId": "gau",
+    "starRating": 5,
+    "userRating": 3.8,
+    "pricePerNight": 11200,
+    "currency": "INR",
+    "amenities": [
+      "Pool",
+      "Spa",
+      "Free WiFi",
+      "Breakfast included",
+      "Airport shuttle"
+    ],
+    "image": "https://cdn.frei.app/hotels/gau-grand-hotel.jpg",
+    "address": "Grand Hotel, Guwahati, India"
+  },
+  {
+    "id": "gau-palace-residency",
+    "name": "The Guwahati Palace Residency",
+    "cityId": "gau",
+    "starRating": 4,
+    "userRating": 4.4,
+    "pricePerNight": 11000,
+    "currency": "INR",
+    "amenities": [
+      "Free WiFi",
+      "Breakfast included",
+      "Gym",
+      "Room service"
+    ],
+    "image": "https://cdn.frei.app/hotels/gau-palace-residency.jpg",
+    "address": "Palace Residency, Guwahati, India"
+  },
+  {
+    "id": "gau-boutique-inn",
+    "name": "The Guwahati Boutique Inn",
+    "cityId": "gau",
+    "starRating": 3,
+    "userRating": 4.7,
+    "pricePerNight": 10000,
+    "currency": "INR",
+    "amenities": [
+      "Free WiFi",
+      "Rooftop cafe"
+    ],
+    "image": "https://cdn.frei.app/hotels/gau-boutique-inn.jpg",
+    "address": "Boutique Inn, Guwahati, India"
+  },
+  {
+    "id": "bbi-grand-hotel",
+    "name": "The Bhubaneswar Grand Hotel",
+    "cityId": "bbi",
+    "starRating": 5,
+    "userRating": 4,
+    "pricePerNight": 11800,
+    "currency": "INR",
+    "amenities": [
+      "Pool",
+      "Spa",
+      "Free WiFi",
+      "Breakfast included",
+      "Airport shuttle"
+    ],
+    "image": "https://cdn.frei.app/hotels/bbi-grand-hotel.jpg",
+    "address": "Grand Hotel, Bhubaneswar, India"
+  },
+  {
+    "id": "bbi-palace-residency",
+    "name": "The Bhubaneswar Palace Residency",
+    "cityId": "bbi",
+    "starRating": 4,
+    "userRating": 4,
+    "pricePerNight": 9900,
+    "currency": "INR",
+    "amenities": [
+      "Free WiFi",
+      "Breakfast included",
+      "Gym",
+      "Room service"
+    ],
+    "image": "https://cdn.frei.app/hotels/bbi-palace-residency.jpg",
+    "address": "Palace Residency, Bhubaneswar, India"
+  },
+  {
+    "id": "bbi-boutique-inn",
+    "name": "The Bhubaneswar Boutique Inn",
+    "cityId": "bbi",
+    "starRating": 3,
+    "userRating": 4.1,
+    "pricePerNight": 8500,
+    "currency": "INR",
+    "amenities": [
+      "Free WiFi",
+      "Rooftop cafe"
+    ],
+    "image": "https://cdn.frei.app/hotels/bbi-boutique-inn.jpg",
+    "address": "Boutique Inn, Bhubaneswar, India"
+  },
+  {
+    "id": "bbi-comfort-stay",
+    "name": "The Bhubaneswar Comfort Stay",
+    "cityId": "bbi",
+    "starRating": 3.5,
+    "userRating": 3.9,
+    "pricePerNight": 8800,
+    "currency": "INR",
+    "amenities": [
+      "Free WiFi",
+      "Breakfast included",
+      "Parking"
+    ],
+    "image": "https://cdn.frei.app/hotels/bbi-comfort-stay.jpg",
+    "address": "Comfort Stay, Bhubaneswar, India"
+  },
+  {
+    "id": "idr-grand-hotel",
+    "name": "The Indore Grand Hotel",
+    "cityId": "idr",
+    "starRating": 5,
+    "userRating": 4.4,
+    "pricePerNight": 12800,
+    "currency": "INR",
+    "amenities": [
+      "Pool",
+      "Spa",
+      "Free WiFi",
+      "Breakfast included",
+      "Airport shuttle"
+    ],
+    "image": "https://cdn.frei.app/hotels/idr-grand-hotel.jpg",
+    "address": "Grand Hotel, Indore, India"
+  },
+  {
+    "id": "idr-palace-residency",
+    "name": "The Indore Palace Residency",
+    "cityId": "idr",
+    "starRating": 4,
+    "userRating": 4,
+    "pricePerNight": 10000,
+    "currency": "INR",
+    "amenities": [
+      "Free WiFi",
+      "Breakfast included",
+      "Gym",
+      "Room service"
+    ],
+    "image": "https://cdn.frei.app/hotels/idr-palace-residency.jpg",
+    "address": "Palace Residency, Indore, India"
+  },
+  {
+    "id": "nag-grand-hotel",
+    "name": "The Nagpur Grand Hotel",
+    "cityId": "nag",
+    "starRating": 5,
+    "userRating": 4.5,
+    "pricePerNight": 13200,
+    "currency": "INR",
+    "amenities": [
+      "Pool",
+      "Spa",
+      "Free WiFi",
+      "Breakfast included",
+      "Airport shuttle"
+    ],
+    "image": "https://cdn.frei.app/hotels/nag-grand-hotel.jpg",
+    "address": "Grand Hotel, Nagpur, India"
+  },
+  {
+    "id": "nag-palace-residency",
+    "name": "The Nagpur Palace Residency",
+    "cityId": "nag",
+    "starRating": 4,
+    "userRating": 4.3,
+    "pricePerNight": 10800,
+    "currency": "INR",
+    "amenities": [
+      "Free WiFi",
+      "Breakfast included",
+      "Gym",
+      "Room service"
+    ],
+    "image": "https://cdn.frei.app/hotels/nag-palace-residency.jpg",
+    "address": "Palace Residency, Nagpur, India"
+  },
+  {
+    "id": "nag-boutique-inn",
+    "name": "The Nagpur Boutique Inn",
+    "cityId": "nag",
+    "starRating": 3,
+    "userRating": 4.4,
+    "pricePerNight": 9100,
+    "currency": "INR",
+    "amenities": [
+      "Free WiFi",
+      "Rooftop cafe"
+    ],
+    "image": "https://cdn.frei.app/hotels/nag-boutique-inn.jpg",
+    "address": "Boutique Inn, Nagpur, India"
+  },
+  {
+    "id": "vns-grand-hotel",
+    "name": "The Varanasi Grand Hotel",
+    "cityId": "vns",
+    "starRating": 5,
+    "userRating": 4.2,
+    "pricePerNight": 12400,
+    "currency": "INR",
+    "amenities": [
+      "Pool",
+      "Spa",
+      "Free WiFi",
+      "Breakfast included",
+      "Airport shuttle"
+    ],
+    "image": "https://cdn.frei.app/hotels/vns-grand-hotel.jpg",
+    "address": "Grand Hotel, Varanasi, India"
+  },
+  {
+    "id": "vns-palace-residency",
+    "name": "The Varanasi Palace Residency",
+    "cityId": "vns",
+    "starRating": 4,
+    "userRating": 4.1,
+    "pricePerNight": 10100,
+    "currency": "INR",
+    "amenities": [
+      "Free WiFi",
+      "Breakfast included",
+      "Gym",
+      "Room service"
+    ],
+    "image": "https://cdn.frei.app/hotels/vns-palace-residency.jpg",
+    "address": "Palace Residency, Varanasi, India"
+  },
+  {
+    "id": "vns-boutique-inn",
+    "name": "The Varanasi Boutique Inn",
+    "cityId": "vns",
+    "starRating": 3,
+    "userRating": 4.8,
+    "pricePerNight": 10200,
+    "currency": "INR",
+    "amenities": [
+      "Free WiFi",
+      "Rooftop cafe"
+    ],
+    "image": "https://cdn.frei.app/hotels/vns-boutique-inn.jpg",
+    "address": "Boutique Inn, Varanasi, India"
+  },
+  {
+    "id": "vns-comfort-stay",
+    "name": "The Varanasi Comfort Stay",
+    "cityId": "vns",
+    "starRating": 3.5,
+    "userRating": 4.8,
+    "pricePerNight": 11100,
+    "currency": "INR",
+    "amenities": [
+      "Free WiFi",
+      "Breakfast included",
+      "Parking"
+    ],
+    "image": "https://cdn.frei.app/hotels/vns-comfort-stay.jpg",
+    "address": "Comfort Stay, Varanasi, India"
+  },
+  {
+    "id": "atq-grand-hotel",
+    "name": "The Amritsar Grand Hotel",
+    "cityId": "atq",
+    "starRating": 5,
+    "userRating": 4,
+    "pricePerNight": 11700,
+    "currency": "INR",
+    "amenities": [
+      "Pool",
+      "Spa",
+      "Free WiFi",
+      "Breakfast included",
+      "Airport shuttle"
+    ],
+    "image": "https://cdn.frei.app/hotels/atq-grand-hotel.jpg",
+    "address": "Grand Hotel, Amritsar, India"
+  },
+  {
+    "id": "atq-palace-residency",
+    "name": "The Amritsar Palace Residency",
+    "cityId": "atq",
+    "starRating": 4,
+    "userRating": 4.5,
+    "pricePerNight": 11300,
+    "currency": "INR",
+    "amenities": [
+      "Free WiFi",
+      "Breakfast included",
+      "Gym",
+      "Room service"
+    ],
+    "image": "https://cdn.frei.app/hotels/atq-palace-residency.jpg",
+    "address": "Palace Residency, Amritsar, India"
+  },
+  {
+    "id": "sxr-grand-hotel",
+    "name": "The Srinagar Grand Hotel",
+    "cityId": "sxr",
+    "starRating": 5,
+    "userRating": 3.9,
+    "pricePerNight": 11400,
+    "currency": "INR",
+    "amenities": [
+      "Pool",
+      "Spa",
+      "Free WiFi",
+      "Breakfast included",
+      "Airport shuttle"
+    ],
+    "image": "https://cdn.frei.app/hotels/sxr-grand-hotel.jpg",
+    "address": "Grand Hotel, Srinagar, India"
+  },
+  {
+    "id": "sxr-palace-residency",
+    "name": "The Srinagar Palace Residency",
+    "cityId": "sxr",
+    "starRating": 4,
+    "userRating": 4.9,
+    "pricePerNight": 12400,
+    "currency": "INR",
+    "amenities": [
+      "Free WiFi",
+      "Breakfast included",
+      "Gym",
+      "Room service"
+    ],
+    "image": "https://cdn.frei.app/hotels/sxr-palace-residency.jpg",
+    "address": "Palace Residency, Srinagar, India"
+  },
+  {
+    "id": "sxr-boutique-inn",
+    "name": "The Srinagar Boutique Inn",
+    "cityId": "sxr",
+    "starRating": 3,
+    "userRating": 4,
+    "pricePerNight": 8200,
+    "currency": "INR",
+    "amenities": [
+      "Free WiFi",
+      "Rooftop cafe"
+    ],
+    "image": "https://cdn.frei.app/hotels/sxr-boutique-inn.jpg",
+    "address": "Boutique Inn, Srinagar, India"
+  },
+  {
+    "id": "dxb-grand-hotel",
+    "name": "The Dubai Grand Hotel",
+    "cityId": "dxb",
+    "starRating": 5,
+    "userRating": 4.2,
+    "pricePerNight": 12400,
+    "currency": "INR",
+    "amenities": [
+      "Pool",
+      "Spa",
+      "Free WiFi",
+      "Breakfast included",
+      "Airport shuttle"
+    ],
+    "image": "https://cdn.frei.app/hotels/dxb-grand-hotel.jpg",
+    "address": "Grand Hotel, Dubai, United Arab Emirates"
+  },
+  {
+    "id": "dxb-palace-residency",
+    "name": "The Dubai Palace Residency",
+    "cityId": "dxb",
+    "starRating": 4,
+    "userRating": 4.5,
+    "pricePerNight": 11400,
+    "currency": "INR",
+    "amenities": [
+      "Free WiFi",
+      "Breakfast included",
+      "Gym",
+      "Room service"
+    ],
+    "image": "https://cdn.frei.app/hotels/dxb-palace-residency.jpg",
+    "address": "Palace Residency, Dubai, United Arab Emirates"
+  },
+  {
+    "id": "dxb-boutique-inn",
+    "name": "The Dubai Boutique Inn",
+    "cityId": "dxb",
+    "starRating": 3,
+    "userRating": 4.8,
+    "pricePerNight": 10300,
+    "currency": "INR",
+    "amenities": [
+      "Free WiFi",
+      "Rooftop cafe"
+    ],
+    "image": "https://cdn.frei.app/hotels/dxb-boutique-inn.jpg",
+    "address": "Boutique Inn, Dubai, United Arab Emirates"
+  },
+  {
+    "id": "dxb-comfort-stay",
+    "name": "The Dubai Comfort Stay",
+    "cityId": "dxb",
+    "starRating": 3.5,
+    "userRating": 4.3,
+    "pricePerNight": 10000,
+    "currency": "INR",
+    "amenities": [
+      "Free WiFi",
+      "Breakfast included",
+      "Parking"
+    ],
+    "image": "https://cdn.frei.app/hotels/dxb-comfort-stay.jpg",
+    "address": "Comfort Stay, Dubai, United Arab Emirates"
+  },
+  {
+    "id": "sin-grand-hotel",
+    "name": "The Singapore Grand Hotel",
+    "cityId": "sin",
+    "starRating": 5,
+    "userRating": 3.8,
+    "pricePerNight": 11200,
+    "currency": "INR",
+    "amenities": [
+      "Pool",
+      "Spa",
+      "Free WiFi",
+      "Breakfast included",
+      "Airport shuttle"
+    ],
+    "image": "https://cdn.frei.app/hotels/sin-grand-hotel.jpg",
+    "address": "Grand Hotel, Singapore, Singapore"
+  },
+  {
+    "id": "sin-palace-residency",
+    "name": "The Singapore Palace Residency",
+    "cityId": "sin",
+    "starRating": 4,
+    "userRating": 4.8,
+    "pricePerNight": 12100,
+    "currency": "INR",
+    "amenities": [
+      "Free WiFi",
+      "Breakfast included",
+      "Gym",
+      "Room service"
+    ],
+    "image": "https://cdn.frei.app/hotels/sin-palace-residency.jpg",
+    "address": "Palace Residency, Singapore, Singapore"
+  },
+  {
+    "id": "bkk-grand-hotel",
+    "name": "The Bangkok Grand Hotel",
+    "cityId": "bkk",
+    "starRating": 5,
+    "userRating": 4.7,
+    "pricePerNight": 13800,
+    "currency": "INR",
+    "amenities": [
+      "Pool",
+      "Spa",
+      "Free WiFi",
+      "Breakfast included",
+      "Airport shuttle"
+    ],
+    "image": "https://cdn.frei.app/hotels/bkk-grand-hotel.jpg",
+    "address": "Grand Hotel, Bangkok, Thailand"
+  },
+  {
+    "id": "bkk-palace-residency",
+    "name": "The Bangkok Palace Residency",
+    "cityId": "bkk",
+    "starRating": 4,
+    "userRating": 4.9,
+    "pricePerNight": 12400,
+    "currency": "INR",
+    "amenities": [
+      "Free WiFi",
+      "Breakfast included",
+      "Gym",
+      "Room service"
+    ],
+    "image": "https://cdn.frei.app/hotels/bkk-palace-residency.jpg",
+    "address": "Palace Residency, Bangkok, Thailand"
+  },
+  {
+    "id": "bkk-boutique-inn",
+    "name": "The Bangkok Boutique Inn",
+    "cityId": "bkk",
+    "starRating": 3,
+    "userRating": 4.3,
+    "pricePerNight": 8900,
+    "currency": "INR",
+    "amenities": [
+      "Free WiFi",
+      "Rooftop cafe"
+    ],
+    "image": "https://cdn.frei.app/hotels/bkk-boutique-inn.jpg",
+    "address": "Boutique Inn, Bangkok, Thailand"
+  },
+  {
+    "id": "dps-grand-hotel",
+    "name": "The Bali Grand Hotel",
+    "cityId": "dps",
+    "starRating": 5,
+    "userRating": 4.1,
+    "pricePerNight": 11900,
+    "currency": "INR",
+    "amenities": [
+      "Pool",
+      "Spa",
+      "Free WiFi",
+      "Breakfast included",
+      "Airport shuttle"
+    ],
+    "image": "https://cdn.frei.app/hotels/dps-grand-hotel.jpg",
+    "address": "Grand Hotel, Bali, Indonesia"
+  },
+  {
+    "id": "dps-palace-residency",
+    "name": "The Bali Palace Residency",
+    "cityId": "dps",
+    "starRating": 4,
+    "userRating": 4.2,
+    "pricePerNight": 10500,
+    "currency": "INR",
+    "amenities": [
+      "Free WiFi",
+      "Breakfast included",
+      "Gym",
+      "Room service"
+    ],
+    "image": "https://cdn.frei.app/hotels/dps-palace-residency.jpg",
+    "address": "Palace Residency, Bali, Indonesia"
+  },
+  {
+    "id": "dps-boutique-inn",
+    "name": "The Bali Boutique Inn",
+    "cityId": "dps",
+    "starRating": 3,
+    "userRating": 4.8,
+    "pricePerNight": 10300,
+    "currency": "INR",
+    "amenities": [
+      "Free WiFi",
+      "Rooftop cafe"
+    ],
+    "image": "https://cdn.frei.app/hotels/dps-boutique-inn.jpg",
+    "address": "Boutique Inn, Bali, Indonesia"
+  },
+  {
+    "id": "dps-comfort-stay",
+    "name": "The Bali Comfort Stay",
+    "cityId": "dps",
+    "starRating": 3.5,
+    "userRating": 4.3,
+    "pricePerNight": 9800,
+    "currency": "INR",
+    "amenities": [
+      "Free WiFi",
+      "Breakfast included",
+      "Parking"
+    ],
+    "image": "https://cdn.frei.app/hotels/dps-comfort-stay.jpg",
+    "address": "Comfort Stay, Bali, Indonesia"
+  },
+  {
+    "id": "kul-grand-hotel",
+    "name": "The Kuala Lumpur Grand Hotel",
+    "cityId": "kul",
+    "starRating": 5,
+    "userRating": 3.9,
+    "pricePerNight": 11500,
+    "currency": "INR",
+    "amenities": [
+      "Pool",
+      "Spa",
+      "Free WiFi",
+      "Breakfast included",
+      "Airport shuttle"
+    ],
+    "image": "https://cdn.frei.app/hotels/kul-grand-hotel.jpg",
+    "address": "Grand Hotel, Kuala Lumpur, Malaysia"
+  },
+  {
+    "id": "kul-palace-residency",
+    "name": "The Kuala Lumpur Palace Residency",
+    "cityId": "kul",
+    "starRating": 4,
+    "userRating": 4.1,
+    "pricePerNight": 10200,
+    "currency": "INR",
+    "amenities": [
+      "Free WiFi",
+      "Breakfast included",
+      "Gym",
+      "Room service"
+    ],
+    "image": "https://cdn.frei.app/hotels/kul-palace-residency.jpg",
+    "address": "Palace Residency, Kuala Lumpur, Malaysia"
+  },
+  {
+    "id": "lhr-grand-hotel",
+    "name": "The London Grand Hotel",
+    "cityId": "lhr",
+    "starRating": 5,
+    "userRating": 4.5,
+    "pricePerNight": 13100,
+    "currency": "INR",
+    "amenities": [
+      "Pool",
+      "Spa",
+      "Free WiFi",
+      "Breakfast included",
+      "Airport shuttle"
+    ],
+    "image": "https://cdn.frei.app/hotels/lhr-grand-hotel.jpg",
+    "address": "Grand Hotel, London, United Kingdom"
+  },
+  {
+    "id": "lhr-palace-residency",
+    "name": "The London Palace Residency",
+    "cityId": "lhr",
+    "starRating": 4,
+    "userRating": 4.9,
+    "pricePerNight": 12300,
+    "currency": "INR",
+    "amenities": [
+      "Free WiFi",
+      "Breakfast included",
+      "Gym",
+      "Room service"
+    ],
+    "image": "https://cdn.frei.app/hotels/lhr-palace-residency.jpg",
+    "address": "Palace Residency, London, United Kingdom"
+  },
+  {
+    "id": "lhr-boutique-inn",
+    "name": "The London Boutique Inn",
+    "cityId": "lhr",
+    "starRating": 3,
+    "userRating": 4.1,
+    "pricePerNight": 8400,
+    "currency": "INR",
+    "amenities": [
+      "Free WiFi",
+      "Rooftop cafe"
+    ],
+    "image": "https://cdn.frei.app/hotels/lhr-boutique-inn.jpg",
+    "address": "Boutique Inn, London, United Kingdom"
+  },
+  {
+    "id": "cdg-grand-hotel",
+    "name": "The Paris Grand Hotel",
+    "cityId": "cdg",
+    "starRating": 5,
+    "userRating": 3.9,
+    "pricePerNight": 11500,
+    "currency": "INR",
+    "amenities": [
+      "Pool",
+      "Spa",
+      "Free WiFi",
+      "Breakfast included",
+      "Airport shuttle"
+    ],
+    "image": "https://cdn.frei.app/hotels/cdg-grand-hotel.jpg",
+    "address": "Grand Hotel, Paris, France"
+  },
+  {
+    "id": "cdg-palace-residency",
+    "name": "The Paris Palace Residency",
+    "cityId": "cdg",
+    "starRating": 4,
+    "userRating": 3.8,
+    "pricePerNight": 9500,
+    "currency": "INR",
+    "amenities": [
+      "Free WiFi",
+      "Breakfast included",
+      "Gym",
+      "Room service"
+    ],
+    "image": "https://cdn.frei.app/hotels/cdg-palace-residency.jpg",
+    "address": "Palace Residency, Paris, France"
+  },
+  {
+    "id": "cdg-boutique-inn",
+    "name": "The Paris Boutique Inn",
+    "cityId": "cdg",
+    "starRating": 3,
+    "userRating": 4.3,
+    "pricePerNight": 9100,
+    "currency": "INR",
+    "amenities": [
+      "Free WiFi",
+      "Rooftop cafe"
+    ],
+    "image": "https://cdn.frei.app/hotels/cdg-boutique-inn.jpg",
+    "address": "Boutique Inn, Paris, France"
+  },
+  {
+    "id": "cdg-comfort-stay",
+    "name": "The Paris Comfort Stay",
+    "cityId": "cdg",
+    "starRating": 3.5,
+    "userRating": 4,
+    "pricePerNight": 9200,
+    "currency": "INR",
+    "amenities": [
+      "Free WiFi",
+      "Breakfast included",
+      "Parking"
+    ],
+    "image": "https://cdn.frei.app/hotels/cdg-comfort-stay.jpg",
+    "address": "Comfort Stay, Paris, France"
+  },
+  {
+    "id": "jfk-grand-hotel",
+    "name": "The New York Grand Hotel",
+    "cityId": "jfk",
+    "starRating": 5,
+    "userRating": 4,
+    "pricePerNight": 11700,
+    "currency": "INR",
+    "amenities": [
+      "Pool",
+      "Spa",
+      "Free WiFi",
+      "Breakfast included",
+      "Airport shuttle"
+    ],
+    "image": "https://cdn.frei.app/hotels/jfk-grand-hotel.jpg",
+    "address": "Grand Hotel, New York, United States"
+  },
+  {
+    "id": "jfk-palace-residency",
+    "name": "The New York Palace Residency",
+    "cityId": "jfk",
+    "starRating": 4,
+    "userRating": 3.9,
+    "pricePerNight": 9700,
+    "currency": "INR",
+    "amenities": [
+      "Free WiFi",
+      "Breakfast included",
+      "Gym",
+      "Room service"
+    ],
+    "image": "https://cdn.frei.app/hotels/jfk-palace-residency.jpg",
+    "address": "Palace Residency, New York, United States"
+  },
+  {
+    "id": "hnd-grand-hotel",
+    "name": "The Tokyo Grand Hotel",
+    "cityId": "hnd",
+    "starRating": 5,
+    "userRating": 3.9,
+    "pricePerNight": 11500,
+    "currency": "INR",
+    "amenities": [
+      "Pool",
+      "Spa",
+      "Free WiFi",
+      "Breakfast included",
+      "Airport shuttle"
+    ],
+    "image": "https://cdn.frei.app/hotels/hnd-grand-hotel.jpg",
+    "address": "Grand Hotel, Tokyo, Japan"
+  },
+  {
+    "id": "hnd-palace-residency",
+    "name": "The Tokyo Palace Residency",
+    "cityId": "hnd",
+    "starRating": 4,
+    "userRating": 4.2,
+    "pricePerNight": 10400,
+    "currency": "INR",
+    "amenities": [
+      "Free WiFi",
+      "Breakfast included",
+      "Gym",
+      "Room service"
+    ],
+    "image": "https://cdn.frei.app/hotels/hnd-palace-residency.jpg",
+    "address": "Palace Residency, Tokyo, Japan"
+  },
+  {
+    "id": "hnd-boutique-inn",
+    "name": "The Tokyo Boutique Inn",
+    "cityId": "hnd",
+    "starRating": 3,
+    "userRating": 4.2,
+    "pricePerNight": 8700,
+    "currency": "INR",
+    "amenities": [
+      "Free WiFi",
+      "Rooftop cafe"
+    ],
+    "image": "https://cdn.frei.app/hotels/hnd-boutique-inn.jpg",
+    "address": "Boutique Inn, Tokyo, Japan"
+  },
+  {
+    "id": "syd-grand-hotel",
+    "name": "The Sydney Grand Hotel",
+    "cityId": "syd",
+    "starRating": 5,
+    "userRating": 4.7,
+    "pricePerNight": 13600,
+    "currency": "INR",
+    "amenities": [
+      "Pool",
+      "Spa",
+      "Free WiFi",
+      "Breakfast included",
+      "Airport shuttle"
+    ],
+    "image": "https://cdn.frei.app/hotels/syd-grand-hotel.jpg",
+    "address": "Grand Hotel, Sydney, Australia"
+  },
+  {
+    "id": "syd-palace-residency",
+    "name": "The Sydney Palace Residency",
+    "cityId": "syd",
+    "starRating": 4,
+    "userRating": 4.4,
+    "pricePerNight": 11100,
+    "currency": "INR",
+    "amenities": [
+      "Free WiFi",
+      "Breakfast included",
+      "Gym",
+      "Room service"
+    ],
+    "image": "https://cdn.frei.app/hotels/syd-palace-residency.jpg",
+    "address": "Palace Residency, Sydney, Australia"
+  },
+  {
+    "id": "syd-boutique-inn",
+    "name": "The Sydney Boutique Inn",
+    "cityId": "syd",
+    "starRating": 3,
+    "userRating": 4.7,
+    "pricePerNight": 10100,
+    "currency": "INR",
+    "amenities": [
+      "Free WiFi",
+      "Rooftop cafe"
+    ],
+    "image": "https://cdn.frei.app/hotels/syd-boutique-inn.jpg",
+    "address": "Boutique Inn, Sydney, Australia"
+  },
+  {
+    "id": "syd-comfort-stay",
+    "name": "The Sydney Comfort Stay",
+    "cityId": "syd",
+    "starRating": 3.5,
+    "userRating": 4.4,
+    "pricePerNight": 10200,
+    "currency": "INR",
+    "amenities": [
+      "Free WiFi",
+      "Breakfast included",
+      "Parking"
+    ],
+    "image": "https://cdn.frei.app/hotels/syd-comfort-stay.jpg",
+    "address": "Comfort Stay, Sydney, Australia"
+  },
+  {
+    "id": "fco-grand-hotel",
+    "name": "The Rome Grand Hotel",
+    "cityId": "fco",
+    "starRating": 5,
+    "userRating": 3.9,
+    "pricePerNight": 11500,
+    "currency": "INR",
+    "amenities": [
+      "Pool",
+      "Spa",
+      "Free WiFi",
+      "Breakfast included",
+      "Airport shuttle"
+    ],
+    "image": "https://cdn.frei.app/hotels/fco-grand-hotel.jpg",
+    "address": "Grand Hotel, Rome, Italy"
+  },
+  {
+    "id": "fco-palace-residency",
+    "name": "The Rome Palace Residency",
+    "cityId": "fco",
+    "starRating": 4,
+    "userRating": 4.2,
+    "pricePerNight": 10400,
+    "currency": "INR",
+    "amenities": [
+      "Free WiFi",
+      "Breakfast included",
+      "Gym",
+      "Room service"
+    ],
+    "image": "https://cdn.frei.app/hotels/fco-palace-residency.jpg",
+    "address": "Palace Residency, Rome, Italy"
+  },
+  {
+    "id": "ist-grand-hotel",
+    "name": "The Istanbul Grand Hotel",
+    "cityId": "ist",
+    "starRating": 5,
+    "userRating": 4.6,
+    "pricePerNight": 13400,
+    "currency": "INR",
+    "amenities": [
+      "Pool",
+      "Spa",
+      "Free WiFi",
+      "Breakfast included",
+      "Airport shuttle"
+    ],
+    "image": "https://cdn.frei.app/hotels/ist-grand-hotel.jpg",
+    "address": "Grand Hotel, Istanbul, Turkey"
+  },
+  {
+    "id": "ist-palace-residency",
+    "name": "The Istanbul Palace Residency",
+    "cityId": "ist",
+    "starRating": 4,
+    "userRating": 4.4,
+    "pricePerNight": 11000,
+    "currency": "INR",
+    "amenities": [
+      "Free WiFi",
+      "Breakfast included",
+      "Gym",
+      "Room service"
+    ],
+    "image": "https://cdn.frei.app/hotels/ist-palace-residency.jpg",
+    "address": "Palace Residency, Istanbul, Turkey"
+  },
+  {
+    "id": "ist-boutique-inn",
+    "name": "The Istanbul Boutique Inn",
+    "cityId": "ist",
+    "starRating": 3,
+    "userRating": 4.5,
+    "pricePerNight": 9400,
+    "currency": "INR",
+    "amenities": [
+      "Free WiFi",
+      "Rooftop cafe"
+    ],
+    "image": "https://cdn.frei.app/hotels/ist-boutique-inn.jpg",
+    "address": "Boutique Inn, Istanbul, Turkey"
+  },
+  {
+    "id": "doh-grand-hotel",
+    "name": "The Doha Grand Hotel",
+    "cityId": "doh",
+    "starRating": 5,
+    "userRating": 4.1,
+    "pricePerNight": 12000,
+    "currency": "INR",
+    "amenities": [
+      "Pool",
+      "Spa",
+      "Free WiFi",
+      "Breakfast included",
+      "Airport shuttle"
+    ],
+    "image": "https://cdn.frei.app/hotels/doh-grand-hotel.jpg",
+    "address": "Grand Hotel, Doha, Qatar"
+  },
+  {
+    "id": "doh-palace-residency",
+    "name": "The Doha Palace Residency",
+    "cityId": "doh",
+    "starRating": 4,
+    "userRating": 4,
+    "pricePerNight": 9800,
+    "currency": "INR",
+    "amenities": [
+      "Free WiFi",
+      "Breakfast included",
+      "Gym",
+      "Room service"
+    ],
+    "image": "https://cdn.frei.app/hotels/doh-palace-residency.jpg",
+    "address": "Palace Residency, Doha, Qatar"
+  },
+  {
+    "id": "doh-boutique-inn",
+    "name": "The Doha Boutique Inn",
+    "cityId": "doh",
+    "starRating": 3,
+    "userRating": 4.4,
+    "pricePerNight": 9200,
+    "currency": "INR",
+    "amenities": [
+      "Free WiFi",
+      "Rooftop cafe"
+    ],
+    "image": "https://cdn.frei.app/hotels/doh-boutique-inn.jpg",
+    "address": "Boutique Inn, Doha, Qatar"
+  },
+  {
+    "id": "doh-comfort-stay",
+    "name": "The Doha Comfort Stay",
+    "cityId": "doh",
+    "starRating": 3.5,
+    "userRating": 4.3,
+    "pricePerNight": 9800,
+    "currency": "INR",
+    "amenities": [
+      "Free WiFi",
+      "Breakfast included",
+      "Parking"
+    ],
+    "image": "https://cdn.frei.app/hotels/doh-comfort-stay.jpg",
+    "address": "Comfort Stay, Doha, Qatar"
+  },
+  {
+    "id": "hkg-grand-hotel",
+    "name": "The Hong Kong Grand Hotel",
+    "cityId": "hkg",
+    "starRating": 5,
+    "userRating": 4.3,
+    "pricePerNight": 12400,
+    "currency": "INR",
+    "amenities": [
+      "Pool",
+      "Spa",
+      "Free WiFi",
+      "Breakfast included",
+      "Airport shuttle"
+    ],
+    "image": "https://cdn.frei.app/hotels/hkg-grand-hotel.jpg",
+    "address": "Grand Hotel, Hong Kong, China"
+  },
+  {
+    "id": "hkg-palace-residency",
+    "name": "The Hong Kong Palace Residency",
+    "cityId": "hkg",
+    "starRating": 4,
+    "userRating": 4.5,
+    "pricePerNight": 11300,
+    "currency": "INR",
+    "amenities": [
+      "Free WiFi",
+      "Breakfast included",
+      "Gym",
+      "Room service"
+    ],
+    "image": "https://cdn.frei.app/hotels/hkg-palace-residency.jpg",
+    "address": "Palace Residency, Hong Kong, China"
+  },
+  {
+    "id": "icn-grand-hotel",
+    "name": "The Seoul Grand Hotel",
+    "cityId": "icn",
+    "starRating": 5,
+    "userRating": 3.8,
+    "pricePerNight": 11200,
+    "currency": "INR",
+    "amenities": [
+      "Pool",
+      "Spa",
+      "Free WiFi",
+      "Breakfast included",
+      "Airport shuttle"
+    ],
+    "image": "https://cdn.frei.app/hotels/icn-grand-hotel.jpg",
+    "address": "Grand Hotel, Seoul, South Korea"
+  },
+  {
+    "id": "icn-palace-residency",
+    "name": "The Seoul Palace Residency",
+    "cityId": "icn",
+    "starRating": 4,
+    "userRating": 4.1,
+    "pricePerNight": 10100,
+    "currency": "INR",
+    "amenities": [
+      "Free WiFi",
+      "Breakfast included",
+      "Gym",
+      "Room service"
+    ],
+    "image": "https://cdn.frei.app/hotels/icn-palace-residency.jpg",
+    "address": "Palace Residency, Seoul, South Korea"
+  },
+  {
+    "id": "icn-boutique-inn",
+    "name": "The Seoul Boutique Inn",
+    "cityId": "icn",
+    "starRating": 3,
+    "userRating": 4.3,
+    "pricePerNight": 9000,
+    "currency": "INR",
+    "amenities": [
+      "Free WiFi",
+      "Rooftop cafe"
+    ],
+    "image": "https://cdn.frei.app/hotels/icn-boutique-inn.jpg",
+    "address": "Boutique Inn, Seoul, South Korea"
+  },
+  {
+    "id": "ams-grand-hotel",
+    "name": "The Amsterdam Grand Hotel",
+    "cityId": "ams",
+    "starRating": 5,
+    "userRating": 4.2,
+    "pricePerNight": 12400,
+    "currency": "INR",
+    "amenities": [
+      "Pool",
+      "Spa",
+      "Free WiFi",
+      "Breakfast included",
+      "Airport shuttle"
+    ],
+    "image": "https://cdn.frei.app/hotels/ams-grand-hotel.jpg",
+    "address": "Grand Hotel, Amsterdam, Netherlands"
+  },
+  {
+    "id": "ams-palace-residency",
+    "name": "The Amsterdam Palace Residency",
+    "cityId": "ams",
+    "starRating": 4,
+    "userRating": 4.8,
+    "pricePerNight": 12100,
+    "currency": "INR",
+    "amenities": [
+      "Free WiFi",
+      "Breakfast included",
+      "Gym",
+      "Room service"
+    ],
+    "image": "https://cdn.frei.app/hotels/ams-palace-residency.jpg",
+    "address": "Palace Residency, Amsterdam, Netherlands"
+  },
+  {
+    "id": "ams-boutique-inn",
+    "name": "The Amsterdam Boutique Inn",
+    "cityId": "ams",
+    "starRating": 3,
+    "userRating": 3.8,
+    "pricePerNight": 7600,
+    "currency": "INR",
+    "amenities": [
+      "Free WiFi",
+      "Rooftop cafe"
+    ],
+    "image": "https://cdn.frei.app/hotels/ams-boutique-inn.jpg",
+    "address": "Boutique Inn, Amsterdam, Netherlands"
+  },
+  {
+    "id": "ams-comfort-stay",
+    "name": "The Amsterdam Comfort Stay",
+    "cityId": "ams",
+    "starRating": 3.5,
+    "userRating": 4.7,
+    "pricePerNight": 11100,
+    "currency": "INR",
+    "amenities": [
+      "Free WiFi",
+      "Breakfast included",
+      "Parking"
+    ],
+    "image": "https://cdn.frei.app/hotels/ams-comfort-stay.jpg",
+    "address": "Comfort Stay, Amsterdam, Netherlands"
+  },
+  {
+    "id": "mle-grand-hotel",
+    "name": "The Male Grand Hotel",
+    "cityId": "mle",
+    "starRating": 5,
+    "userRating": 4.4,
+    "pricePerNight": 12800,
+    "currency": "INR",
+    "amenities": [
+      "Pool",
+      "Spa",
+      "Free WiFi",
+      "Breakfast included",
+      "Airport shuttle"
+    ],
+    "image": "https://cdn.frei.app/hotels/mle-grand-hotel.jpg",
+    "address": "Grand Hotel, Male, Maldives"
+  },
+  {
+    "id": "mle-palace-residency",
+    "name": "The Male Palace Residency",
+    "cityId": "mle",
+    "starRating": 4,
+    "userRating": 4.5,
+    "pricePerNight": 11300,
+    "currency": "INR",
+    "amenities": [
+      "Free WiFi",
+      "Breakfast included",
+      "Gym",
+      "Room service"
+    ],
+    "image": "https://cdn.frei.app/hotels/mle-palace-residency.jpg",
+    "address": "Palace Residency, Male, Maldives"
+  },
+  {
+    "id": "ktm-grand-hotel",
+    "name": "The Kathmandu Grand Hotel",
+    "cityId": "ktm",
+    "starRating": 5,
+    "userRating": 4.7,
+    "pricePerNight": 13600,
+    "currency": "INR",
+    "amenities": [
+      "Pool",
+      "Spa",
+      "Free WiFi",
+      "Breakfast included",
+      "Airport shuttle"
+    ],
+    "image": "https://cdn.frei.app/hotels/ktm-grand-hotel.jpg",
+    "address": "Grand Hotel, Kathmandu, Nepal"
+  },
+  {
+    "id": "ktm-palace-residency",
+    "name": "The Kathmandu Palace Residency",
+    "cityId": "ktm",
+    "starRating": 4,
+    "userRating": 4,
+    "pricePerNight": 10000,
+    "currency": "INR",
+    "amenities": [
+      "Free WiFi",
+      "Breakfast included",
+      "Gym",
+      "Room service"
+    ],
+    "image": "https://cdn.frei.app/hotels/ktm-palace-residency.jpg",
+    "address": "Palace Residency, Kathmandu, Nepal"
+  },
+  {
+    "id": "ktm-boutique-inn",
+    "name": "The Kathmandu Boutique Inn",
+    "cityId": "ktm",
+    "starRating": 3,
+    "userRating": 4.5,
+    "pricePerNight": 9600,
+    "currency": "INR",
+    "amenities": [
+      "Free WiFi",
+      "Rooftop cafe"
+    ],
+    "image": "https://cdn.frei.app/hotels/ktm-boutique-inn.jpg",
+    "address": "Boutique Inn, Kathmandu, Nepal"
+  },
+  {
+    "id": "cmb-grand-hotel",
+    "name": "The Colombo Grand Hotel",
+    "cityId": "cmb",
+    "starRating": 5,
+    "userRating": 4.9,
+    "pricePerNight": 14100,
+    "currency": "INR",
+    "amenities": [
+      "Pool",
+      "Spa",
+      "Free WiFi",
+      "Breakfast included",
+      "Airport shuttle"
+    ],
+    "image": "https://cdn.frei.app/hotels/cmb-grand-hotel.jpg",
+    "address": "Grand Hotel, Colombo, Sri Lanka"
+  },
+  {
+    "id": "cmb-palace-residency",
+    "name": "The Colombo Palace Residency",
+    "cityId": "cmb",
+    "starRating": 4,
+    "userRating": 4.1,
+    "pricePerNight": 10200,
+    "currency": "INR",
+    "amenities": [
+      "Free WiFi",
+      "Breakfast included",
+      "Gym",
+      "Room service"
+    ],
+    "image": "https://cdn.frei.app/hotels/cmb-palace-residency.jpg",
+    "address": "Palace Residency, Colombo, Sri Lanka"
+  },
+  {
+    "id": "cmb-boutique-inn",
+    "name": "The Colombo Boutique Inn",
+    "cityId": "cmb",
+    "starRating": 3,
+    "userRating": 4,
+    "pricePerNight": 8100,
+    "currency": "INR",
+    "amenities": [
+      "Free WiFi",
+      "Rooftop cafe"
+    ],
+    "image": "https://cdn.frei.app/hotels/cmb-boutique-inn.jpg",
+    "address": "Boutique Inn, Colombo, Sri Lanka"
+  },
+  {
+    "id": "cmb-comfort-stay",
+    "name": "The Colombo Comfort Stay",
+    "cityId": "cmb",
+    "starRating": 3.5,
+    "userRating": 3.8,
+    "pricePerNight": 8600,
+    "currency": "INR",
+    "amenities": [
+      "Free WiFi",
+      "Breakfast included",
+      "Parking"
+    ],
+    "image": "https://cdn.frei.app/hotels/cmb-comfort-stay.jpg",
+    "address": "Comfort Stay, Colombo, Sri Lanka"
+  },
+  {
+    "id": "sfo-grand-hotel",
+    "name": "The San Francisco Grand Hotel",
+    "cityId": "sfo",
+    "starRating": 5,
+    "userRating": 4.6,
+    "pricePerNight": 13300,
+    "currency": "INR",
+    "amenities": [
+      "Pool",
+      "Spa",
+      "Free WiFi",
+      "Breakfast included",
+      "Airport shuttle"
+    ],
+    "image": "https://cdn.frei.app/hotels/sfo-grand-hotel.jpg",
+    "address": "Grand Hotel, San Francisco, United States"
+  },
+  {
+    "id": "sfo-palace-residency",
+    "name": "The San Francisco Palace Residency",
+    "cityId": "sfo",
+    "starRating": 4,
+    "userRating": 4.8,
+    "pricePerNight": 12100,
+    "currency": "INR",
+    "amenities": [
+      "Free WiFi",
+      "Breakfast included",
+      "Gym",
+      "Room service"
+    ],
+    "image": "https://cdn.frei.app/hotels/sfo-palace-residency.jpg",
+    "address": "Palace Residency, San Francisco, United States"
+  }
+]
