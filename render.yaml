@@ -12,3 +12,5 @@ services:
         value: 20.14.0
       - key: ADMIN_TOKEN
         sync: false
+      - key: SERVICE_URL
+        sync: false
