@@ -12,6 +12,7 @@ import adminRouter from './routes/admin';
 import { adminAuth } from './middleware/adminAuth';
 import { errorHandler, notFoundHandler } from './middleware/errorHandler';
 import { openapiDocument } from './utils/openapiLoader';
+import paymentsRouter from './routes/payments';
 
 export function createApp(): Express {
   const app = express();
@@ -33,6 +34,7 @@ export function createApp(): Express {
   app.use('/flights', flightsRouter);
   app.use('/hotels', hotelsRouter);
   app.use('/bookings', bookingsRouter);
+  app.use('/payments', paymentsRouter);
 
   app.use('/admin/api', adminAuth, adminRouter);
   app.use('/admin', express.static(path.join(__dirname, 'public', 'admin')));
