@@ -31,7 +31,7 @@ router.post('/create-order', async (req, res, next) => {
 
 // POST /payments/verify
 router.post('/verify', (req, res, next) => {
-  const { orderId, paymentId, signature } = req.body;
+  const { razorpayOrderId: orderId, razorpayPaymentId: paymentId, razorpaySignature: signature } = req.body;
 
   if (!orderId || !paymentId || !signature) {
     return next(badRequest("'orderId', 'paymentId', and 'signature' are all required"));
