@@ -5,7 +5,7 @@
     "cityId": "bom",
     "starRating": 5,
     "userRating": 3.8,
-    "pricePerNight": 11200,
+    "pricePerNight": 2200,
     "currency": "INR",
     "amenities": [
       "Pool",
@@ -23,7 +23,7 @@
     "cityId": "bom",
     "starRating": 4,
     "userRating": 4.8,
-    "pricePerNight": 12000,
+    "pricePerNight": 3000,
     "currency": "INR",
     "amenities": [
       "Free WiFi",
@@ -40,7 +40,7 @@
     "cityId": "del",
     "starRating": 5,
     "userRating": 4.5,
-    "pricePerNight": 13200,
+    "pricePerNight": 3200,
     "currency": "INR",
     "amenities": [
       "Pool",
@@ -58,7 +58,7 @@
     "cityId": "del",
     "starRating": 4,
     "userRating": 4.3,
-    "pricePerNight": 10800,
+    "pricePerNight": 4800,
     "currency": "INR",
     "amenities": [
       "Free WiFi",
@@ -75,7 +75,7 @@
     "cityId": "del",
     "starRating": 3,
     "userRating": 4.6,
-    "pricePerNight": 9900,
+    "pricePerNight": 3900,
     "currency": "INR",
     "amenities": [
       "Free WiFi",
@@ -90,7 +90,7 @@
     "cityId": "blr",
     "starRating": 5,
     "userRating": 4.4,
-    "pricePerNight": 13000,
+    "pricePerNight": 4000,
     "currency": "INR",
     "amenities": [
       "Pool",
@@ -108,7 +108,7 @@
     "cityId": "blr",
     "starRating": 4,
     "userRating": 3.9,
-    "pricePerNight": 9800,
+    "pricePerNight": 4800,
     "currency": "INR",
     "amenities": [
       "Free WiFi",
@@ -125,7 +125,7 @@
     "cityId": "blr",
     "starRating": 3,
     "userRating": 3.9,
-    "pricePerNight": 8000,
+    "pricePerNight": 3000,
     "currency": "INR",
     "amenities": [
       "Free WiFi",
@@ -140,7 +140,7 @@
     "cityId": "blr",
     "starRating": 3.5,
     "userRating": 4.6,
-    "pricePerNight": 10700,
+    "pricePerNight": 1700,
     "currency": "INR",
     "amenities": [
       "Free WiFi",
@@ -156,7 +156,7 @@
     "cityId": "hyd",
     "starRating": 5,
     "userRating": 4.8,
-    "pricePerNight": 14100,
+    "pricePerNight": 4100,
     "currency": "INR",
     "amenities": [
       "Pool",
@@ -174,7 +174,7 @@
     "cityId": "hyd",
     "starRating": 4,
     "userRating": 4.8,
-    "pricePerNight": 12100,
+    "pricePerNight": 3100,
     "currency": "INR",
     "amenities": [
       "Free WiFi",
@@ -392,7 +392,7 @@
     "cityId": "jai",
     "starRating": 5,
     "userRating": 4.7,
-    "pricePerNight": 13500,
+    "pricePerNight": 3500,
     "currency": "INR",
     "amenities": [
       "Pool",
@@ -410,7 +410,7 @@
     "cityId": "jai",
     "starRating": 4,
     "userRating": 4.3,
-    "pricePerNight": 10900,
+    "pricePerNight": 4900,
     "currency": "INR",
     "amenities": [
       "Free WiFi",
@@ -427,7 +427,7 @@
     "cityId": "jai",
     "starRating": 3,
     "userRating": 4.3,
-    "pricePerNight": 9000,
+    "pricePerNight": 3000,
     "currency": "INR",
     "amenities": [
       "Free WiFi",
@@ -442,7 +442,7 @@
     "cityId": "jai",
     "starRating": 3.5,
     "userRating": 4.5,
-    "pricePerNight": 10300,
+    "pricePerNight": 4300,
     "currency": "INR",
     "amenities": [
       "Free WiFi",
@@ -458,7 +458,7 @@
     "cityId": "goi",
     "starRating": 5,
     "userRating": 3.8,
-    "pricePerNight": 11300,
+    "pricePerNight": 4300,
     "currency": "INR",
     "amenities": [
       "Pool",
