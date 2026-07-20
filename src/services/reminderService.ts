@@ -76,11 +76,14 @@ export async function checkHotelCheckoutReminders(): Promise<void> {
 }
 
 export async function checkTripStartReminders(): Promise<void> {
-  const tomorrow = new Date(Date.now() + 24 * HOUR).toISOString().slice(0, 10);
+  const now = Date.now();
+  const windowStart = now + 23 * HOUR;
+  const windowEnd = now + 25 * HOUR; // ~24h out, with a 2h window so a 15-min cron doesn't miss it
 
   const snapshot = await firestore
     .collection('trips')
-    .where('startDate', '==', tomorrow)
+    .where('departureDate', '>=', windowStart)
+    .where('departureDate', '<=', windowEnd)
     .get();
 
   for (const doc of snapshot.docs) {
