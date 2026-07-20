@@ -1,14 +1,10 @@
-import admin from 'firebase-admin';
+import { initializeApp, cert, getApps, getApp } from 'firebase-admin/app';
+import { getFirestore, Firestore } from 'firebase-admin/firestore';
+import { getMessaging, Messaging } from 'firebase-admin/messaging';
 
-if (!admin.apps.length) {
-  const serviceAccountJson = process.env.FIREBASE_SERVICE_ACCOUNT;
-  if (!serviceAccountJson) {
-    throw new Error('FIREBASE_SERVICE_ACCOUNT env var is not set');
-  }
-  admin.initializeApp({
-    credential: admin.credential.cert(JSON.parse(serviceAccountJson)),
-  });
-}
+const app = getApps().length ? getApp() : initializeApp({
+  credential: cert(JSON.parse(process.env.FIREBASE_SERVICE_ACCOUNT || '{}')),
+});
 
-export const firestore = admin.firestore();
-export const messaging = admin.messaging();
+export const firestore: Firestore = getFirestore(app);
+export const messaging: Messaging = getMessaging(app);
