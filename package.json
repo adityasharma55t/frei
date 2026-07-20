@@ -39,5 +39,10 @@
     "ts-node": "^10.9.2",
     "ts-node-dev": "^2.0.0",
     "typescript": "^5.5.3"
+  },
+  "allowScripts": {
+    "@scarf/scarf@1.4.0": true,
+    "@firebase/util@1.15.1": true,
+    "protobufjs@7.6.5": true
   }
 }
