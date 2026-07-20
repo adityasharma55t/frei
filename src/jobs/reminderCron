@@ -1,0 +1,23 @@
+import cron from 'node-cron';
+import {
+  checkFlightReminders,
+  checkHotelCheckinReminders,
+  checkHotelCheckoutReminders,
+  checkTripStartReminders,
+} from '../services/reminderService';
+
+export function startReminderCron(): void {
+  cron.schedule('*/15 * * * *', async () => {
+    console.log('[reminderCron] running reminder checks');
+    try {
+      await Promise.all([
+        checkFlightReminders(),
+        checkHotelCheckinReminders(),
+        checkHotelCheckoutReminders(),
+        checkTripStartReminders(),
+      ]);
+    } catch (err) {
+      console.error('[reminderCron] error:', err);
+    }
+  });
+}
