@@ -8,6 +8,7 @@
     "start": "node dist/server.js",
     "dev": "ts-node-dev --respawn --transpile-only src/server.ts",
     "generate-seed": "ts-node scripts/generate-seed.ts",
+    "fetch-images": "ts-node scripts/fetch-images.ts",
     "test": "jest",
     "test:watch": "jest --watch"
   },

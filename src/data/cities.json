@@ -7,7 +7,7 @@
     "timezone": "Asia/Kolkata",
     "lat": 19.076,
     "lng": 72.8777,
-    "image": "https://cdn.frei.app/cities/bom.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Mumbai_03-2016_52_Dharavi_near_Mahim_Junction.jpg/960px-Mumbai_03-2016_52_Dharavi_near_Mahim_Junction.jpg"
   },
   {
     "id": "del",
@@ -17,7 +17,7 @@
     "timezone": "Asia/Kolkata",
     "lat": 28.6139,
     "lng": 77.209,
-    "image": "https://cdn.frei.app/cities/del.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/New_Delhi%2C_India_ESA23519559.jpeg/960px-New_Delhi%2C_India_ESA23519559.jpeg"
   },
   {
     "id": "blr",
@@ -27,7 +27,7 @@
     "timezone": "Asia/Kolkata",
     "lat": 12.9716,
     "lng": 77.5946,
-    "image": "https://cdn.frei.app/cities/blr.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/A_photo_of_a_city_scene_in_Bengaluru.jpg/960px-A_photo_of_a_city_scene_in_Bengaluru.jpg"
   },
   {
     "id": "hyd",
@@ -37,7 +37,7 @@
     "timezone": "Asia/Kolkata",
     "lat": 17.385,
     "lng": 78.4867,
-    "image": "https://cdn.frei.app/cities/hyd.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Buildings_in_Hyderabad%2C_India.jpg/960px-Buildings_in_Hyderabad%2C_India.jpg"
   },
   {
     "id": "maa",
@@ -47,7 +47,7 @@
     "timezone": "Asia/Kolkata",
     "lat": 13.0827,
     "lng": 80.2707,
-    "image": "https://cdn.frei.app/cities/maa.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Pallikaranai_Marsh_Cityscape_Clouds_Sholinganallur_Apr22_R16_05916.jpg/960px-Pallikaranai_Marsh_Cityscape_Clouds_Sholinganallur_Apr22_R16_05916.jpg"
   },
   {
     "id": "ccu",
@@ -57,7 +57,7 @@
     "timezone": "Asia/Kolkata",
     "lat": 22.5726,
     "lng": 88.3639,
-    "image": "https://cdn.frei.app/cities/ccu.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Kolkata_Cityscape_2.jpg/960px-Kolkata_Cityscape_2.jpg"
   },
   {
     "id": "pnq",
@@ -67,7 +67,7 @@
     "timezone": "Asia/Kolkata",
     "lat": 18.5204,
     "lng": 73.8567,
-    "image": "https://cdn.frei.app/cities/pnq.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Cityscape%2C_Aundh%2C_Pune%2C_Maharashtra%2C_India.jpg/960px-Cityscape%2C_Aundh%2C_Pune%2C_Maharashtra%2C_India.jpg"
   },
   {
     "id": "amd",
@@ -77,7 +77,7 @@
     "timezone": "Asia/Kolkata",
     "lat": 23.0225,
     "lng": 72.5714,
-    "image": "https://cdn.frei.app/cities/amd.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Clock_tower%2C_Ahmedabad.jpg/960px-Clock_tower%2C_Ahmedabad.jpg"
   },
   {
     "id": "jai",
@@ -87,7 +87,7 @@
     "timezone": "Asia/Kolkata",
     "lat": 26.9124,
     "lng": 75.7873,
-    "image": "https://cdn.frei.app/cities/jai.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Jaipur_%28102574715%29.jpeg/960px-Jaipur_%28102574715%29.jpeg"
   },
   {
     "id": "goi",
@@ -97,7 +97,7 @@
     "timezone": "Asia/Kolkata",
     "lat": 15.2993,
     "lng": 74.124,
-    "image": "https://cdn.frei.app/cities/goi.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Margao_cityscape%2C_South_Goa%2C_India._Oct_2023.jpg/960px-Margao_cityscape%2C_South_Goa%2C_India._Oct_2023.jpg"
   },
   {
     "id": "cok",
@@ -107,7 +107,7 @@
     "timezone": "Asia/Kolkata",
     "lat": 9.9312,
     "lng": 76.2673,
-    "image": "https://cdn.frei.app/cities/cok.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Cityscape_view_from_Kakkanad.jpg/960px-Cityscape_view_from_Kakkanad.jpg"
   },
   {
     "id": "lko",
@@ -117,7 +117,7 @@
     "timezone": "Asia/Kolkata",
     "lat": 26.8467,
     "lng": 80.9462,
-    "image": "https://cdn.frei.app/cities/lko.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Top_of_Rumi_Darwaza_from_the_top_of_Bara_Imambara_of_Lucknow_-_Flickr_-_Dr._Santulan_Mahanta.jpg/960px-Top_of_Rumi_Darwaza_from_the_top_of_Bara_Imambara_of_Lucknow_-_Flickr_-_Dr._Santulan_Mahanta.jpg"
   },
   {
     "id": "ixc",
@@ -127,7 +127,7 @@
     "timezone": "Asia/Kolkata",
     "lat": 30.7333,
     "lng": 76.7794,
-    "image": "https://cdn.frei.app/cities/ixc.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Access_to_arts_banner_version_4.png/960px-Access_to_arts_banner_version_4.png"
   },
   {
     "id": "gau",
@@ -137,7 +137,7 @@
     "timezone": "Asia/Kolkata",
     "lat": 26.1445,
     "lng": 91.7362,
-    "image": "https://cdn.frei.app/cities/gau.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Guwahati_City_Off_Brahmaputra_Coast_%28189246519%29.jpeg/960px-Guwahati_City_Off_Brahmaputra_Coast_%28189246519%29.jpeg"
   },
   {
     "id": "bbi",
@@ -147,7 +147,7 @@
     "timezone": "Asia/Kolkata",
     "lat": 20.2961,
     "lng": 85.8245,
-    "image": "https://cdn.frei.app/cities/bbi.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Biju_Patnaik_Airport_Bhubaneswar.jpg/960px-Biju_Patnaik_Airport_Bhubaneswar.jpg"
   },
   {
     "id": "idr",
@@ -157,7 +157,7 @@
     "timezone": "Asia/Kolkata",
     "lat": 22.7196,
     "lng": 75.8577,
-    "image": "https://cdn.frei.app/cities/idr.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Laying_cornerstone_for_Nursing_School_Indore_India.jpg"
   },
   {
     "id": "nag",
@@ -167,7 +167,7 @@
     "timezone": "Asia/Kolkata",
     "lat": 21.1458,
     "lng": 79.0882,
-    "image": "https://cdn.frei.app/cities/nag.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/80/Panorama_of_Nagpur_Railway_Station.jpg"
   },
   {
     "id": "vns",
@@ -177,7 +177,7 @@
     "timezone": "Asia/Kolkata",
     "lat": 25.3176,
     "lng": 82.9739,
-    "image": "https://cdn.frei.app/cities/vns.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Scindia_Ghat_in_morning%2C_Varanasi%2C_Uttar_Pradesh%2C_India_%282012%29.jpg/960px-Scindia_Ghat_in_morning%2C_Varanasi%2C_Uttar_Pradesh%2C_India_%282012%29.jpg"
   },
   {
     "id": "atq",
@@ -187,7 +187,7 @@
     "timezone": "Asia/Kolkata",
     "lat": 31.634,
     "lng": 74.8723,
-    "image": "https://cdn.frei.app/cities/atq.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Cityscape_%28155411549%29.jpeg/960px-Cityscape_%28155411549%29.jpeg"
   },
   {
     "id": "sxr",
@@ -197,7 +197,7 @@
     "timezone": "Asia/Kolkata",
     "lat": 34.0837,
     "lng": 74.7973,
-    "image": "https://cdn.frei.app/cities/sxr.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Srinagar_pano.jpg/960px-Srinagar_pano.jpg"
   },
   {
     "id": "dxb",
@@ -207,7 +207,7 @@
     "timezone": "Asia/Dubai",
     "lat": 25.2048,
     "lng": 55.2708,
-    "image": "https://cdn.frei.app/cities/dxb.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Dubai_Marina_Panorama.jpg/960px-Dubai_Marina_Panorama.jpg"
   },
   {
     "id": "sin",
@@ -217,7 +217,7 @@
     "timezone": "Asia/Singapore",
     "lat": 1.3521,
     "lng": 103.8198,
-    "image": "https://cdn.frei.app/cities/sin.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/1_singapore_national_day_parade_2011_fireworks.jpg/960px-1_singapore_national_day_parade_2011_fireworks.jpg"
   },
   {
     "id": "bkk",
@@ -227,7 +227,7 @@
     "timezone": "Asia/Bangkok",
     "lat": 13.7563,
     "lng": 100.5018,
-    "image": "https://cdn.frei.app/cities/bkk.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Bangkok_skytrain_sunset.jpg/960px-Bangkok_skytrain_sunset.jpg"
   },
   {
     "id": "dps",
@@ -237,7 +237,7 @@
     "timezone": "Asia/Makassar",
     "lat": -8.3405,
     "lng": 115.092,
-    "image": "https://cdn.frei.app/cities/dps.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Mandara_Toll_Road%2C_Bali%2C_Indonesia_-_panoramio.jpg/960px-Mandara_Toll_Road%2C_Bali%2C_Indonesia_-_panoramio.jpg"
   },
   {
     "id": "kul",
@@ -247,7 +247,7 @@
     "timezone": "Asia/Kuala_Lumpur",
     "lat": 3.139,
     "lng": 101.6869,
-    "image": "https://cdn.frei.app/cities/kul.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/The_Twins_SE_Asia_2019_%2849171985716%29.jpg/960px-The_Twins_SE_Asia_2019_%2849171985716%29.jpg"
   },
   {
     "id": "lhr",
@@ -257,7 +257,7 @@
     "timezone": "Europe/London",
     "lat": 51.5072,
     "lng": -0.1276,
-    "image": "https://cdn.frei.app/cities/lhr.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/London_Eye_Twilight_April_2006.jpg/960px-London_Eye_Twilight_April_2006.jpg"
   },
   {
     "id": "cdg",
@@ -267,7 +267,7 @@
     "timezone": "Europe/Paris",
     "lat": 48.8566,
     "lng": 2.3522,
-    "image": "https://cdn.frei.app/cities/cdg.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Paris_Night.jpg/960px-Paris_Night.jpg"
   },
   {
     "id": "jfk",
@@ -277,7 +277,7 @@
     "timezone": "America/New_York",
     "lat": 40.7128,
     "lng": -74.006,
-    "image": "https://cdn.frei.app/cities/jfk.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Portrait_of_Billie_Holiday_and_Mister%2C_Downbeat%2C_New_York%2C_N.Y.%2C_ca._Feb._1947_%28LOC%2C_5020400274%2C_cropped%29.jpg/960px-Portrait_of_Billie_Holiday_and_Mister%2C_Downbeat%2C_New_York%2C_N.Y.%2C_ca._Feb._1947_%28LOC%2C_5020400274%2C_cropped%29.jpg"
   },
   {
     "id": "hnd",
@@ -287,7 +287,7 @@
     "timezone": "Asia/Tokyo",
     "lat": 35.6762,
     "lng": 139.6503,
-    "image": "https://cdn.frei.app/cities/hnd.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Worm%27s-eye_view_of_Tokyo_Skytree_with_vertical_symmetry_impression%2C_a_sunny_day%2C_in_Japan.jpg/960px-Worm%27s-eye_view_of_Tokyo_Skytree_with_vertical_symmetry_impression%2C_a_sunny_day%2C_in_Japan.jpg"
   },
   {
     "id": "syd",
@@ -297,7 +297,7 @@
     "timezone": "Australia/Sydney",
     "lat": -33.8688,
     "lng": 151.2093,
-    "image": "https://cdn.frei.app/cities/syd.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Sydney_%28AU%29%2C_Darling_Harbour_--_2019_--_3193-5.jpg/960px-Sydney_%28AU%29%2C_Darling_Harbour_--_2019_--_3193-5.jpg"
   },
   {
     "id": "fco",
@@ -307,7 +307,7 @@
     "timezone": "Europe/Rome",
     "lat": 41.9028,
     "lng": 12.4964,
-    "image": "https://cdn.frei.app/cities/fco.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Rome%2C_Italy%2C_Rome_Eternal_%28Roma_Caput_Mundi%2C_The_Eternal_City%29.jpg/960px-Rome%2C_Italy%2C_Rome_Eternal_%28Roma_Caput_Mundi%2C_The_Eternal_City%29.jpg"
   },
   {
     "id": "ist",
@@ -317,7 +317,7 @@
     "timezone": "Europe/Istanbul",
     "lat": 41.0082,
     "lng": 28.9784,
-    "image": "https://cdn.frei.app/cities/ist.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/20101106_Galata_Tower_Istanbul_Turkey_Panorama.jpg/960px-20101106_Galata_Tower_Istanbul_Turkey_Panorama.jpg"
   },
   {
     "id": "doh",
@@ -327,7 +327,7 @@
     "timezone": "Asia/Qatar",
     "lat": 25.2854,
     "lng": 51.531,
-    "image": "https://cdn.frei.app/cities/doh.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Doha_West_Bay_Skyline_Qatar_Jan_2020.jpg/960px-Doha_West_Bay_Skyline_Qatar_Jan_2020.jpg"
   },
   {
     "id": "hkg",
@@ -337,7 +337,7 @@
     "timezone": "Asia/Hong_Kong",
     "lat": 22.3193,
     "lng": 114.1694,
-    "image": "https://cdn.frei.app/cities/hkg.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Hong_Kong_Harbour_Night_2019-06-11.jpg/960px-Hong_Kong_Harbour_Night_2019-06-11.jpg"
   },
   {
     "id": "icn",
@@ -347,7 +347,7 @@
     "timezone": "Asia/Seoul",
     "lat": 37.5665,
     "lng": 126.978,
-    "image": "https://cdn.frei.app/cities/icn.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Gyedong-gil_street_with_climbing_plants_at_golden_hour_in_Seoul_South_Korea.jpg/960px-Gyedong-gil_street_with_climbing_plants_at_golden_hour_in_Seoul_South_Korea.jpg"
   },
   {
     "id": "ams",
@@ -357,7 +357,7 @@
     "timezone": "Europe/Amsterdam",
     "lat": 52.3676,
     "lng": 4.9041,
-    "image": "https://cdn.frei.app/cities/ams.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Colorful_canal_houses_at_golden_hour_in_Damrak_avenue_Amsterdam_the_Netherlands.jpg/960px-Colorful_canal_houses_at_golden_hour_in_Damrak_avenue_Amsterdam_the_Netherlands.jpg"
   },
   {
     "id": "mle",
@@ -367,7 +367,7 @@
     "timezone": "Indian/Maldives",
     "lat": 4.1755,
     "lng": 73.5093,
-    "image": "https://cdn.frei.app/cities/mle.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Male-total.jpg/960px-Male-total.jpg"
   },
   {
     "id": "ktm",
@@ -377,7 +377,7 @@
     "timezone": "Asia/Kathmandu",
     "lat": 27.7172,
     "lng": 85.324,
-    "image": "https://cdn.frei.app/cities/ktm.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Kathmandu_City-9812.jpg/960px-Kathmandu_City-9812.jpg"
   },
   {
     "id": "cmb",
@@ -387,7 +387,7 @@
     "timezone": "Asia/Colombo",
     "lat": 6.9271,
     "lng": 79.8612,
-    "image": "https://cdn.frei.app/cities/cmb.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Beach_Scene_with_Cityscape_-_Mt._Lavinia_-_Colombo_-_Sri_Lanka_%2814007199945%29.jpg/960px-Beach_Scene_with_Cityscape_-_Mt._Lavinia_-_Colombo_-_Sri_Lanka_%2814007199945%29.jpg"
   },
   {
     "id": "sfo",
@@ -397,6 +397,6 @@
     "timezone": "America/Los_Angeles",
     "lat": 37.7749,
     "lng": -122.4194,
-    "image": "https://cdn.frei.app/cities/sfo.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/San_Francisco_with_two_bridges_and_the_low_fog.jpg/960px-San_Francisco_with_two_bridges_and_the_low_fog.jpg"
   }
 ]

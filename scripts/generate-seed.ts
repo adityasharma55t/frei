@@ -324,11 +324,33 @@ function haversineKm(a: City, b: City): number {
 }
 
 const cityById = new Map(CITIES.map((c) => [c.id, c]));
-const FLIGHT_DATE = '2026-07-24';
+
+// Flights are generated across a rolling window of future dates so the
+// data never looks stale, and each route gets multiple days of coverage
+// instead of a single snapshot day.
+const TODAY = '2026-07-24';
+function futureDates(startOffsetDays: number, count: number): string[] {
+  // Use UTC-based date-only arithmetic (no time-of-day component) so this
+  // isn't thrown off by the IST offset applied later when building
+  // departure timestamps.
+  const [y, m, d0] = TODAY.split('-').map(Number);
+  const dates: string[] = [];
+  for (let i = 0; i < count; i++) {
+    const d = new Date(Date.UTC(y, m - 1, d0 + startOffsetDays + i));
+    dates.push(d.toISOString().slice(0, 10));
+  }
+  return dates;
+}
+// Start 2 local days out: departure times as early as 05:00 IST convert to
+// the previous UTC calendar day, so offsetting by 2 guarantees every
+// departureTime (stored as UTC) lands safely after today (2026-07-24),
+// regardless of what time "now" actually is.
+const FLIGHT_DATES = futureDates(2, 7); // 7 days, starting 2026-07-26
+
 let routeCounter = 0;
 const flights: Flight[] = [];
 
-function addFlight(fromId: string, toId: string, seedOffset: number) {
+function addFlight(fromId: string, toId: string, seedOffset: number, date: string) {
   const from = cityById.get(fromId)!;
   const to = cityById.get(toId)!;
   const distanceKm = haversineKm(from, to);
@@ -340,14 +362,14 @@ function addFlight(fromId: string, toId: string, seedOffset: number) {
   const durationMinutes = Math.max(45, Math.round((distanceKm / 800) * 60 + 30));
   const depHour = 5 + Math.floor(seededRand(seedOffset * 7) * 17); // 05:00-22:00
   const depMinute = Math.floor(seededRand(seedOffset * 11) * 4) * 15;
-  const departure = new Date(`${FLIGHT_DATE}T${String(depHour).padStart(2, '0')}:${String(depMinute).padStart(2, '0')}:00+05:30`);
+  const departure = new Date(`${date}T${String(depHour).padStart(2, '0')}:${String(depMinute).padStart(2, '0')}:00+05:30`);
   const arrival = new Date(departure.getTime() + durationMinutes * 60000);
   const basePrice = isDomestic ? 2800 + distanceKm * 3.2 : 9000 + distanceKm * 5.5;
   const price = Math.round((basePrice * (0.85 + rand * 0.4)) / 50) * 50;
   const flightNumber = `${airline.code}-${1000 + (routeCounter % 8999)}`;
   routeCounter++;
   flights.push({
-    id: `${flightNumber}-${FLIGHT_DATE.replace(/-/g, '')}`,
+    id: `${flightNumber}-${date.replace(/-/g, '')}`,
     airline: airline.name,
     airlineCode: airline.code,
     flightNumber,
@@ -364,38 +386,51 @@ function addFlight(fromId: string, toId: string, seedOffset: number) {
   });
 }
 
-// a) hub <-> hub full mesh
-for (let i = 0; i < INDIAN_HUBS.length; i++) {
-  for (let j = i + 1; j < INDIAN_HUBS.length; j++) {
-    addFlight(INDIAN_HUBS[i], INDIAN_HUBS[j], i * 100 + j);
-    addFlight(INDIAN_HUBS[j], INDIAN_HUBS[i], j * 100 + i + 1);
-  }
-}
-
-// b) spokes <-> BOM and DEL
-INDIAN_SPOKES.forEach((spoke, si) => {
-  ['bom', 'del'].forEach((hub, hi) => {
-    addFlight(hub, spoke, 1000 + si * 10 + hi);
-    addFlight(spoke, hub, 1000 + si * 10 + hi + 5);
-  });
-});
-
-// c) BOM/DEL/BLR/MAA <-> every international city
-['bom', 'del', 'blr', 'maa'].forEach((hub, hi) => {
-  INTL.forEach((intl, ii) => {
-    addFlight(hub, intl, 5000 + hi * 200 + ii);
-    addFlight(intl, hub, 5000 + hi * 200 + ii + 100);
-  });
-});
-
-// d) a handful of international <-> international connector routes
+// d) international <-> international connector routes. Expanded so every
+// international city in CITIES has at least one intl-intl connection,
+// not just the original handful of major hubs.
 const INTL_CONNECTORS: Array<[string, string]> = [
   ['dxb', 'lhr'], ['sin', 'bkk'], ['dxb', 'sin'], ['lhr', 'jfk'], ['cdg', 'jfk'],
   ['hnd', 'icn'], ['hnd', 'hkg'], ['dxb', 'doh'], ['sin', 'syd'], ['ams', 'jfk'],
+  ['kul', 'sin'], ['dps', 'sin'], ['fco', 'cdg'], ['ist', 'dxb'], ['mle', 'cmb'],
+  ['ktm', 'doh'], ['sfo', 'jfk'], ['cmb', 'sin'],
 ];
-INTL_CONNECTORS.forEach(([a, b], idx) => {
-  addFlight(a, b, 9000 + idx * 2);
-  addFlight(b, a, 9000 + idx * 2 + 1);
+
+FLIGHT_DATES.forEach((date, di) => {
+  const dayOffset = di * 3571; // large step so each day's rand sequence is distinct
+
+  // a) hub <-> hub full mesh, 2x daily frequency (busiest domestic trunk routes)
+  for (let i = 0; i < INDIAN_HUBS.length; i++) {
+    for (let j = i + 1; j < INDIAN_HUBS.length; j++) {
+      for (let f = 0; f < 2; f++) {
+        addFlight(INDIAN_HUBS[i], INDIAN_HUBS[j], dayOffset + i * 100 + j + f * 37, date);
+        addFlight(INDIAN_HUBS[j], INDIAN_HUBS[i], dayOffset + j * 100 + i + 1 + f * 37, date);
+      }
+    }
+  }
+
+  // b) spokes <-> every Indian hub (previously only bom/del — this fills in
+  // the routes between smaller domestic cities and blr/hyd/maa/ccu that had
+  // no service at all)
+  INDIAN_SPOKES.forEach((spoke, si) => {
+    INDIAN_HUBS.forEach((hub, hi) => {
+      addFlight(hub, spoke, dayOffset + 1000 + si * 10 + hi, date);
+      addFlight(spoke, hub, dayOffset + 1000 + si * 10 + hi + 5, date);
+    });
+  });
+
+  // c) BOM/DEL/BLR/MAA <-> every international city
+  ['bom', 'del', 'blr', 'maa'].forEach((hub, hi) => {
+    INTL.forEach((intl, ii) => {
+      addFlight(hub, intl, dayOffset + 5000 + hi * 200 + ii, date);
+      addFlight(intl, hub, dayOffset + 5000 + hi * 200 + ii + 100, date);
+    });
+  });
+
+  INTL_CONNECTORS.forEach(([a, b], idx) => {
+    addFlight(a, b, dayOffset + 9000 + idx * 2, date);
+    addFlight(b, a, dayOffset + 9000 + idx * 2 + 1, date);
+  });
 });
 
 // ---------------------------------------------------------------------------

@@ -6,7 +6,7 @@
     "category": "landmark",
     "rating": 4,
     "description": "Iconic waterfront arch monument overlooking the Arabian Sea.",
-    "image": "https://cdn.frei.app/attractions/gateway-of-india.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Panoramic_view_of_Taj_Palace_Hotel_and_Taj_Tower_with_the_iconic_Gateway_of_India_in_the_background.jpg/960px-Panoramic_view_of_Taj_Palace_Hotel_and_Taj_Tower_with_the_iconic_Gateway_of_India_in_the_background.jpg"
   },
   {
     "id": "marine-drive",
@@ -15,7 +15,7 @@
     "category": "landmark",
     "rating": 4.1,
     "description": "Sweeping promenade along the coast, popular at sunset.",
-    "image": "https://cdn.frei.app/attractions/marine-drive.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Mumbai_03-2016_46_evening_at_Marine_Drive.jpg/960px-Mumbai_03-2016_46_evening_at_Marine_Drive.jpg"
   },
   {
     "id": "elephanta-caves",
@@ -24,7 +24,7 @@
     "category": "landmark",
     "rating": 4.4,
     "description": "Ancient rock-cut cave temples on an island, a UNESCO site.",
-    "image": "https://cdn.frei.app/attractions/elephanta-caves.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Elephanta_-_Mahesh_Murti.jpg/960px-Elephanta_-_Mahesh_Murti.jpg"
   },
   {
     "id": "chhatrapati-shivaji-maharaj-vastu-sangrahalaya",
@@ -33,7 +33,7 @@
     "category": "museum",
     "rating": 4.1,
     "description": "Leading museum of art, archaeology and natural history.",
-    "image": "https://cdn.frei.app/attractions/chhatrapati-shivaji-maharaj-vastu-sangrahalaya.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Prince_of_Wales_Museum%2C_Mumbai_01.jpg/960px-Prince_of_Wales_Museum%2C_Mumbai_01.jpg"
   },
   {
     "id": "red-fort",
@@ -42,7 +42,7 @@
     "category": "landmark",
     "rating": 4.6,
     "description": "Mughal-era fortress and UNESCO World Heritage Site.",
-    "image": "https://cdn.frei.app/attractions/red-fort.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Red_Fort_in_Delhi_03-2016_img3.jpg/960px-Red_Fort_in_Delhi_03-2016_img3.jpg"
   },
   {
     "id": "qutub-minar",
@@ -51,7 +51,7 @@
     "category": "landmark",
     "rating": 4.7,
     "description": "Towering 13th-century minaret of red sandstone and marble.",
-    "image": "https://cdn.frei.app/attractions/qutub-minar.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Qutub_Minar_in_Delhi_03-2016.jpg/960px-Qutub_Minar_in_Delhi_03-2016.jpg"
   },
   {
     "id": "humayun-s-tomb",
@@ -60,7 +60,7 @@
     "category": "landmark",
     "rating": 4.2,
     "description": "Grand Mughal garden-tomb that inspired the Taj Mahal.",
-    "image": "https://cdn.frei.app/attractions/humayun-s-tomb.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Tomb_of_Humayun%2C_Delhi.jpg/960px-Tomb_of_Humayun%2C_Delhi.jpg"
   },
   {
     "id": "national-museum",
@@ -69,7 +69,7 @@
     "category": "museum",
     "rating": 4.2,
     "description": "Extensive collection spanning Indian art and history.",
-    "image": "https://cdn.frei.app/attractions/national-museum.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Mahakala_-_National_Museum%2C_New_Delhi.jpg/960px-Mahakala_-_National_Museum%2C_New_Delhi.jpg"
   },
   {
     "id": "chandni-chowk",
@@ -78,7 +78,7 @@
     "category": "food",
     "rating": 4.2,
     "description": "Historic market famous for street food and spices.",
-    "image": "https://cdn.frei.app/attractions/chandni-chowk.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/State_Bank_of_India%2C_Chandni_Chowk_branch%2C_Delhi_04.jpg/960px-State_Bank_of_India%2C_Chandni_Chowk_branch%2C_Delhi_04.jpg"
   },
   {
     "id": "lalbagh-botanical-garden",
@@ -87,7 +87,7 @@
     "category": "nature",
     "rating": 4.2,
     "description": "Historic botanical garden with a glass house and lake.",
-    "image": "https://cdn.frei.app/attractions/lalbagh-botanical-garden.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Lalbagh_botanical_garden%2C_bengaluru%2C_India_2.jpg/960px-Lalbagh_botanical_garden%2C_bengaluru%2C_India_2.jpg"
   },
   {
     "id": "bangalore-palace",
@@ -96,7 +96,7 @@
     "category": "landmark",
     "rating": 4.3,
     "description": "Tudor-style palace with Gothic interiors.",
-    "image": "https://cdn.frei.app/attractions/bangalore-palace.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Bangalore_Palace_-_Jayamahal.jpg/960px-Bangalore_Palace_-_Jayamahal.jpg"
   },
   {
     "id": "cubbon-park",
@@ -105,7 +105,7 @@
     "category": "nature",
     "rating": 4.8,
     "description": "Green expanse in the heart of the city.",
-    "image": "https://cdn.frei.app/attractions/cubbon-park.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cubbon_Park_Bengaluru_Karnataka_India_1.jpg/960px-Cubbon_Park_Bengaluru_Karnataka_India_1.jpg"
   },
   {
     "id": "ub-city",
@@ -114,7 +114,7 @@
     "category": "shopping",
     "rating": 4.6,
     "description": "Upscale mall and dining district.",
-    "image": "https://cdn.frei.app/attractions/ub-city.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/UB_City_Bangalore.JPG/960px-UB_City_Bangalore.JPG"
   },
   {
     "id": "toit-brewpub",
@@ -123,7 +123,7 @@
     "category": "nightlife",
     "rating": 4.5,
     "description": "Popular craft brewery and live-music venue.",
-    "image": "https://cdn.frei.app/attractions/toit-brewpub.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Toit_Brewpub%2C_Bengaluru_01.jpg/960px-Toit_Brewpub%2C_Bengaluru_01.jpg"
   },
   {
     "id": "bengaluru-city-landmark",
@@ -132,7 +132,7 @@
     "category": "landmark",
     "rating": 4,
     "description": "A well-known historic landmark in the city centre.",
-    "image": "https://cdn.frei.app/attractions/bengaluru-city-landmark.jpg"
+    "image": "https://loremflickr.com/800/600/landmark,architecture,Bengaluru/all?lock=950"
   },
   {
     "id": "charminar",
@@ -141,7 +141,7 @@
     "category": "landmark",
     "rating": 4.2,
     "description": "Iconic 16th-century mosque and monument.",
-    "image": "https://cdn.frei.app/attractions/charminar.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Charminar_Hyderabad_1.jpg/960px-Charminar_Hyderabad_1.jpg"
   },
   {
     "id": "golconda-fort",
@@ -150,7 +150,7 @@
     "category": "landmark",
     "rating": 4.7,
     "description": "Sprawling hilltop fort known for its acoustics.",
-    "image": "https://cdn.frei.app/attractions/golconda-fort.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Golconda_Fort%2C_Hyderabad_%28Oct_2025%29_-_3.jpg/960px-Golconda_Fort%2C_Hyderabad_%28Oct_2025%29_-_3.jpg"
   },
   {
     "id": "ramoji-film-city",
@@ -159,7 +159,7 @@
     "category": "adventure",
     "rating": 4.3,
     "description": "One of the world's largest film studio complexes with tours.",
-    "image": "https://cdn.frei.app/attractions/ramoji-film-city.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Garden_at_Ramoji_Film_City%2C_Hyderabad.JPG/960px-Garden_at_Ramoji_Film_City%2C_Hyderabad.JPG"
   },
   {
     "id": "hussain-sagar-lake",
@@ -168,7 +168,7 @@
     "category": "nature",
     "rating": 4.8,
     "description": "Heart-shaped lake with a giant Buddha statue.",
-    "image": "https://cdn.frei.app/attractions/hussain-sagar-lake.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Hussain_Sagar_Buddha_Statue.JPG/960px-Hussain_Sagar_Buddha_Statue.JPG"
   },
   {
     "id": "marina-beach",
@@ -177,7 +177,7 @@
     "category": "nature",
     "rating": 4.1,
     "description": "One of the longest urban beaches in the world.",
-    "image": "https://cdn.frei.app/attractions/marina-beach.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/MGR_Memorial%2C_Marina_Beach.jpg/960px-MGR_Memorial%2C_Marina_Beach.jpg"
   },
   {
     "id": "kapaleeshwarar-temple",
@@ -186,7 +186,7 @@
     "category": "landmark",
     "rating": 4.6,
     "description": "Vividly sculpted Dravidian-style Shiva temple.",
-    "image": "https://cdn.frei.app/attractions/kapaleeshwarar-temple.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Chennai_Kapaleeshwarar_Temple.jpg/960px-Chennai_Kapaleeshwarar_Temple.jpg"
   },
   {
     "id": "fort-st-george",
@@ -195,7 +195,7 @@
     "category": "landmark",
     "rating": 4.6,
     "description": "First English fortress in India, now a museum.",
-    "image": "https://cdn.frei.app/attractions/fort-st-george.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Fort_St._George%2C_Chennai_2.jpg/960px-Fort_St._George%2C_Chennai_2.jpg"
   },
   {
     "id": "government-museum",
@@ -204,7 +204,7 @@
     "category": "museum",
     "rating": 4.5,
     "description": "One of the oldest museums in India.",
-    "image": "https://cdn.frei.app/attractions/government-museum.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Madras_museum_theatre_in_October_2007.jpg/960px-Madras_museum_theatre_in_October_2007.jpg"
   },
   {
     "id": "chennai-city-landmark",
@@ -213,7 +213,7 @@
     "category": "landmark",
     "rating": 4.2,
     "description": "A well-known historic landmark in the city centre.",
-    "image": "https://cdn.frei.app/attractions/chennai-city-landmark.jpg"
+    "image": "https://loremflickr.com/800/600/landmark,architecture,Chennai/all?lock=117"
   },
   {
     "id": "victoria-memorial",
@@ -222,7 +222,7 @@
     "category": "landmark",
     "rating": 4.8,
     "description": "Grand marble monument set in landscaped gardens.",
-    "image": "https://cdn.frei.app/attractions/victoria-memorial.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Victoria_Memorial_Kolkata_at_night.jpg/960px-Victoria_Memorial_Kolkata_at_night.jpg"
   },
   {
     "id": "howrah-bridge",
@@ -231,7 +231,7 @@
     "category": "landmark",
     "rating": 4.8,
     "description": "Iconic cantilever bridge over the Hooghly river.",
-    "image": "https://cdn.frei.app/attractions/howrah-bridge.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Howrah_Railway_Station_01.jpg/960px-Howrah_Railway_Station_01.jpg"
   },
   {
     "id": "indian-museum",
@@ -240,7 +240,7 @@
     "category": "museum",
     "rating": 4.8,
     "description": "Largest and oldest museum in India.",
-    "image": "https://cdn.frei.app/attractions/indian-museum.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Dancing_Bhairava_in_the_Indian_Museum%2C_Kolkata_02.jpg/960px-Dancing_Bhairava_in_the_Indian_Museum%2C_Kolkata_02.jpg"
   },
   {
     "id": "college-street",
@@ -249,7 +249,7 @@
     "category": "shopping",
     "rating": 4.7,
     "description": "Historic street lined with bookshops and cafes.",
-    "image": "https://cdn.frei.app/attractions/college-street.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/College_Street_-_Kolkata_2015-02-09_2200.JPG/960px-College_Street_-_Kolkata_2015-02-09_2200.JPG"
   },
   {
     "id": "kolkata-city-landmark",
@@ -258,7 +258,7 @@
     "category": "landmark",
     "rating": 4,
     "description": "A well-known historic landmark in the city centre.",
-    "image": "https://cdn.frei.app/attractions/kolkata-city-landmark.jpg"
+    "image": "https://loremflickr.com/800/600/landmark,architecture,Kolkata/all?lock=872"
   },
   {
     "id": "kolkata-heritage-museum",
@@ -267,7 +267,7 @@
     "category": "museum",
     "rating": 4.2,
     "description": "Local museum showcasing regional history and culture.",
-    "image": "https://cdn.frei.app/attractions/kolkata-heritage-museum.jpg"
+    "image": "https://loremflickr.com/800/600/museum,gallery,Kolkata/all?lock=782"
   },
   {
     "id": "pune-city-landmark",
@@ -276,7 +276,7 @@
     "category": "landmark",
     "rating": 4.7,
     "description": "A well-known historic landmark in the city centre.",
-    "image": "https://cdn.frei.app/attractions/pune-city-landmark.jpg"
+    "image": "https://loremflickr.com/800/600/landmark,architecture,Pune/all?lock=929"
   },
   {
     "id": "pune-heritage-museum",
@@ -285,7 +285,7 @@
     "category": "museum",
     "rating": 4.1,
     "description": "Local museum showcasing regional history and culture.",
-    "image": "https://cdn.frei.app/attractions/pune-heritage-museum.jpg"
+    "image": "https://loremflickr.com/800/600/museum,gallery,Pune/all?lock=7"
   },
   {
     "id": "pune-central-park",
@@ -294,7 +294,7 @@
     "category": "nature",
     "rating": 4.6,
     "description": "Green public park popular with locals and visitors.",
-    "image": "https://cdn.frei.app/attractions/pune-central-park.jpg"
+    "image": "https://loremflickr.com/800/600/nature,park,Pune/all?lock=691"
   },
   {
     "id": "pune-old-town-market",
@@ -303,7 +303,7 @@
     "category": "shopping",
     "rating": 4.8,
     "description": "Traditional market street for local crafts and goods.",
-    "image": "https://cdn.frei.app/attractions/pune-old-town-market.jpg"
+    "image": "https://loremflickr.com/800/600/bazaar,market,Pune/all?lock=448"
   },
   {
     "id": "ahmedabad-city-landmark",
@@ -312,7 +312,7 @@
     "category": "landmark",
     "rating": 4.2,
     "description": "A well-known historic landmark in the city centre.",
-    "image": "https://cdn.frei.app/attractions/ahmedabad-city-landmark.jpg"
+    "image": "https://loremflickr.com/800/600/landmark,architecture,Ahmedabad/all?lock=382"
   },
   {
     "id": "ahmedabad-heritage-museum",
@@ -321,7 +321,7 @@
     "category": "museum",
     "rating": 4.2,
     "description": "Local museum showcasing regional history and culture.",
-    "image": "https://cdn.frei.app/attractions/ahmedabad-heritage-museum.jpg"
+    "image": "https://loremflickr.com/800/600/museum,gallery,Ahmedabad/all?lock=172"
   },
   {
     "id": "ahmedabad-central-park",
@@ -330,7 +330,7 @@
     "category": "nature",
     "rating": 4.8,
     "description": "Green public park popular with locals and visitors.",
-    "image": "https://cdn.frei.app/attractions/ahmedabad-central-park.jpg"
+    "image": "https://loremflickr.com/800/600/nature,park,Ahmedabad/all?lock=726"
   },
   {
     "id": "ahmedabad-old-town-market",
@@ -339,7 +339,7 @@
     "category": "shopping",
     "rating": 4.6,
     "description": "Traditional market street for local crafts and goods.",
-    "image": "https://cdn.frei.app/attractions/ahmedabad-old-town-market.jpg"
+    "image": "https://loremflickr.com/800/600/bazaar,market,Ahmedabad/all?lock=909"
   },
   {
     "id": "ahmedabad-riverside-promenade",
@@ -348,7 +348,7 @@
     "category": "nature",
     "rating": 4.2,
     "description": "Scenic walkway along the water, popular at sunset.",
-    "image": "https://cdn.frei.app/attractions/ahmedabad-riverside-promenade.jpg"
+    "image": "https://loremflickr.com/800/600/nature,park,Ahmedabad/all?lock=187"
   },
   {
     "id": "amber-fort",
@@ -357,7 +357,7 @@
     "category": "landmark",
     "rating": 4.5,
     "description": "Majestic hilltop fort with mirrored halls.",
-    "image": "https://cdn.frei.app/attractions/amber-fort.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Jaipur_03-2016_02_Amber_Fort.jpg/960px-Jaipur_03-2016_02_Amber_Fort.jpg"
   },
   {
     "id": "hawa-mahal",
@@ -366,7 +366,7 @@
     "category": "landmark",
     "rating": 4.8,
     "description": "Iconic pink sandstone \"Palace of Winds\".",
-    "image": "https://cdn.frei.app/attractions/hawa-mahal.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/East_facade_Hawa_Mahal_Jaipur_from_ground_level_%28July_2022%29_-_img_01.jpg/960px-East_facade_Hawa_Mahal_Jaipur_from_ground_level_%28July_2022%29_-_img_01.jpg"
   },
   {
     "id": "city-palace",
@@ -375,7 +375,7 @@
     "category": "landmark",
     "rating": 4.5,
     "description": "Former royal residence with museums and courtyards.",
-    "image": "https://cdn.frei.app/attractions/city-palace.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Jaipur_03-2016_20_City_Palace_complex.jpg/960px-Jaipur_03-2016_20_City_Palace_complex.jpg"
   },
   {
     "id": "jantar-mantar",
@@ -384,7 +384,7 @@
     "category": "landmark",
     "rating": 4.4,
     "description": "UNESCO-listed astronomical observatory.",
-    "image": "https://cdn.frei.app/attractions/jantar-mantar.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Doors_of_Jantar_Mantar.jpg/960px-Doors_of_Jantar_Mantar.jpg"
   },
   {
     "id": "johari-bazaar",
@@ -393,7 +393,7 @@
     "category": "shopping",
     "rating": 4.2,
     "description": "Famous market for jewelry and gemstones.",
-    "image": "https://cdn.frei.app/attractions/johari-bazaar.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Johari-bazaar_0.jpg/960px-Johari-bazaar_0.jpg"
   },
   {
     "id": "jaipur-city-landmark",
@@ -402,7 +402,7 @@
     "category": "landmark",
     "rating": 4.3,
     "description": "A well-known historic landmark in the city centre.",
-    "image": "https://cdn.frei.app/attractions/jaipur-city-landmark.jpg"
+    "image": "https://loremflickr.com/800/600/landmark,architecture,Jaipur/all?lock=256"
   },
   {
     "id": "baga-beach",
@@ -411,7 +411,7 @@
     "category": "nature",
     "rating": 4.7,
     "description": "Lively beach known for water sports and shacks.",
-    "image": "https://cdn.frei.app/attractions/baga-beach.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Baga_Beach_25012016.jpg/960px-Baga_Beach_25012016.jpg"
   },
   {
     "id": "basilica-of-bom-jesus",
@@ -420,7 +420,7 @@
     "category": "landmark",
     "rating": 4.4,
     "description": "UNESCO-listed baroque church in Old Goa.",
-    "image": "https://cdn.frei.app/attractions/basilica-of-bom-jesus.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Side_Elevation_of_Basilica_of_Bom_Jesus.jpg/960px-Side_Elevation_of_Basilica_of_Bom_Jesus.jpg"
   },
   {
     "id": "fort-aguada",
@@ -429,7 +429,7 @@
     "category": "landmark",
     "rating": 4.3,
     "description": "17th-century Portuguese fort with a lighthouse.",
-    "image": "https://cdn.frei.app/attractions/fort-aguada.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Fort_Aguada_Remote_view_25012016.jpg/960px-Fort_Aguada_Remote_view_25012016.jpg"
   },
   {
     "id": "anjuna-flea-market",
@@ -438,7 +438,7 @@
     "category": "shopping",
     "rating": 4.1,
     "description": "Famous weekly market for handicrafts and clothing.",
-    "image": "https://cdn.frei.app/attractions/anjuna-flea-market.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Anjuna%2C_Goa%2C_India%2C_Anjuna_Flea_Market_2.jpg/960px-Anjuna%2C_Goa%2C_India%2C_Anjuna_Flea_Market_2.jpg"
   },
   {
     "id": "kochi-city-landmark",
@@ -447,7 +447,7 @@
     "category": "landmark",
     "rating": 4.8,
     "description": "A well-known historic landmark in the city centre.",
-    "image": "https://cdn.frei.app/attractions/kochi-city-landmark.jpg"
+    "image": "https://loremflickr.com/800/600/landmark,architecture,Kochi/all?lock=941"
   },
   {
     "id": "kochi-heritage-museum",
@@ -456,7 +456,7 @@
     "category": "museum",
     "rating": 4.1,
     "description": "Local museum showcasing regional history and culture.",
-    "image": "https://cdn.frei.app/attractions/kochi-heritage-museum.jpg"
+    "image": "https://loremflickr.com/800/600/museum,gallery,Kochi/all?lock=955"
   },
   {
     "id": "kochi-central-park",
@@ -465,7 +465,7 @@
     "category": "nature",
     "rating": 4.9,
     "description": "Green public park popular with locals and visitors.",
-    "image": "https://cdn.frei.app/attractions/kochi-central-park.jpg"
+    "image": "https://loremflickr.com/800/600/nature,park,Kochi/all?lock=455"
   },
   {
     "id": "kochi-old-town-market",
@@ -474,7 +474,7 @@
     "category": "shopping",
     "rating": 4,
     "description": "Traditional market street for local crafts and goods.",
-    "image": "https://cdn.frei.app/attractions/kochi-old-town-market.jpg"
+    "image": "https://loremflickr.com/800/600/bazaar,market,Kochi/all?lock=692"
   },
   {
     "id": "kochi-riverside-promenade",
@@ -483,7 +483,7 @@
     "category": "nature",
     "rating": 4.5,
     "description": "Scenic walkway along the water, popular at sunset.",
-    "image": "https://cdn.frei.app/attractions/kochi-riverside-promenade.jpg"
+    "image": "https://loremflickr.com/800/600/nature,park,Kochi/all?lock=114"
   },
   {
     "id": "lucknow-city-landmark",
@@ -492,7 +492,7 @@
     "category": "landmark",
     "rating": 4,
     "description": "A well-known historic landmark in the city centre.",
-    "image": "https://cdn.frei.app/attractions/lucknow-city-landmark.jpg"
+    "image": "https://loremflickr.com/800/600/landmark,architecture,Lucknow/all?lock=170"
   },
   {
     "id": "lucknow-heritage-museum",
@@ -501,7 +501,7 @@
     "category": "museum",
     "rating": 4.4,
     "description": "Local museum showcasing regional history and culture.",
-    "image": "https://cdn.frei.app/attractions/lucknow-heritage-museum.jpg"
+    "image": "https://loremflickr.com/800/600/museum,gallery,Lucknow/all?lock=496"
   },
   {
     "id": "lucknow-central-park",
@@ -510,7 +510,7 @@
     "category": "nature",
     "rating": 4.4,
     "description": "Green public park popular with locals and visitors.",
-    "image": "https://cdn.frei.app/attractions/lucknow-central-park.jpg"
+    "image": "https://loremflickr.com/800/600/nature,park,Lucknow/all?lock=18"
   },
   {
     "id": "lucknow-old-town-market",
@@ -519,7 +519,7 @@
     "category": "shopping",
     "rating": 4.8,
     "description": "Traditional market street for local crafts and goods.",
-    "image": "https://cdn.frei.app/attractions/lucknow-old-town-market.jpg"
+    "image": "https://loremflickr.com/800/600/bazaar,market,Lucknow/all?lock=233"
   },
   {
     "id": "lucknow-riverside-promenade",
@@ -528,7 +528,7 @@
     "category": "nature",
     "rating": 4.2,
     "description": "Scenic walkway along the water, popular at sunset.",
-    "image": "https://cdn.frei.app/attractions/lucknow-riverside-promenade.jpg"
+    "image": "https://loremflickr.com/800/600/nature,park,Lucknow/all?lock=295"
   },
   {
     "id": "lucknow-night-bazaar",
@@ -537,7 +537,7 @@
     "category": "nightlife",
     "rating": 4.5,
     "description": "Evening market and food street popular after dark.",
-    "image": "https://cdn.frei.app/attractions/lucknow-night-bazaar.jpg"
+    "image": "https://loremflickr.com/800/600/nightlife,bar,Lucknow/all?lock=588"
   },
   {
     "id": "chandigarh-city-landmark",
@@ -546,7 +546,7 @@
     "category": "landmark",
     "rating": 4.1,
     "description": "A well-known historic landmark in the city centre.",
-    "image": "https://cdn.frei.app/attractions/chandigarh-city-landmark.jpg"
+    "image": "https://loremflickr.com/800/600/landmark,architecture,Chandigarh/all?lock=124"
   },
   {
     "id": "chandigarh-heritage-museum",
@@ -555,7 +555,7 @@
     "category": "museum",
     "rating": 4.2,
     "description": "Local museum showcasing regional history and culture.",
-    "image": "https://cdn.frei.app/attractions/chandigarh-heritage-museum.jpg"
+    "image": "https://loremflickr.com/800/600/museum,gallery,Chandigarh/all?lock=762"
   },
   {
     "id": "chandigarh-central-park",
@@ -564,7 +564,7 @@
     "category": "nature",
     "rating": 4.9,
     "description": "Green public park popular with locals and visitors.",
-    "image": "https://cdn.frei.app/attractions/chandigarh-central-park.jpg"
+    "image": "https://loremflickr.com/800/600/nature,park,Chandigarh/all?lock=952"
   },
   {
     "id": "chandigarh-old-town-market",
@@ -573,7 +573,7 @@
     "category": "shopping",
     "rating": 4.4,
     "description": "Traditional market street for local crafts and goods.",
-    "image": "https://cdn.frei.app/attractions/chandigarh-old-town-market.jpg"
+    "image": "https://loremflickr.com/800/600/bazaar,market,Chandigarh/all?lock=499"
   },
   {
     "id": "guwahati-city-landmark",
@@ -582,7 +582,7 @@
     "category": "landmark",
     "rating": 4.7,
     "description": "A well-known historic landmark in the city centre.",
-    "image": "https://cdn.frei.app/attractions/guwahati-city-landmark.jpg"
+    "image": "https://loremflickr.com/800/600/landmark,architecture,Guwahati/all?lock=571"
   },
   {
     "id": "guwahati-heritage-museum",
@@ -591,7 +591,7 @@
     "category": "museum",
     "rating": 4.8,
     "description": "Local museum showcasing regional history and culture.",
-    "image": "https://cdn.frei.app/attractions/guwahati-heritage-museum.jpg"
+    "image": "https://loremflickr.com/800/600/museum,gallery,Guwahati/all?lock=929"
   },
   {
     "id": "guwahati-central-park",
@@ -600,7 +600,7 @@
     "category": "nature",
     "rating": 4.8,
     "description": "Green public park popular with locals and visitors.",
-    "image": "https://cdn.frei.app/attractions/guwahati-central-park.jpg"
+    "image": "https://loremflickr.com/800/600/nature,park,Guwahati/all?lock=633"
   },
   {
     "id": "guwahati-old-town-market",
@@ -609,7 +609,7 @@
     "category": "shopping",
     "rating": 4.6,
     "description": "Traditional market street for local crafts and goods.",
-    "image": "https://cdn.frei.app/attractions/guwahati-old-town-market.jpg"
+    "image": "https://loremflickr.com/800/600/bazaar,market,Guwahati/all?lock=666"
   },
   {
     "id": "guwahati-riverside-promenade",
@@ -618,7 +618,7 @@
     "category": "nature",
     "rating": 4.8,
     "description": "Scenic walkway along the water, popular at sunset.",
-    "image": "https://cdn.frei.app/attractions/guwahati-riverside-promenade.jpg"
+    "image": "https://loremflickr.com/800/600/nature,park,Guwahati/all?lock=352"
   },
   {
     "id": "bhubaneswar-city-landmark",
@@ -627,7 +627,7 @@
     "category": "landmark",
     "rating": 4.4,
     "description": "A well-known historic landmark in the city centre.",
-    "image": "https://cdn.frei.app/attractions/bhubaneswar-city-landmark.jpg"
+    "image": "https://loremflickr.com/800/600/landmark,architecture,Bhubaneswar/all?lock=927"
   },
   {
     "id": "bhubaneswar-heritage-museum",
@@ -636,7 +636,7 @@
     "category": "museum",
     "rating": 4.2,
     "description": "Local museum showcasing regional history and culture.",
-    "image": "https://cdn.frei.app/attractions/bhubaneswar-heritage-museum.jpg"
+    "image": "https://loremflickr.com/800/600/museum,gallery,Bhubaneswar/all?lock=197"
   },
   {
     "id": "bhubaneswar-central-park",
@@ -645,7 +645,7 @@
     "category": "nature",
     "rating": 4.4,
     "description": "Green public park popular with locals and visitors.",
-    "image": "https://cdn.frei.app/attractions/bhubaneswar-central-park.jpg"
+    "image": "https://loremflickr.com/800/600/nature,park,Bhubaneswar/all?lock=365"
   },
   {
     "id": "bhubaneswar-old-town-market",
@@ -654,7 +654,7 @@
     "category": "shopping",
     "rating": 4.7,
     "description": "Traditional market street for local crafts and goods.",
-    "image": "https://cdn.frei.app/attractions/bhubaneswar-old-town-market.jpg"
+    "image": "https://loremflickr.com/800/600/bazaar,market,Bhubaneswar/all?lock=934"
   },
   {
     "id": "bhubaneswar-riverside-promenade",
@@ -663,7 +663,7 @@
     "category": "nature",
     "rating": 4.3,
     "description": "Scenic walkway along the water, popular at sunset.",
-    "image": "https://cdn.frei.app/attractions/bhubaneswar-riverside-promenade.jpg"
+    "image": "https://loremflickr.com/800/600/nature,park,Bhubaneswar/all?lock=740"
   },
   {
     "id": "bhubaneswar-night-bazaar",
@@ -672,7 +672,7 @@
     "category": "nightlife",
     "rating": 4.8,
     "description": "Evening market and food street popular after dark.",
-    "image": "https://cdn.frei.app/attractions/bhubaneswar-night-bazaar.jpg"
+    "image": "https://loremflickr.com/800/600/nightlife,bar,Bhubaneswar/all?lock=935"
   },
   {
     "id": "indore-city-landmark",
@@ -681,7 +681,7 @@
     "category": "landmark",
     "rating": 4.7,
     "description": "A well-known historic landmark in the city centre.",
-    "image": "https://cdn.frei.app/attractions/indore-city-landmark.jpg"
+    "image": "https://loremflickr.com/800/600/landmark,architecture,Indore/all?lock=16"
   },
   {
     "id": "indore-heritage-museum",
@@ -690,7 +690,7 @@
     "category": "museum",
     "rating": 4.8,
     "description": "Local museum showcasing regional history and culture.",
-    "image": "https://cdn.frei.app/attractions/indore-heritage-museum.jpg"
+    "image": "https://loremflickr.com/800/600/museum,gallery,Indore/all?lock=334"
   },
   {
     "id": "indore-central-park",
@@ -699,7 +699,7 @@
     "category": "nature",
     "rating": 4.8,
     "description": "Green public park popular with locals and visitors.",
-    "image": "https://cdn.frei.app/attractions/indore-central-park.jpg"
+    "image": "https://loremflickr.com/800/600/nature,park,Indore/all?lock=252"
   },
   {
     "id": "indore-old-town-market",
@@ -708,7 +708,7 @@
     "category": "shopping",
     "rating": 4.4,
     "description": "Traditional market street for local crafts and goods.",
-    "image": "https://cdn.frei.app/attractions/indore-old-town-market.jpg"
+    "image": "https://loremflickr.com/800/600/bazaar,market,Indore/all?lock=775"
   },
   {
     "id": "nagpur-city-landmark",
@@ -717,7 +717,7 @@
     "category": "landmark",
     "rating": 4.5,
     "description": "A well-known historic landmark in the city centre.",
-    "image": "https://cdn.frei.app/attractions/nagpur-city-landmark.jpg"
+    "image": "https://loremflickr.com/800/600/landmark,architecture,Nagpur/all?lock=62"
   },
   {
     "id": "nagpur-heritage-museum",
@@ -726,7 +726,7 @@
     "category": "museum",
     "rating": 4.6,
     "description": "Local museum showcasing regional history and culture.",
-    "image": "https://cdn.frei.app/attractions/nagpur-heritage-museum.jpg"
+    "image": "https://loremflickr.com/800/600/museum,gallery,Nagpur/all?lock=476"
   },
   {
     "id": "nagpur-central-park",
@@ -735,7 +735,7 @@
     "category": "nature",
     "rating": 4.7,
     "description": "Green public park popular with locals and visitors.",
-    "image": "https://cdn.frei.app/attractions/nagpur-central-park.jpg"
+    "image": "https://loremflickr.com/800/600/nature,park,Nagpur/all?lock=110"
   },
   {
     "id": "nagpur-old-town-market",
@@ -744,7 +744,7 @@
     "category": "shopping",
     "rating": 4.7,
     "description": "Traditional market street for local crafts and goods.",
-    "image": "https://cdn.frei.app/attractions/nagpur-old-town-market.jpg"
+    "image": "https://loremflickr.com/800/600/bazaar,market,Nagpur/all?lock=213"
   },
   {
     "id": "nagpur-riverside-promenade",
@@ -753,7 +753,7 @@
     "category": "nature",
     "rating": 4.1,
     "description": "Scenic walkway along the water, popular at sunset.",
-    "image": "https://cdn.frei.app/attractions/nagpur-riverside-promenade.jpg"
+    "image": "https://loremflickr.com/800/600/nature,park,Nagpur/all?lock=867"
   },
   {
     "id": "varanasi-city-landmark",
@@ -762,7 +762,7 @@
     "category": "landmark",
     "rating": 4.6,
     "description": "A well-known historic landmark in the city centre.",
-    "image": "https://cdn.frei.app/attractions/varanasi-city-landmark.jpg"
+    "image": "https://loremflickr.com/800/600/landmark,architecture,Varanasi/all?lock=824"
   },
   {
     "id": "varanasi-heritage-museum",
@@ -771,7 +771,7 @@
     "category": "museum",
     "rating": 4.9,
     "description": "Local museum showcasing regional history and culture.",
-    "image": "https://cdn.frei.app/attractions/varanasi-heritage-museum.jpg"
+    "image": "https://loremflickr.com/800/600/museum,gallery,Varanasi/all?lock=646"
   },
   {
     "id": "varanasi-central-park",
@@ -780,7 +780,7 @@
     "category": "nature",
     "rating": 4.6,
     "description": "Green public park popular with locals and visitors.",
-    "image": "https://cdn.frei.app/attractions/varanasi-central-park.jpg"
+    "image": "https://loremflickr.com/800/600/nature,park,Varanasi/all?lock=76"
   },
   {
     "id": "varanasi-old-town-market",
@@ -789,7 +789,7 @@
     "category": "shopping",
     "rating": 4.2,
     "description": "Traditional market street for local crafts and goods.",
-    "image": "https://cdn.frei.app/attractions/varanasi-old-town-market.jpg"
+    "image": "https://loremflickr.com/800/600/bazaar,market,Varanasi/all?lock=383"
   },
   {
     "id": "varanasi-riverside-promenade",
@@ -798,7 +798,7 @@
     "category": "nature",
     "rating": 4.6,
     "description": "Scenic walkway along the water, popular at sunset.",
-    "image": "https://cdn.frei.app/attractions/varanasi-riverside-promenade.jpg"
+    "image": "https://loremflickr.com/800/600/nature,park,Varanasi/all?lock=53"
   },
   {
     "id": "varanasi-night-bazaar",
@@ -807,7 +807,7 @@
     "category": "nightlife",
     "rating": 4.2,
     "description": "Evening market and food street popular after dark.",
-    "image": "https://cdn.frei.app/attractions/varanasi-night-bazaar.jpg"
+    "image": "https://loremflickr.com/800/600/nightlife,bar,Varanasi/all?lock=646"
   },
   {
     "id": "amritsar-city-landmark",
@@ -816,7 +816,7 @@
     "category": "landmark",
     "rating": 4,
     "description": "A well-known historic landmark in the city centre.",
-    "image": "https://cdn.frei.app/attractions/amritsar-city-landmark.jpg"
+    "image": "https://loremflickr.com/800/600/landmark,architecture,Amritsar/all?lock=152"
   },
   {
     "id": "amritsar-heritage-museum",
@@ -825,7 +825,7 @@
     "category": "museum",
     "rating": 4.7,
     "description": "Local museum showcasing regional history and culture.",
-    "image": "https://cdn.frei.app/attractions/amritsar-heritage-museum.jpg"
+    "image": "https://loremflickr.com/800/600/museum,gallery,Amritsar/all?lock=62"
   },
   {
     "id": "amritsar-central-park",
@@ -834,7 +834,7 @@
     "category": "nature",
     "rating": 4.8,
     "description": "Green public park popular with locals and visitors.",
-    "image": "https://cdn.frei.app/attractions/amritsar-central-park.jpg"
+    "image": "https://loremflickr.com/800/600/nature,park,Amritsar/all?lock=740"
   },
   {
     "id": "amritsar-old-town-market",
@@ -843,7 +843,7 @@
     "category": "shopping",
     "rating": 4.5,
     "description": "Traditional market street for local crafts and goods.",
-    "image": "https://cdn.frei.app/attractions/amritsar-old-town-market.jpg"
+    "image": "https://loremflickr.com/800/600/bazaar,market,Amritsar/all?lock=799"
   },
   {
     "id": "srinagar-city-landmark",
@@ -852,7 +852,7 @@
     "category": "landmark",
     "rating": 4.7,
     "description": "A well-known historic landmark in the city centre.",
-    "image": "https://cdn.frei.app/attractions/srinagar-city-landmark.jpg"
+    "image": "https://loremflickr.com/800/600/landmark,architecture,Srinagar/all?lock=896"
   },
   {
     "id": "srinagar-heritage-museum",
@@ -861,7 +861,7 @@
     "category": "museum",
     "rating": 4.7,
     "description": "Local museum showcasing regional history and culture.",
-    "image": "https://cdn.frei.app/attractions/srinagar-heritage-museum.jpg"
+    "image": "https://loremflickr.com/800/600/museum,gallery,Srinagar/all?lock=846"
   },
   {
     "id": "srinagar-central-park",
@@ -870,7 +870,7 @@
     "category": "nature",
     "rating": 4.1,
     "description": "Green public park popular with locals and visitors.",
-    "image": "https://cdn.frei.app/attractions/srinagar-central-park.jpg"
+    "image": "https://loremflickr.com/800/600/nature,park,Srinagar/all?lock=892"
   },
   {
     "id": "srinagar-old-town-market",
@@ -879,7 +879,7 @@
     "category": "shopping",
     "rating": 4.6,
     "description": "Traditional market street for local crafts and goods.",
-    "image": "https://cdn.frei.app/attractions/srinagar-old-town-market.jpg"
+    "image": "https://loremflickr.com/800/600/bazaar,market,Srinagar/all?lock=583"
   },
   {
     "id": "srinagar-riverside-promenade",
@@ -888,7 +888,7 @@
     "category": "nature",
     "rating": 4.7,
     "description": "Scenic walkway along the water, popular at sunset.",
-    "image": "https://cdn.frei.app/attractions/srinagar-riverside-promenade.jpg"
+    "image": "https://loremflickr.com/800/600/nature,park,Srinagar/all?lock=685"
   },
   {
     "id": "burj-khalifa",
@@ -897,7 +897,7 @@
     "category": "landmark",
     "rating": 4.7,
     "description": "The world's tallest building, with an observation deck.",
-    "image": "https://cdn.frei.app/attractions/burj-khalifa.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Burj_dubai_3.11.08.jpg/960px-Burj_dubai_3.11.08.jpg"
   },
   {
     "id": "dubai-mall",
@@ -906,7 +906,7 @@
     "category": "shopping",
     "rating": 4.5,
     "description": "One of the largest shopping malls in the world.",
-    "image": "https://cdn.frei.app/attractions/dubai-mall.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Dubai_Mall_gallery%2C_6_December_2008.jpg/960px-Dubai_Mall_gallery%2C_6_December_2008.jpg"
   },
   {
     "id": "palm-jumeirah",
@@ -915,7 +915,7 @@
     "category": "landmark",
     "rating": 4.5,
     "description": "Iconic man-made palm-shaped island.",
-    "image": "https://cdn.frei.app/attractions/palm-jumeirah.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Palm_Island_Resort.jpg/960px-Palm_Island_Resort.jpg"
   },
   {
     "id": "desert-safari-dubai",
@@ -924,7 +924,7 @@
     "category": "adventure",
     "rating": 4.8,
     "description": "Dune bashing, camel rides and a Bedouin camp dinner.",
-    "image": "https://cdn.frei.app/attractions/desert-safari-dubai.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Dubai_Desert_Safari_Liwa.jpg/960px-Dubai_Desert_Safari_Liwa.jpg"
   },
   {
     "id": "dubai-marina-walk",
@@ -933,7 +933,7 @@
     "category": "nightlife",
     "rating": 4.8,
     "description": "Waterfront promenade with restaurants and bars.",
-    "image": "https://cdn.frei.app/attractions/dubai-marina-walk.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Dubai_Marina_Walk_%28222830095%29.jpeg/960px-Dubai_Marina_Walk_%28222830095%29.jpeg"
   },
   {
     "id": "dubai-city-landmark",
@@ -942,7 +942,7 @@
     "category": "landmark",
     "rating": 4.3,
     "description": "A well-known historic landmark in the city centre.",
-    "image": "https://cdn.frei.app/attractions/dubai-city-landmark.jpg"
+    "image": "https://loremflickr.com/800/600/landmark,architecture,Dubai/all?lock=166"
   },
   {
     "id": "gardens-by-the-bay",
@@ -951,7 +951,7 @@
     "category": "nature",
     "rating": 4.1,
     "description": "Futuristic nature park with the Supertree Grove.",
-    "image": "https://cdn.frei.app/attractions/gardens-by-the-bay.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Supertree_Grove%2C_Gardens_by_the_Bay%2C_Singapore1.jpg/960px-Supertree_Grove%2C_Gardens_by_the_Bay%2C_Singapore1.jpg"
   },
   {
     "id": "marina-bay-sands-skypark",
@@ -960,7 +960,7 @@
     "category": "landmark",
     "rating": 4.1,
     "description": "Rooftop observation deck with skyline views.",
-    "image": "https://cdn.frei.app/attractions/marina-bay-sands-skypark.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Singapore_%28SG%29%2C_View_from_Marina_Bay_Sands%2C_ArtScience_Museum_--_2019_--_4714.jpg/960px-Singapore_%28SG%29%2C_View_from_Marina_Bay_Sands%2C_ArtScience_Museum_--_2019_--_4714.jpg"
   },
   {
     "id": "sentosa-island",
@@ -969,7 +969,7 @@
     "category": "adventure",
     "rating": 4.8,
     "description": "Resort island with beaches and theme parks.",
-    "image": "https://cdn.frei.app/attractions/sentosa-island.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sentosa_Island%2C_Singapore%2C_20240206_1155_6401.jpg/960px-Sentosa_Island%2C_Singapore%2C_20240206_1155_6401.jpg"
   },
   {
     "id": "chinatown-singapore",
@@ -978,7 +978,7 @@
     "category": "food",
     "rating": 4.7,
     "description": "Historic district with hawker stalls and temples.",
-    "image": "https://cdn.frei.app/attractions/chinatown-singapore.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Singapore_%28SG%29%2C_China_Town_--_2019_--_4524.jpg/960px-Singapore_%28SG%29%2C_China_Town_--_2019_--_4524.jpg"
   },
   {
     "id": "grand-palace",
@@ -987,7 +987,7 @@
     "category": "landmark",
     "rating": 4.3,
     "description": "Ornate former royal residence and Wat Phra Kaew.",
-    "image": "https://cdn.frei.app/attractions/grand-palace.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%A1_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7_%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%99%E0%B8%84%E0%B8%A3_-_Wat_Phra_Kaew%2C_Temple_of_Emerald_Buddha%2C_Bangkok%2C_Thailand.jpg/960px-thumbnail.jpg"
   },
   {
     "id": "wat-arun",
@@ -996,7 +996,7 @@
     "category": "landmark",
     "rating": 4.7,
     "description": "Riverside \"Temple of Dawn\" with a towering spire.",
-    "image": "https://cdn.frei.app/attractions/wat-arun.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Templo_Wat_Arun%2C_Bangkok%2C_Tailandia%2C_2013-08-22%2C_DD_30.jpg/960px-Templo_Wat_Arun%2C_Bangkok%2C_Tailandia%2C_2013-08-22%2C_DD_30.jpg"
   },
   {
     "id": "chatuchak-weekend-market",
@@ -1005,7 +1005,7 @@
     "category": "shopping",
     "rating": 4.7,
     "description": "One of the world's largest weekend markets.",
-    "image": "https://cdn.frei.app/attractions/chatuchak-weekend-market.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Chatuchak_Weekend_Market%2C_Bangkok%2C_Thailand_%284570440063%29.jpg/960px-Chatuchak_Weekend_Market%2C_Bangkok%2C_Thailand_%284570440063%29.jpg"
   },
   {
     "id": "khao-san-road",
@@ -1014,7 +1014,7 @@
     "category": "nightlife",
     "rating": 4.8,
     "description": "Famous backpacker street with bars and street food.",
-    "image": "https://cdn.frei.app/attractions/khao-san-road.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/2016_Bangkok%2C_Dystrykt_Phra_Nakhon%2C_Ulica_Khaosan_%2808%29.jpg/960px-2016_Bangkok%2C_Dystrykt_Phra_Nakhon%2C_Ulica_Khaosan_%2808%29.jpg"
   },
   {
     "id": "bangkok-city-landmark",
@@ -1023,7 +1023,7 @@
     "category": "landmark",
     "rating": 4.4,
     "description": "A well-known historic landmark in the city centre.",
-    "image": "https://cdn.frei.app/attractions/bangkok-city-landmark.jpg"
+    "image": "https://loremflickr.com/800/600/landmark,architecture,Bangkok/all?lock=52"
   },
   {
     "id": "uluwatu-temple",
@@ -1032,7 +1032,7 @@
     "category": "landmark",
     "rating": 4.5,
     "description": "Clifftop temple with sunset Kecak fire dances.",
-    "image": "https://cdn.frei.app/attractions/uluwatu-temple.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Luhur_Uluwatu_Temple%2C_Bali%2C_20220826_0953_1016.jpg/960px-Luhur_Uluwatu_Temple%2C_Bali%2C_20220826_0953_1016.jpg"
   },
   {
     "id": "tegallalang-rice-terraces",
@@ -1041,7 +1041,7 @@
     "category": "nature",
     "rating": 4.1,
     "description": "Iconic tiered rice paddies near Ubud.",
-    "image": "https://cdn.frei.app/attractions/tegallalang-rice-terraces.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rice_terraces%2C_Bali.jpg/960px-Rice_terraces%2C_Bali.jpg"
   },
   {
     "id": "kuta-beach",
@@ -1050,7 +1050,7 @@
     "category": "nature",
     "rating": 4.1,
     "description": "Popular surf beach with a lively boardwalk.",
-    "image": "https://cdn.frei.app/attractions/kuta-beach.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sunset%2C_Kuta%2C_Bali%2C_Indonesia%2C_20220825_1755_0879.jpg/960px-Sunset%2C_Kuta%2C_Bali%2C_Indonesia%2C_20220825_1755_0879.jpg"
   },
   {
     "id": "tanah-lot",
@@ -1059,7 +1059,7 @@
     "category": "landmark",
     "rating": 4.1,
     "description": "Sea temple perched on an offshore rock formation.",
-    "image": "https://cdn.frei.app/attractions/tanah-lot.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Tanah_Lot%2C_Bali%2C_Indonesia%2C_20220827_1008_1159.jpg/960px-Tanah_Lot%2C_Bali%2C_Indonesia%2C_20220827_1008_1159.jpg"
   },
   {
     "id": "ubud-monkey-forest",
@@ -1068,7 +1068,7 @@
     "category": "nature",
     "rating": 4.1,
     "description": "Sacred sanctuary home to long-tailed macaques.",
-    "image": "https://cdn.frei.app/attractions/ubud-monkey-forest.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Macaca_fascicularis%2C_Ubud_Monkey_Forest%2C_Bali%2C_20220822_1012_9935.jpg/960px-Macaca_fascicularis%2C_Ubud_Monkey_Forest%2C_Bali%2C_20220822_1012_9935.jpg"
   },
   {
     "id": "bali-city-landmark",
@@ -1077,7 +1077,7 @@
     "category": "landmark",
     "rating": 4.7,
     "description": "A well-known historic landmark in the city centre.",
-    "image": "https://cdn.frei.app/attractions/bali-city-landmark.jpg"
+    "image": "https://loremflickr.com/800/600/landmark,architecture,Bali/all?lock=817"
   },
   {
     "id": "kuala-lumpur-city-landmark",
@@ -1086,7 +1086,7 @@
     "category": "landmark",
     "rating": 4.3,
     "description": "A well-known historic landmark in the city centre.",
-    "image": "https://cdn.frei.app/attractions/kuala-lumpur-city-landmark.jpg"
+    "image": "https://loremflickr.com/800/600/landmark,architecture,Kuala%20Lumpur/all?lock=351"
   },
   {
     "id": "kuala-lumpur-heritage-museum",
@@ -1095,7 +1095,7 @@
     "category": "museum",
     "rating": 4.3,
     "description": "Local museum showcasing regional history and culture.",
-    "image": "https://cdn.frei.app/attractions/kuala-lumpur-heritage-museum.jpg"
+    "image": "https://loremflickr.com/800/600/museum,gallery,Kuala%20Lumpur/all?lock=805"
   },
   {
     "id": "kuala-lumpur-central-park",
@@ -1104,7 +1104,7 @@
     "category": "nature",
     "rating": 4,
     "description": "Green public park popular with locals and visitors.",
-    "image": "https://cdn.frei.app/attractions/kuala-lumpur-central-park.jpg"
+    "image": "https://loremflickr.com/800/600/nature,park,Kuala%20Lumpur/all?lock=437"
   },
   {
     "id": "kuala-lumpur-old-town-market",
@@ -1113,7 +1113,7 @@
     "category": "shopping",
     "rating": 4.4,
     "description": "Traditional market street for local crafts and goods.",
-    "image": "https://cdn.frei.app/attractions/kuala-lumpur-old-town-market.jpg"
+    "image": "https://loremflickr.com/800/600/bazaar,market,Kuala%20Lumpur/all?lock=542"
   },
   {
     "id": "tower-of-london",
@@ -1122,7 +1122,7 @@
     "category": "landmark",
     "rating": 4.9,
     "description": "Historic castle housing the Crown Jewels.",
-    "image": "https://cdn.frei.app/attractions/tower-of-london.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Jubilee_and_Munin%2C_Ravens%2C_Tower_of_London_2016-04-30.jpg/960px-Jubilee_and_Munin%2C_Ravens%2C_Tower_of_London_2016-04-30.jpg"
   },
   {
     "id": "british-museum",
@@ -1131,7 +1131,7 @@
     "category": "museum",
     "rating": 4.5,
     "description": "World-renowned museum of human history and culture.",
-    "image": "https://cdn.frei.app/attractions/british-museum.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/British_Museum_Great_Court%2C_London%2C_UK_-_Diliff.jpg/960px-British_Museum_Great_Court%2C_London%2C_UK_-_Diliff.jpg"
   },
   {
     "id": "buckingham-palace",
@@ -1140,7 +1140,7 @@
     "category": "landmark",
     "rating": 4.1,
     "description": "The King's official London residence.",
-    "image": "https://cdn.frei.app/attractions/buckingham-palace.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Buckingham_Palace%2C_London_-_April_2009.jpg/960px-Buckingham_Palace%2C_London_-_April_2009.jpg"
   },
   {
     "id": "camden-market",
@@ -1149,7 +1149,7 @@
     "category": "shopping",
     "rating": 4.6,
     "description": "Eclectic market known for food stalls and crafts.",
-    "image": "https://cdn.frei.app/attractions/camden-market.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Camden_market.jpg/960px-Camden_market.jpg"
   },
   {
     "id": "west-end-theatre-district",
@@ -1158,7 +1158,7 @@
     "category": "nightlife",
     "rating": 4.1,
     "description": "Home to London's famous musicals and shows.",
-    "image": "https://cdn.frei.app/attractions/west-end-theatre-district.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Shaftesbury_Avenue_in_the_West_End_theatre_district.jpg/960px-Shaftesbury_Avenue_in_the_West_End_theatre_district.jpg"
   },
   {
     "id": "eiffel-tower",
@@ -1167,7 +1167,7 @@
     "category": "landmark",
     "rating": 4.7,
     "description": "The wrought-iron icon of Paris.",
-    "image": "https://cdn.frei.app/attractions/eiffel-tower.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Tour_Eiffel_Wikimedia_Commons.jpg/960px-Tour_Eiffel_Wikimedia_Commons.jpg"
   },
   {
     "id": "louvre-museum",
@@ -1176,7 +1176,7 @@
     "category": "museum",
     "rating": 4.4,
     "description": "The world's most-visited art museum, home to the Mona Lisa.",
-    "image": "https://cdn.frei.app/attractions/louvre-museum.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Cour_Napol%C3%A9on_at_night_-_Louvre.jpg/960px-Cour_Napol%C3%A9on_at_night_-_Louvre.jpg"
   },
   {
     "id": "notre-dame-cathedral",
@@ -1185,7 +1185,7 @@
     "category": "landmark",
     "rating": 4.5,
     "description": "Gothic masterpiece on the Île de la Cité.",
-    "image": "https://cdn.frei.app/attractions/notre-dame-cathedral.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Paris%2C_Notre_Dame_--_2014_--_1458-65.jpg/960px-Paris%2C_Notre_Dame_--_2014_--_1458-65.jpg"
   },
   {
     "id": "montmartre",
@@ -1194,7 +1194,7 @@
     "category": "landmark",
     "rating": 4.6,
     "description": "Artsy hilltop district crowned by Sacré-Cœur.",
-    "image": "https://cdn.frei.app/attractions/montmartre.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/L%27escalier_de_droite_menant_%C3%A0_la_Basilique_de_Montmartre_-_GT_03_-_2024.jpg/960px-L%27escalier_de_droite_menant_%C3%A0_la_Basilique_de_Montmartre_-_GT_03_-_2024.jpg"
   },
   {
     "id": "le-marais",
@@ -1203,7 +1203,7 @@
     "category": "food",
     "rating": 4.2,
     "description": "Historic quarter packed with bistros and boutiques.",
-    "image": "https://cdn.frei.app/attractions/le-marais.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/H%C3%B4tel_H%C3%A9rouet%2C_Le_Marais%2C_Paris_May_2017.jpg/960px-H%C3%B4tel_H%C3%A9rouet%2C_Le_Marais%2C_Paris_May_2017.jpg"
   },
   {
     "id": "paris-city-landmark",
@@ -1212,7 +1212,7 @@
     "category": "landmark",
     "rating": 4.1,
     "description": "A well-known historic landmark in the city centre.",
-    "image": "https://cdn.frei.app/attractions/paris-city-landmark.jpg"
+    "image": "https://loremflickr.com/800/600/landmark,architecture,Paris/all?lock=936"
   },
   {
     "id": "statue-of-liberty",
@@ -1221,7 +1221,7 @@
     "category": "landmark",
     "rating": 4.4,
     "description": "Iconic neoclassical statue on Liberty Island.",
-    "image": "https://cdn.frei.app/attractions/statue-of-liberty.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/fd/National_Park_Service_9-11_Statue_of_Liberty_and_WTC_fire.jpg"
   },
   {
     "id": "central-park",
@@ -1230,7 +1230,7 @@
     "category": "nature",
     "rating": 4.1,
     "description": "Sprawling urban park in the heart of Manhattan.",
-    "image": "https://cdn.frei.app/attractions/central-park.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Central_Park_New_York_City_New_York_23_cropped.jpg/960px-Central_Park_New_York_City_New_York_23_cropped.jpg"
   },
   {
     "id": "metropolitan-museum-of-art",
@@ -1239,7 +1239,7 @@
     "category": "museum",
     "rating": 4.3,
     "description": "One of the world's largest and finest art museums.",
-    "image": "https://cdn.frei.app/attractions/metropolitan-museum-of-art.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Bust_of_Shapur_II_the_Great_in_the_Metropolitan_Museum_of_Art.jpg/960px-Bust_of_Shapur_II_the_Great_in_the_Metropolitan_Museum_of_Art.jpg"
   },
   {
     "id": "times-square",
@@ -1248,7 +1248,7 @@
     "category": "nightlife",
     "rating": 4.6,
     "description": "Neon-lit hub of Broadway and entertainment.",
-    "image": "https://cdn.frei.app/attractions/times-square.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Times_Square_Ball_from_above.jpg/960px-Times_Square_Ball_from_above.jpg"
   },
   {
     "id": "senso-ji-temple",
@@ -1257,7 +1257,7 @@
     "category": "landmark",
     "rating": 4.5,
     "description": "Tokyo's oldest and most iconic Buddhist temple.",
-    "image": "https://cdn.frei.app/attractions/senso-ji-temple.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Five-storied_Pagoda%2C_Sensoji%2C_Tokyo%2C_20240824_1103_5616.jpg/960px-Five-storied_Pagoda%2C_Sensoji%2C_Tokyo%2C_20240824_1103_5616.jpg"
   },
   {
     "id": "shibuya-crossing",
@@ -1266,7 +1266,7 @@
     "category": "landmark",
     "rating": 4.4,
     "description": "The world's busiest pedestrian scramble crossing.",
-    "image": "https://cdn.frei.app/attractions/shibuya-crossing.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Tokyo_Shibuya_Scramble_Crossing_2018-10-09.jpg/960px-Tokyo_Shibuya_Scramble_Crossing_2018-10-09.jpg"
   },
   {
     "id": "tokyo-skytree",
@@ -1275,7 +1275,7 @@
     "category": "landmark",
     "rating": 4.1,
     "description": "Tallest structure in Japan with panoramic views.",
-    "image": "https://cdn.frei.app/attractions/tokyo-skytree.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Worm%27s-eye_view_of_Tokyo_Skytree_with_vertical_symmetry_impression%2C_a_sunny_day%2C_in_Japan.jpg/960px-Worm%27s-eye_view_of_Tokyo_Skytree_with_vertical_symmetry_impression%2C_a_sunny_day%2C_in_Japan.jpg"
   },
   {
     "id": "tsukiji-outer-market",
@@ -1284,7 +1284,7 @@
     "category": "food",
     "rating": 4.5,
     "description": "Famed market for fresh seafood and street food.",
-    "image": "https://cdn.frei.app/attractions/tsukiji-outer-market.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Tsukiji_Outer_Market_2.jpg/960px-Tsukiji_Outer_Market_2.jpg"
   },
   {
     "id": "akihabara",
@@ -1293,7 +1293,7 @@
     "category": "shopping",
     "rating": 4.5,
     "description": "Electronics and anime/manga culture district.",
-    "image": "https://cdn.frei.app/attractions/akihabara.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Claw_cranes_with_kawaii_stuffed_mascots_and_a_woman_playing%2C_Akihabara%2C_Chiyoda%2C_Tokyo%2C_Japan.jpg/960px-Claw_cranes_with_kawaii_stuffed_mascots_and_a_woman_playing%2C_Akihabara%2C_Chiyoda%2C_Tokyo%2C_Japan.jpg"
   },
   {
     "id": "sydney-opera-house",
@@ -1302,7 +1302,7 @@
     "category": "landmark",
     "rating": 4.6,
     "description": "Iconic performing arts venue on the harbour.",
-    "image": "https://cdn.frei.app/attractions/sydney-opera-house.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Sydney_Opera_House_-_Dec_2008.jpg/960px-Sydney_Opera_House_-_Dec_2008.jpg"
   },
   {
     "id": "sydney-harbour-bridge",
@@ -1311,7 +1311,7 @@
     "category": "landmark",
     "rating": 4.3,
     "description": "Steel arch bridge with a famous climb experience.",
-    "image": "https://cdn.frei.app/attractions/sydney-harbour-bridge.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Sydney_Harbour_Bridge_from_Circular_Quay.jpg/960px-Sydney_Harbour_Bridge_from_Circular_Quay.jpg"
   },
   {
     "id": "bondi-beach",
@@ -1320,7 +1320,7 @@
     "category": "nature",
     "rating": 4.9,
     "description": "Famous beach known for surfing and the coastal walk.",
-    "image": "https://cdn.frei.app/attractions/bondi-beach.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Sydney_%28AU%29%2C_Bondi_Beach_--_2019_--_2354.jpg/960px-Sydney_%28AU%29%2C_Bondi_Beach_--_2019_--_2354.jpg"
   },
   {
     "id": "taronga-zoo",
@@ -1329,7 +1329,7 @@
     "category": "adventure",
     "rating": 4.2,
     "description": "Harbourside zoo with native Australian wildlife.",
-    "image": "https://cdn.frei.app/attractions/taronga-zoo.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Taronga_Zoo_ferry_wharf_from_ferry.jpg/960px-Taronga_Zoo_ferry_wharf_from_ferry.jpg"
   },
   {
     "id": "sydney-city-landmark",
@@ -1338,7 +1338,7 @@
     "category": "landmark",
     "rating": 4.8,
     "description": "A well-known historic landmark in the city centre.",
-    "image": "https://cdn.frei.app/attractions/sydney-city-landmark.jpg"
+    "image": "https://loremflickr.com/800/600/landmark,architecture,Sydney/all?lock=489"
   },
   {
     "id": "sydney-heritage-museum",
@@ -1347,7 +1347,7 @@
     "category": "museum",
     "rating": 4.8,
     "description": "Local museum showcasing regional history and culture.",
-    "image": "https://cdn.frei.app/attractions/sydney-heritage-museum.jpg"
+    "image": "https://loremflickr.com/800/600/museum,gallery,Sydney/all?lock=111"
   },
   {
     "id": "colosseum",
@@ -1356,7 +1356,7 @@
     "category": "landmark",
     "rating": 4.5,
     "description": "Ancient amphitheatre and symbol of Rome.",
-    "image": "https://cdn.frei.app/attractions/colosseum.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Colosseum_in_Rome-April_2007-1-_copie_2B.jpg/960px-Colosseum_in_Rome-April_2007-1-_copie_2B.jpg"
   },
   {
     "id": "vatican-museums",
@@ -1365,7 +1365,7 @@
     "category": "museum",
     "rating": 4.2,
     "description": "Home to the Sistine Chapel and vast papal art collections.",
-    "image": "https://cdn.frei.app/attractions/vatican-museums.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Vatican_Museums_Spiral_Staircase_Looking_Up_2012.jpg/960px-Vatican_Museums_Spiral_Staircase_Looking_Up_2012.jpg"
   },
   {
     "id": "trevi-fountain",
@@ -1374,7 +1374,7 @@
     "category": "landmark",
     "rating": 4.3,
     "description": "Baroque fountain famed for its coin-tossing tradition.",
-    "image": "https://cdn.frei.app/attractions/trevi-fountain.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Oceanus_%28Trevi_fountain%29.jpg/960px-Oceanus_%28Trevi_fountain%29.jpg"
   },
   {
     "id": "roman-forum",
@@ -1383,7 +1383,7 @@
     "category": "landmark",
     "rating": 4.2,
     "description": "Ruins of the ancient city's civic core.",
-    "image": "https://cdn.frei.app/attractions/roman-forum.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Foro_Romano_Musei_Capitolini_Roma.jpg/960px-Foro_Romano_Musei_Capitolini_Roma.jpg"
   },
   {
     "id": "hagia-sophia",
@@ -1392,7 +1392,7 @@
     "category": "landmark",
     "rating": 4.6,
     "description": "Byzantine-era domed monument turned mosque.",
-    "image": "https://cdn.frei.app/attractions/hagia-sophia.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Hagia_Sophia_Mars_2013.jpg/960px-Hagia_Sophia_Mars_2013.jpg"
   },
   {
     "id": "blue-mosque",
@@ -1401,7 +1401,7 @@
     "category": "landmark",
     "rating": 4.8,
     "description": "Ottoman mosque famed for its blue tiled interior.",
-    "image": "https://cdn.frei.app/attractions/blue-mosque.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Blue_Mosque_Courtyard_Dusk_Wikimedia_Commons.jpg/960px-Blue_Mosque_Courtyard_Dusk_Wikimedia_Commons.jpg"
   },
   {
     "id": "grand-bazaar",
@@ -1410,7 +1410,7 @@
     "category": "shopping",
     "rating": 4.4,
     "description": "One of the world's oldest and largest covered markets.",
-    "image": "https://cdn.frei.app/attractions/grand-bazaar.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Sample_of_Tee_-_Grand_Bazaar.JPG/960px-Sample_of_Tee_-_Grand_Bazaar.JPG"
   },
   {
     "id": "bosphorus-cruise",
@@ -1419,7 +1419,7 @@
     "category": "adventure",
     "rating": 4.7,
     "description": "Scenic boat tour between Europe and Asia.",
-    "image": "https://cdn.frei.app/attractions/bosphorus-cruise.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Istanbul_Bosphorus_Cruise_ship_Ruby_Princess_IMG_7920_1920.jpg/960px-Istanbul_Bosphorus_Cruise_ship_Ruby_Princess_IMG_7920_1920.jpg"
   },
   {
     "id": "istanbul-city-landmark",
@@ -1428,7 +1428,7 @@
     "category": "landmark",
     "rating": 4.7,
     "description": "A well-known historic landmark in the city centre.",
-    "image": "https://cdn.frei.app/attractions/istanbul-city-landmark.jpg"
+    "image": "https://loremflickr.com/800/600/landmark,architecture,Istanbul/all?lock=967"
   },
   {
     "id": "doha-city-landmark",
@@ -1437,7 +1437,7 @@
     "category": "landmark",
     "rating": 4.9,
     "description": "A well-known historic landmark in the city centre.",
-    "image": "https://cdn.frei.app/attractions/doha-city-landmark.jpg"
+    "image": "https://loremflickr.com/800/600/landmark,architecture,Doha/all?lock=513"
   },
   {
     "id": "doha-heritage-museum",
@@ -1446,7 +1446,7 @@
     "category": "museum",
     "rating": 4.5,
     "description": "Local museum showcasing regional history and culture.",
-    "image": "https://cdn.frei.app/attractions/doha-heritage-museum.jpg"
+    "image": "https://loremflickr.com/800/600/museum,gallery,Doha/all?lock=375"
   },
   {
     "id": "doha-central-park",
@@ -1455,7 +1455,7 @@
     "category": "nature",
     "rating": 4.6,
     "description": "Green public park popular with locals and visitors.",
-    "image": "https://cdn.frei.app/attractions/doha-central-park.jpg"
+    "image": "https://loremflickr.com/800/600/nature,park,Doha/all?lock=219"
   },
   {
     "id": "doha-old-town-market",
@@ -1464,7 +1464,7 @@
     "category": "shopping",
     "rating": 4.7,
     "description": "Traditional market street for local crafts and goods.",
-    "image": "https://cdn.frei.app/attractions/doha-old-town-market.jpg"
+    "image": "https://loremflickr.com/800/600/bazaar,market,Doha/all?lock=112"
   },
   {
     "id": "doha-riverside-promenade",
@@ -1473,7 +1473,7 @@
     "category": "nature",
     "rating": 4.3,
     "description": "Scenic walkway along the water, popular at sunset.",
-    "image": "https://cdn.frei.app/attractions/doha-riverside-promenade.jpg"
+    "image": "https://loremflickr.com/800/600/nature,park,Doha/all?lock=286"
   },
   {
     "id": "doha-night-bazaar",
@@ -1482,7 +1482,7 @@
     "category": "nightlife",
     "rating": 4.5,
     "description": "Evening market and food street popular after dark.",
-    "image": "https://cdn.frei.app/attractions/doha-night-bazaar.jpg"
+    "image": "https://loremflickr.com/800/600/nightlife,bar,Doha/all?lock=789"
   },
   {
     "id": "hong-kong-city-landmark",
@@ -1491,7 +1491,7 @@
     "category": "landmark",
     "rating": 4.1,
     "description": "A well-known historic landmark in the city centre.",
-    "image": "https://cdn.frei.app/attractions/hong-kong-city-landmark.jpg"
+    "image": "https://loremflickr.com/800/600/landmark,architecture,Hong%20Kong/all?lock=495"
   },
   {
     "id": "hong-kong-heritage-museum",
@@ -1500,7 +1500,7 @@
     "category": "museum",
     "rating": 4.7,
     "description": "Local museum showcasing regional history and culture.",
-    "image": "https://cdn.frei.app/attractions/hong-kong-heritage-museum.jpg"
+    "image": "https://loremflickr.com/800/600/museum,gallery,Hong%20Kong/all?lock=669"
   },
   {
     "id": "hong-kong-central-park",
@@ -1509,7 +1509,7 @@
     "category": "nature",
     "rating": 4.1,
     "description": "Green public park popular with locals and visitors.",
-    "image": "https://cdn.frei.app/attractions/hong-kong-central-park.jpg"
+    "image": "https://loremflickr.com/800/600/nature,park,Hong%20Kong/all?lock=413"
   },
   {
     "id": "hong-kong-old-town-market",
@@ -1518,7 +1518,7 @@
     "category": "shopping",
     "rating": 4,
     "description": "Traditional market street for local crafts and goods.",
-    "image": "https://cdn.frei.app/attractions/hong-kong-old-town-market.jpg"
+    "image": "https://loremflickr.com/800/600/bazaar,market,Hong%20Kong/all?lock=406"
   },
   {
     "id": "seoul-city-landmark",
@@ -1527,7 +1527,7 @@
     "category": "landmark",
     "rating": 4.1,
     "description": "A well-known historic landmark in the city centre.",
-    "image": "https://cdn.frei.app/attractions/seoul-city-landmark.jpg"
+    "image": "https://loremflickr.com/800/600/landmark,architecture,Seoul/all?lock=809"
   },
   {
     "id": "seoul-heritage-museum",
@@ -1536,7 +1536,7 @@
     "category": "museum",
     "rating": 4.1,
     "description": "Local museum showcasing regional history and culture.",
-    "image": "https://cdn.frei.app/attractions/seoul-heritage-museum.jpg"
+    "image": "https://loremflickr.com/800/600/museum,gallery,Seoul/all?lock=447"
   },
   {
     "id": "seoul-central-park",
@@ -1545,7 +1545,7 @@
     "category": "nature",
     "rating": 4.8,
     "description": "Green public park popular with locals and visitors.",
-    "image": "https://cdn.frei.app/attractions/seoul-central-park.jpg"
+    "image": "https://loremflickr.com/800/600/nature,park,Seoul/all?lock=771"
   },
   {
     "id": "seoul-old-town-market",
@@ -1554,7 +1554,7 @@
     "category": "shopping",
     "rating": 4.4,
     "description": "Traditional market street for local crafts and goods.",
-    "image": "https://cdn.frei.app/attractions/seoul-old-town-market.jpg"
+    "image": "https://loremflickr.com/800/600/bazaar,market,Seoul/all?lock=184"
   },
   {
     "id": "seoul-riverside-promenade",
@@ -1563,7 +1563,7 @@
     "category": "nature",
     "rating": 4.8,
     "description": "Scenic walkway along the water, popular at sunset.",
-    "image": "https://cdn.frei.app/attractions/seoul-riverside-promenade.jpg"
+    "image": "https://loremflickr.com/800/600/nature,park,Seoul/all?lock=430"
   },
   {
     "id": "amsterdam-city-landmark",
@@ -1572,7 +1572,7 @@
     "category": "landmark",
     "rating": 4.2,
     "description": "A well-known historic landmark in the city centre.",
-    "image": "https://cdn.frei.app/attractions/amsterdam-city-landmark.jpg"
+    "image": "https://loremflickr.com/800/600/landmark,architecture,Amsterdam/all?lock=27"
   },
   {
     "id": "amsterdam-heritage-museum",
@@ -1581,7 +1581,7 @@
     "category": "museum",
     "rating": 4.5,
     "description": "Local museum showcasing regional history and culture.",
-    "image": "https://cdn.frei.app/attractions/amsterdam-heritage-museum.jpg"
+    "image": "https://loremflickr.com/800/600/museum,gallery,Amsterdam/all?lock=761"
   },
   {
     "id": "amsterdam-central-park",
@@ -1590,7 +1590,7 @@
     "category": "nature",
     "rating": 4.5,
     "description": "Green public park popular with locals and visitors.",
-    "image": "https://cdn.frei.app/attractions/amsterdam-central-park.jpg"
+    "image": "https://loremflickr.com/800/600/nature,park,Amsterdam/all?lock=97"
   },
   {
     "id": "amsterdam-old-town-market",
@@ -1599,7 +1599,7 @@
     "category": "shopping",
     "rating": 4.5,
     "description": "Traditional market street for local crafts and goods.",
-    "image": "https://cdn.frei.app/attractions/amsterdam-old-town-market.jpg"
+    "image": "https://loremflickr.com/800/600/bazaar,market,Amsterdam/all?lock=498"
   },
   {
     "id": "amsterdam-riverside-promenade",
@@ -1608,7 +1608,7 @@
     "category": "nature",
     "rating": 4.3,
     "description": "Scenic walkway along the water, popular at sunset.",
-    "image": "https://cdn.frei.app/attractions/amsterdam-riverside-promenade.jpg"
+    "image": "https://loremflickr.com/800/600/nature,park,Amsterdam/all?lock=112"
   },
   {
     "id": "amsterdam-night-bazaar",
@@ -1617,7 +1617,7 @@
     "category": "nightlife",
     "rating": 4.9,
     "description": "Evening market and food street popular after dark.",
-    "image": "https://cdn.frei.app/attractions/amsterdam-night-bazaar.jpg"
+    "image": "https://loremflickr.com/800/600/nightlife,bar,Amsterdam/all?lock=667"
   },
   {
     "id": "male-city-landmark",
@@ -1626,7 +1626,7 @@
     "category": "landmark",
     "rating": 4,
     "description": "A well-known historic landmark in the city centre.",
-    "image": "https://cdn.frei.app/attractions/male-city-landmark.jpg"
+    "image": "https://loremflickr.com/800/600/landmark,architecture,Male/all?lock=882"
   },
   {
     "id": "male-heritage-museum",
@@ -1635,7 +1635,7 @@
     "category": "museum",
     "rating": 4.2,
     "description": "Local museum showcasing regional history and culture.",
-    "image": "https://cdn.frei.app/attractions/male-heritage-museum.jpg"
+    "image": "https://loremflickr.com/800/600/museum,gallery,Male/all?lock=328"
   },
   {
     "id": "male-central-park",
@@ -1644,7 +1644,7 @@
     "category": "nature",
     "rating": 4.3,
     "description": "Green public park popular with locals and visitors.",
-    "image": "https://cdn.frei.app/attractions/male-central-park.jpg"
+    "image": "https://loremflickr.com/800/600/nature,park,Male/all?lock=226"
   },
   {
     "id": "male-old-town-market",
@@ -1653,7 +1653,7 @@
     "category": "shopping",
     "rating": 4.6,
     "description": "Traditional market street for local crafts and goods.",
-    "image": "https://cdn.frei.app/attractions/male-old-town-market.jpg"
+    "image": "https://loremflickr.com/800/600/bazaar,market,Male/all?lock=65"
   },
   {
     "id": "kathmandu-city-landmark",
@@ -1662,7 +1662,7 @@
     "category": "landmark",
     "rating": 4.8,
     "description": "A well-known historic landmark in the city centre.",
-    "image": "https://cdn.frei.app/attractions/kathmandu-city-landmark.jpg"
+    "image": "https://loremflickr.com/800/600/landmark,architecture,Kathmandu/all?lock=534"
   },
   {
     "id": "kathmandu-heritage-museum",
@@ -1671,7 +1671,7 @@
     "category": "museum",
     "rating": 4.5,
     "description": "Local museum showcasing regional history and culture.",
-    "image": "https://cdn.frei.app/attractions/kathmandu-heritage-museum.jpg"
+    "image": "https://loremflickr.com/800/600/museum,gallery,Kathmandu/all?lock=364"
   },
   {
     "id": "kathmandu-central-park",
@@ -1680,7 +1680,7 @@
     "category": "nature",
     "rating": 4.1,
     "description": "Green public park popular with locals and visitors.",
-    "image": "https://cdn.frei.app/attractions/kathmandu-central-park.jpg"
+    "image": "https://loremflickr.com/800/600/nature,park,Kathmandu/all?lock=14"
   },
   {
     "id": "kathmandu-old-town-market",
@@ -1689,7 +1689,7 @@
     "category": "shopping",
     "rating": 4.8,
     "description": "Traditional market street for local crafts and goods.",
-    "image": "https://cdn.frei.app/attractions/kathmandu-old-town-market.jpg"
+    "image": "https://loremflickr.com/800/600/bazaar,market,Kathmandu/all?lock=101"
   },
   {
     "id": "kathmandu-riverside-promenade",
@@ -1698,7 +1698,7 @@
     "category": "nature",
     "rating": 4.2,
     "description": "Scenic walkway along the water, popular at sunset.",
-    "image": "https://cdn.frei.app/attractions/kathmandu-riverside-promenade.jpg"
+    "image": "https://loremflickr.com/800/600/nature,park,Kathmandu/all?lock=963"
   },
   {
     "id": "colombo-city-landmark",
@@ -1707,7 +1707,7 @@
     "category": "landmark",
     "rating": 4.8,
     "description": "A well-known historic landmark in the city centre.",
-    "image": "https://cdn.frei.app/attractions/colombo-city-landmark.jpg"
+    "image": "https://loremflickr.com/800/600/landmark,architecture,Colombo/all?lock=368"
   },
   {
     "id": "colombo-heritage-museum",
@@ -1716,7 +1716,7 @@
     "category": "museum",
     "rating": 4.9,
     "description": "Local museum showcasing regional history and culture.",
-    "image": "https://cdn.frei.app/attractions/colombo-heritage-museum.jpg"
+    "image": "https://loremflickr.com/800/600/museum,gallery,Colombo/all?lock=806"
   },
   {
     "id": "colombo-central-park",
@@ -1725,7 +1725,7 @@
     "category": "nature",
     "rating": 4.2,
     "description": "Green public park popular with locals and visitors.",
-    "image": "https://cdn.frei.app/attractions/colombo-central-park.jpg"
+    "image": "https://loremflickr.com/800/600/nature,park,Colombo/all?lock=428"
   },
   {
     "id": "colombo-old-town-market",
@@ -1734,7 +1734,7 @@
     "category": "shopping",
     "rating": 4.2,
     "description": "Traditional market street for local crafts and goods.",
-    "image": "https://cdn.frei.app/attractions/colombo-old-town-market.jpg"
+    "image": "https://loremflickr.com/800/600/bazaar,market,Colombo/all?lock=543"
   },
   {
     "id": "colombo-riverside-promenade",
@@ -1743,7 +1743,7 @@
     "category": "nature",
     "rating": 4.5,
     "description": "Scenic walkway along the water, popular at sunset.",
-    "image": "https://cdn.frei.app/attractions/colombo-riverside-promenade.jpg"
+    "image": "https://loremflickr.com/800/600/nature,park,Colombo/all?lock=469"
   },
   {
     "id": "colombo-night-bazaar",
@@ -1752,7 +1752,7 @@
     "category": "nightlife",
     "rating": 4.7,
     "description": "Evening market and food street popular after dark.",
-    "image": "https://cdn.frei.app/attractions/colombo-night-bazaar.jpg"
+    "image": "https://loremflickr.com/800/600/nightlife,bar,Colombo/all?lock=998"
   },
   {
     "id": "san-francisco-city-landmark",
@@ -1761,7 +1761,7 @@
     "category": "landmark",
     "rating": 4.4,
     "description": "A well-known historic landmark in the city centre.",
-    "image": "https://cdn.frei.app/attractions/san-francisco-city-landmark.jpg"
+    "image": "https://loremflickr.com/800/600/landmark,architecture,San%20Francisco/all?lock=376"
   },
   {
     "id": "san-francisco-heritage-museum",
@@ -1770,7 +1770,7 @@
     "category": "museum",
     "rating": 4.5,
     "description": "Local museum showcasing regional history and culture.",
-    "image": "https://cdn.frei.app/attractions/san-francisco-heritage-museum.jpg"
+    "image": "https://loremflickr.com/800/600/museum,gallery,San%20Francisco/all?lock=478"
   },
   {
     "id": "san-francisco-central-park",
@@ -1779,7 +1779,7 @@
     "category": "nature",
     "rating": 4.8,
     "description": "Green public park popular with locals and visitors.",
-    "image": "https://cdn.frei.app/attractions/san-francisco-central-park.jpg"
+    "image": "https://loremflickr.com/800/600/nature,park,San%20Francisco/all?lock=236"
   },
   {
     "id": "san-francisco-old-town-market",
@@ -1788,6 +1788,6 @@
     "category": "shopping",
     "rating": 4.6,
     "description": "Traditional market street for local crafts and goods.",
-    "image": "https://cdn.frei.app/attractions/san-francisco-old-town-market.jpg"
+    "image": "https://loremflickr.com/800/600/bazaar,market,San%20Francisco/all?lock=215"
   }
 ]
